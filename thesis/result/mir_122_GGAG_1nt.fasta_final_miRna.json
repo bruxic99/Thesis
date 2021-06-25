@@ -1,0 +1,4395 @@
+{
+    "0": {
+        "homologies": [
+            "ENSG00000149187",
+            "ENSG00000101489",
+            "ENSG00000048740"
+        ],
+        "ENSG00000149187": {
+            "protein_id": [
+                "ENSP00000308386",
+                "ENSP00000378705",
+                "ENSP00000351409",
+                "ENSP00000378706",
+                "ENSP00000354639",
+                "ENSP00000436864",
+                "ENSP00000435926",
+                "ENSP00000433986",
+                "ENSP00000435320",
+                "ENSP00000436191",
+                "ENSP00000444825",
+                "ENSP00000438044",
+                "ENSP00000435423",
+                "ENSP00000442415",
+                "ENSP00000438862"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000149187",
+                    "UGUU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000149187",
+                    "UGUUU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGUG_9",
+                    "UGGUGUGUGACAAUGGUGUUUG",
+                    "ENSG00000149187",
+                    "UGUGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGUG_9",
+                    "UGGUGUGUGACAAUGGUGUUUG",
+                    "ENSG00000149187",
+                    "UGUGUG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGUG_9",
+                    "UGGUGUGUGACAAUGGUGUUUG",
+                    "ENSG00000149187",
+                    "UGUGUG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAU_10",
+                    "UGGAUUGUGACAAUGGUGUUUG",
+                    "ENSG00000149187",
+                    "UUGUG"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000381",
+                    "regulation of alternative mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0000900",
+                    "translation repressor activity, mRNA regulatory element binding"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0003729",
+                    "mRNA binding"
+                ],
+                [
+                    "GO:0003730",
+                    "mRNA 3'-UTR binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0006376",
+                    "mRNA splice site selection"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0007281",
+                    "germ cell development"
+                ],
+                [
+                    "GO:0008285",
+                    "negative regulation of cell population proliferation"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0009792",
+                    "embryo development ending in birth or egg hatching"
+                ],
+                [
+                    "GO:0010494",
+                    "cytoplasmic stress granule"
+                ],
+                [
+                    "GO:0010628",
+                    "positive regulation of gene expression"
+                ],
+                [
+                    "GO:0010629",
+                    "negative regulation of gene expression"
+                ],
+                [
+                    "GO:0010942",
+                    "positive regulation of cell death"
+                ],
+                [
+                    "GO:0016020",
+                    "membrane"
+                ],
+                [
+                    "GO:0016246",
+                    "RNA interference"
+                ],
+                [
+                    "GO:0016441",
+                    "posttranscriptional gene silencing"
+                ],
+                [
+                    "GO:0036002",
+                    "pre-mRNA binding"
+                ],
+                [
+                    "GO:0042835",
+                    "BRE binding"
+                ],
+                [
+                    "GO:0043484",
+                    "regulation of RNA splicing"
+                ],
+                [
+                    "GO:0050727",
+                    "regulation of inflammatory response"
+                ],
+                [
+                    "GO:0061157",
+                    "mRNA destabilization"
+                ],
+                [
+                    "GO:0097356",
+                    "perinucleolar compartment"
+                ],
+                [
+                    "GO:1990904",
+                    "ribonucleoprotein complex"
+                ],
+                [
+                    "GO:0007286",
+                    "spermatid development"
+                ],
+                [
+                    "GO:0021987",
+                    "cerebral cortex development"
+                ],
+                [
+                    "GO:0031369",
+                    "translation initiation factor binding"
+                ],
+                [
+                    "GO:0040018",
+                    "positive regulation of multicellular organism growth"
+                ],
+                [
+                    "GO:0071158",
+                    "positive regulation of cell cycle arrest"
+                ]
+            ]
+        },
+        "ENSG00000101489": {
+            "protein_id": [
+                "ENSP00000465348",
+                "ENSP00000468256",
+                "ENSP00000335631",
+                "ENSP00000464917",
+                "ENSP00000468428",
+                "ENSP00000469627",
+                "ENSP00000355089",
+                "ENSP00000474788",
+                "ENSP00000471616",
+                "ENSP00000464794",
+                "ENSP00000464996",
+                "ENSP00000465125",
+                "ENSP00000468109",
+                "ENSP00000467056",
+                "ENSP00000470649",
+                "ENSP00000467732",
+                "ENSP00000465211",
+                "ENSP00000467571",
+                "ENSP00000410584"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000101489",
+                    "GGUGUUU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGUG_9",
+                    "UGGUGUGUGACAAUGGUGUUUG",
+                    "ENSG00000101489",
+                    "GGUGUGU"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0000380",
+                    "alternative mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0000381",
+                    "regulation of alternative mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0000900",
+                    "translation repressor activity, mRNA regulatory element binding"
+                ],
+                [
+                    "GO:0003729",
+                    "mRNA binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0006376",
+                    "mRNA splice site selection"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0007281",
+                    "germ cell development"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0009792",
+                    "embryo development ending in birth or egg hatching"
+                ],
+                [
+                    "GO:0017148",
+                    "negative regulation of translation"
+                ],
+                [
+                    "GO:0036002",
+                    "pre-mRNA binding"
+                ],
+                [
+                    "GO:0042835",
+                    "BRE binding"
+                ],
+                [
+                    "GO:0048026",
+                    "positive regulation of mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:1990904",
+                    "ribonucleoprotein complex"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0001701",
+                    "in utero embryonic development"
+                ],
+                [
+                    "GO:0048025",
+                    "negative regulation of mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0090394",
+                    "negative regulation of excitatory postsynaptic potential"
+                ],
+                [
+                    "GO:1902866",
+                    "regulation of retina development in camera-type eye"
+                ]
+            ]
+        },
+        "ENSG00000048740": {
+            "protein_id": [
+                "ENSP00000490185",
+                "ENSP00000490401",
+                "ENSP00000489955",
+                "ENSP00000406451",
+                "ENSP00000488582",
+                "ENSP00000488438",
+                "ENSP00000488268",
+                "ENSP00000488690",
+                "ENSP00000488422",
+                "ENSP00000487802",
+                "ENSP00000382743",
+                "ENSP00000404834",
+                "ENSP00000476999",
+                "ENSP00000476392",
+                "ENSP00000476656",
+                "ENSP00000346971",
+                "ENSP00000443926"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000048740",
+                    "GUGUG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000048740",
+                    "UGUU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000048740",
+                    "UGUUU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGCG_7",
+                    "UGGCGUGUGACAAUGGUGUUUG",
+                    "ENSG00000048740",
+                    "CGUGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGUG_9",
+                    "UGGUGUGUGACAAUGGUGUUUG",
+                    "ENSG00000048740",
+                    "GUGUGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGUG_9",
+                    "UGGUGUGUGACAAUGGUGUUUG",
+                    "ENSG00000048740",
+                    "UGUGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGUG_9",
+                    "UGGUGUGUGACAAUGGUGUUUG",
+                    "ENSG00000048740",
+                    "UGUGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGUG_9",
+                    "UGGUGUGUGACAAUGGUGUUUG",
+                    "ENSG00000048740",
+                    "UGUGUG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAA_11",
+                    "UGGAAUGUGACAAUGGUGUUUG",
+                    "ENSG00000048740",
+                    "AUGUG"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0000381",
+                    "regulation of alternative mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0003729",
+                    "mRNA binding"
+                ],
+                [
+                    "GO:0003730",
+                    "mRNA 3'-UTR binding"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0006376",
+                    "mRNA splice site selection"
+                ],
+                [
+                    "GO:0006396",
+                    "RNA processing"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0008016",
+                    "regulation of heart contraction"
+                ],
+                [
+                    "GO:0036002",
+                    "pre-mRNA binding"
+                ],
+                [
+                    "GO:0043231",
+                    "intracellular membrane-bounded organelle"
+                ],
+                [
+                    "GO:0090543",
+                    "Flemming body"
+                ],
+                [
+                    "GO:1990904",
+                    "ribonucleoprotein complex"
+                ]
+            ]
+        }
+    },
+    "1": {
+        "homologies": [
+            "ENSG00000089280"
+        ],
+        "ENSG00000089280": {
+            "protein_id": [
+                "ENSP00000254108",
+                "ENSP00000455073",
+                "ENSP00000369594",
+                "ENSP00000455282"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000089280",
+                    "GGUG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000089280",
+                    "UGGUGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000089280",
+                    "GGGUGU"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000398",
+                    "mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003677",
+                    "DNA binding"
+                ],
+                [
+                    "GO:0003682",
+                    "chromatin binding"
+                ],
+                [
+                    "GO:0003712",
+                    "transcription coregulator activity"
+                ],
+                [
+                    "GO:0003713",
+                    "transcription coactivator activity"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0003730",
+                    "mRNA 3'-UTR binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0005844",
+                    "polysome"
+                ],
+                [
+                    "GO:0006355",
+                    "regulation of transcription, DNA-templated"
+                ],
+                [
+                    "GO:0006357",
+                    "regulation of transcription by RNA polymerase II"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0010467",
+                    "gene expression"
+                ],
+                [
+                    "GO:0030331",
+                    "estrogen receptor binding"
+                ],
+                [
+                    "GO:0030425",
+                    "dendrite"
+                ],
+                [
+                    "GO:0031489",
+                    "myosin V binding"
+                ],
+                [
+                    "GO:0035255",
+                    "ionotropic glutamate receptor binding"
+                ],
+                [
+                    "GO:0042802",
+                    "identical protein binding"
+                ],
+                [
+                    "GO:0043025",
+                    "neuronal cell body"
+                ],
+                [
+                    "GO:0043197",
+                    "dendritic spine"
+                ],
+                [
+                    "GO:0043204",
+                    "perikaryon"
+                ],
+                [
+                    "GO:0043484",
+                    "regulation of RNA splicing"
+                ],
+                [
+                    "GO:0044327",
+                    "dendritic spine head"
+                ],
+                [
+                    "GO:0045893",
+                    "positive regulation of transcription, DNA-templated"
+                ],
+                [
+                    "GO:0046872",
+                    "metal ion binding"
+                ],
+                [
+                    "GO:0046965",
+                    "retinoid X receptor binding"
+                ],
+                [
+                    "GO:0046966",
+                    "thyroid hormone receptor binding"
+                ],
+                [
+                    "GO:0048255",
+                    "mRNA stabilization"
+                ],
+                [
+                    "GO:0048471",
+                    "perinuclear region of cytoplasm"
+                ],
+                [
+                    "GO:0051260",
+                    "protein homooligomerization"
+                ],
+                [
+                    "GO:0071277",
+                    "cellular response to calcium ion"
+                ],
+                [
+                    "GO:1905168",
+                    "positive regulation of double-strand break repair via homologous recombination"
+                ]
+            ]
+        }
+    },
+    "2": {
+        "homologies": [
+            "ENSG00000104824"
+        ],
+        "ENSG00000104824": {
+            "protein_id": [
+                "ENSP00000497920",
+                "ENSP00000221419",
+                "ENSP00000469349",
+                "ENSP00000373401",
+                "ENSP00000470231",
+                "ENSP00000472150",
+                "ENSP00000469913"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000104824",
+                    "ACAA"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0000381",
+                    "regulation of alternative mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0000398",
+                    "mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0000976",
+                    "transcription regulatory region sequence-specific DNA binding"
+                ],
+                [
+                    "GO:0003729",
+                    "mRNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0006396",
+                    "RNA processing"
+                ],
+                [
+                    "GO:0016020",
+                    "membrane"
+                ],
+                [
+                    "GO:0016070",
+                    "RNA metabolic process"
+                ],
+                [
+                    "GO:0035770",
+                    "ribonucleoprotein granule"
+                ],
+                [
+                    "GO:0043484",
+                    "regulation of RNA splicing"
+                ],
+                [
+                    "GO:0070062",
+                    "extracellular exosome"
+                ],
+                [
+                    "GO:0097157",
+                    "pre-mRNA intronic binding"
+                ],
+                [
+                    "GO:1990904",
+                    "ribonucleoprotein complex"
+                ]
+            ]
+        }
+    },
+    "3": {
+        "homologies": [
+            "ENSG00000112183",
+            "ENSG00000120948"
+        ],
+        "ENSG00000112183": {
+            "protein_id": [
+                "ENSP00000368341",
+                "ENSP00000426222",
+                "ENSP00000396898",
+                "ENSP00000421971",
+                "ENSP00000319551"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000112183",
+                    "AGUGUGA"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_UGAG_1",
+                    "UUGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000112183",
+                    "UGAGUGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_AGAG_2",
+                    "UAGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000112183",
+                    "AGAGUGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGUG_9",
+                    "UGGUGUGUGACAAUGGUGUUUG",
+                    "ENSG00000112183",
+                    "UGUGUGA"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000381",
+                    "regulation of alternative mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0003197",
+                    "endocardial cushion development"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0003730",
+                    "mRNA 3'-UTR binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0005829",
+                    "cytosol"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0006417",
+                    "regulation of translation"
+                ],
+                [
+                    "GO:0006974",
+                    "cellular response to DNA damage stimulus"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0010830",
+                    "regulation of myotube differentiation"
+                ],
+                [
+                    "GO:0010831",
+                    "positive regulation of myotube differentiation"
+                ],
+                [
+                    "GO:0030154",
+                    "cell differentiation"
+                ],
+                [
+                    "GO:0035925",
+                    "mRNA 3'-UTR AU-rich region binding"
+                ],
+                [
+                    "GO:0043488",
+                    "regulation of mRNA stability"
+                ],
+                [
+                    "GO:0045663",
+                    "positive regulation of myoblast differentiation"
+                ],
+                [
+                    "GO:0048255",
+                    "mRNA stabilization"
+                ],
+                [
+                    "GO:0061157",
+                    "mRNA destabilization"
+                ],
+                [
+                    "GO:0061158",
+                    "3'-UTR-mediated mRNA destabilization"
+                ],
+                [
+                    "GO:0097157",
+                    "pre-mRNA intronic binding"
+                ],
+                [
+                    "GO:1902811",
+                    "positive regulation of skeletal muscle fiber differentiation"
+                ],
+                [
+                    "GO:1905870",
+                    "positive regulation of 3'-UTR-mediated mRNA stabilization"
+                ],
+                [
+                    "GO:1990715",
+                    "mRNA CDS binding"
+                ],
+                [
+                    "GO:1990825",
+                    "sequence-specific mRNA binding"
+                ],
+                [
+                    "GO:2000738",
+                    "positive regulation of stem cell differentiation"
+                ],
+                [
+                    "GO:2000766",
+                    "negative regulation of cytoplasmic translation"
+                ]
+            ]
+        },
+        "ENSG00000120948": {
+            "protein_id": [
+                "ENSP00000465240",
+                "ENSP00000491203",
+                "ENSP00000492196",
+                "ENSP00000486989",
+                "ENSP00000404666",
+                "ENSP00000466842",
+                "ENSP00000465080",
+                "ENSP00000240185",
+                "ENSP00000481867",
+                "ENSP00000480690",
+                "ENSP00000313129",
+                "ENSP00000432132",
+                "ENSP00000497327",
+                "ENSP00000484722",
+                "ENSP00000482191",
+                "ENSP00000481206",
+                "ENSP00000479219",
+                "ENSP00000481330",
+                "ENSP00000480771",
+                "ENSP00000479978",
+                "ENSP00000482559",
+                "ENSP00000482754",
+                "ENSP00000481737",
+                "ENSP00000465888",
+                "ENSP00000478249",
+                "ENSP00000479758",
+                "ENSP00000477852",
+                "ENSP00000467020",
+                "ENSP00000480398"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGUG_9",
+                    "UGGUGUGUGACAAUGGUGUUUG",
+                    "ENSG00000120948",
+                    "UGUGUG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAA_11",
+                    "UGGAAUGUGACAAUGGUGUUUG",
+                    "ENSG00000120948",
+                    "GAAUGU"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0001933",
+                    "negative regulation of protein phosphorylation"
+                ],
+                [
+                    "GO:0003677",
+                    "DNA binding"
+                ],
+                [
+                    "GO:0003690",
+                    "double-stranded DNA binding"
+                ],
+                [
+                    "GO:0003730",
+                    "mRNA 3'-UTR binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0010468",
+                    "regulation of gene expression"
+                ],
+                [
+                    "GO:0010494",
+                    "cytoplasmic stress granule"
+                ],
+                [
+                    "GO:0010629",
+                    "negative regulation of gene expression"
+                ],
+                [
+                    "GO:0031647",
+                    "regulation of protein stability"
+                ],
+                [
+                    "GO:0042802",
+                    "identical protein binding"
+                ],
+                [
+                    "GO:0042981",
+                    "regulation of apoptotic process"
+                ],
+                [
+                    "GO:0043922",
+                    "negative regulation by host of viral transcription"
+                ],
+                [
+                    "GO:0048511",
+                    "rhythmic process"
+                ],
+                [
+                    "GO:0051726",
+                    "regulation of cell cycle"
+                ],
+                [
+                    "GO:0061158",
+                    "3'-UTR-mediated mRNA destabilization"
+                ],
+                [
+                    "GO:0070935",
+                    "3'-UTR-mediated mRNA stabilization"
+                ],
+                [
+                    "GO:0071765",
+                    "nuclear inner membrane organization"
+                ],
+                [
+                    "GO:0000978",
+                    "RNA polymerase II cis-regulatory region sequence-specific DNA binding"
+                ],
+                [
+                    "GO:0005726",
+                    "perichromatin fibrils"
+                ],
+                [
+                    "GO:0010467",
+                    "gene expression"
+                ],
+                [
+                    "GO:0016607",
+                    "nuclear speck"
+                ],
+                [
+                    "GO:0032024",
+                    "positive regulation of insulin secretion"
+                ],
+                [
+                    "GO:0034976",
+                    "response to endoplasmic reticulum stress"
+                ],
+                [
+                    "GO:0035061",
+                    "interchromatin granule"
+                ],
+                [
+                    "GO:0042307",
+                    "positive regulation of protein import into nucleus"
+                ],
+                [
+                    "GO:0042752",
+                    "regulation of circadian rhythm"
+                ],
+                [
+                    "GO:0097157",
+                    "pre-mRNA intronic binding"
+                ]
+            ]
+        }
+    },
+    "4": {
+        "homologies": [
+            "ENSG00000161547"
+        ],
+        "ENSG00000161547": {
+            "protein_id": [
+                "ENSP00000353089",
+                "ENSP00000376276",
+                "ENSP00000462425",
+                "ENSP00000391278",
+                "ENSP00000441780",
+                "ENSP00000463317",
+                "ENSP00000350877"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000161547",
+                    "GGAGUG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000161547",
+                    "UGGAGU"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000278",
+                    "mitotic cell cycle"
+                ],
+                [
+                    "GO:0000381",
+                    "regulation of alternative mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0000398",
+                    "mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003714",
+                    "transcription corepressor activity"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0005080",
+                    "protein kinase C binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005681",
+                    "spliceosomal complex"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0005829",
+                    "cytosol"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0006405",
+                    "RNA export from nucleus"
+                ],
+                [
+                    "GO:0006406",
+                    "mRNA export from nucleus"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0016607",
+                    "nuclear speck"
+                ],
+                [
+                    "GO:0031124",
+                    "mRNA 3'-end processing"
+                ],
+                [
+                    "GO:0033197",
+                    "response to vitamin E"
+                ],
+                [
+                    "GO:0035061",
+                    "interchromatin granule"
+                ],
+                [
+                    "GO:0036002",
+                    "pre-mRNA binding"
+                ],
+                [
+                    "GO:0045892",
+                    "negative regulation of transcription, DNA-templated"
+                ]
+            ]
+        }
+    },
+    "5": {
+        "homologies": [
+            "ENSG00000116001",
+            "ENSG00000151923",
+            "ENSG00000147274"
+        ],
+        "ENSG00000116001": {
+            "protein_id": [
+                "ENSP00000401371",
+                "ENSP00000404023",
+                "ENSP00000282574",
+                "ENSP00000399567",
+                "ENSP00000402263",
+                "ENSP00000413751",
+                "ENSP00000430969",
+                "ENSP00000427794",
+                "ENSP00000354838"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000116001",
+                    "GUUUG"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0001818",
+                    "negative regulation of cytokine production"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0005829",
+                    "cytosol"
+                ],
+                [
+                    "GO:0006915",
+                    "apoptotic process"
+                ],
+                [
+                    "GO:0008143",
+                    "poly(A) binding"
+                ],
+                [
+                    "GO:0008543",
+                    "fibroblast growth factor receptor signaling pathway"
+                ],
+                [
+                    "GO:0010494",
+                    "cytoplasmic stress granule"
+                ],
+                [
+                    "GO:0017148",
+                    "negative regulation of translation"
+                ],
+                [
+                    "GO:0035925",
+                    "mRNA 3'-UTR AU-rich region binding"
+                ],
+                [
+                    "GO:0048024",
+                    "regulation of mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0097165",
+                    "nuclear stress granule"
+                ],
+                [
+                    "GO:1903608",
+                    "protein localization to cytoplasmic stress granule"
+                ],
+                [
+                    "GO:1904037",
+                    "positive regulation of epithelial cell apoptotic process"
+                ],
+                [
+                    "GO:1990904",
+                    "ribonucleoprotein complex"
+                ]
+            ]
+        },
+        "ENSG00000151923": {
+            "protein_id": [
+                "ENSP00000358089",
+                "ENSP00000431009",
+                "ENSP00000394902",
+                "ENSP00000403573",
+                "ENSP00000358082",
+                "ENSP00000480825"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000151923",
+                    "GUUUG"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003677",
+                    "DNA binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0005764",
+                    "lysosome"
+                ],
+                [
+                    "GO:0006357",
+                    "regulation of transcription by RNA polymerase II"
+                ],
+                [
+                    "GO:0006915",
+                    "apoptotic process"
+                ],
+                [
+                    "GO:0006952",
+                    "defense response"
+                ],
+                [
+                    "GO:0008543",
+                    "fibroblast growth factor receptor signaling pathway"
+                ],
+                [
+                    "GO:0010494",
+                    "cytoplasmic stress granule"
+                ],
+                [
+                    "GO:0007281",
+                    "germ cell development"
+                ],
+                [
+                    "GO:0008284",
+                    "positive regulation of cell population proliferation"
+                ],
+                [
+                    "GO:0017145",
+                    "stem cell division"
+                ],
+                [
+                    "GO:0035925",
+                    "mRNA 3'-UTR AU-rich region binding"
+                ],
+                [
+                    "GO:1990904",
+                    "ribonucleoprotein complex"
+                ]
+            ]
+        },
+        "ENSG00000147274": {
+            "protein_id": [
+                "ENSP00000411989",
+                "ENSP00000457691",
+                "ENSP00000405117",
+                "ENSP00000456048",
+                "ENSP00000359645",
+                "ENSP00000457051",
+                "ENSP00000457866",
+                "ENSP00000454777"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GAAG_5",
+                    "UGAAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000147274",
+                    "AAGU"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000381",
+                    "regulation of alternative mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0000398",
+                    "mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0000791",
+                    "euchromatin"
+                ],
+                [
+                    "GO:0000978",
+                    "RNA polymerase II cis-regulatory region sequence-specific DNA binding"
+                ],
+                [
+                    "GO:0001649",
+                    "osteoblast differentiation"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003682",
+                    "chromatin binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0003729",
+                    "mRNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005615",
+                    "extracellular space"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005681",
+                    "spliceosomal complex"
+                ],
+                [
+                    "GO:0006366",
+                    "transcription by RNA polymerase II"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0006509",
+                    "membrane protein ectodomain proteolysis"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0016020",
+                    "membrane"
+                ],
+                [
+                    "GO:0016070",
+                    "RNA metabolic process"
+                ],
+                [
+                    "GO:0019904",
+                    "protein domain specific binding"
+                ],
+                [
+                    "GO:0032991",
+                    "protein-containing complex"
+                ],
+                [
+                    "GO:0042802",
+                    "identical protein binding"
+                ],
+                [
+                    "GO:0044530",
+                    "supraspliceosomal complex"
+                ],
+                [
+                    "GO:0045944",
+                    "positive regulation of transcription by RNA polymerase II"
+                ],
+                [
+                    "GO:0048025",
+                    "negative regulation of mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0048026",
+                    "positive regulation of mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0051260",
+                    "protein homooligomerization"
+                ],
+                [
+                    "GO:0070062",
+                    "extracellular exosome"
+                ],
+                [
+                    "GO:0071013",
+                    "catalytic step 2 spliceosome"
+                ],
+                [
+                    "GO:0071347",
+                    "cellular response to interleukin-1"
+                ],
+                [
+                    "GO:1990904",
+                    "ribonucleoprotein complex"
+                ]
+            ]
+        }
+    },
+    "6": {
+        "homologies": [
+            "ENSG00000124571"
+        ],
+        "ENSG00000124571": {
+            "protein_id": [
+                "ENSP00000265351",
+                "ENSP00000426185",
+                "ENSP00000387384",
+                "ENSP00000381816",
+                "ENSP00000424196",
+                "ENSP00000381779"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAG_0",
+                    "UGGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000124571",
+                    "GUUU"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000049",
+                    "tRNA binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0003729",
+                    "mRNA binding"
+                ],
+                [
+                    "GO:0005049",
+                    "nuclear export signal receptor activity"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0005829",
+                    "cytosol"
+                ],
+                [
+                    "GO:0006405",
+                    "RNA export from nucleus"
+                ],
+                [
+                    "GO:0006611",
+                    "protein export from nucleus"
+                ],
+                [
+                    "GO:0006886",
+                    "intracellular protein transport"
+                ],
+                [
+                    "GO:0010586",
+                    "miRNA metabolic process"
+                ],
+                [
+                    "GO:0015031",
+                    "protein transport"
+                ],
+                [
+                    "GO:0016032",
+                    "viral process"
+                ],
+                [
+                    "GO:0016442",
+                    "RISC complex"
+                ],
+                [
+                    "GO:0031047",
+                    "gene silencing by RNA"
+                ],
+                [
+                    "GO:0031267",
+                    "small GTPase binding"
+                ],
+                [
+                    "GO:0035281",
+                    "pre-miRNA export from nucleus"
+                ],
+                [
+                    "GO:0042565",
+                    "RNA nuclear export complex"
+                ],
+                [
+                    "GO:0051168",
+                    "nuclear export"
+                ],
+                [
+                    "GO:0070883",
+                    "pre-miRNA binding"
+                ],
+                [
+                    "GO:1900370",
+                    "positive regulation of RNA interference"
+                ],
+                [
+                    "GO:1905172",
+                    "RISC complex binding"
+                ]
+            ]
+        }
+    },
+    "7": {
+        "homologies": [
+            "ENSG00000089127"
+        ],
+        "ENSG00000089127": {
+            "protein_id": [
+                "ENSP00000505572",
+                "ENSP00000415721",
+                "ENSP00000388001",
+                "ENSP00000505786",
+                "ENSP00000502804",
+                "ENSP00000450286",
+                "ENSP00000449053",
+                "ENSP00000202917",
+                "ENSP00000506593",
+                "ENSP00000504942",
+                "ENSP00000474083",
+                "ENSP00000475139",
+                "ENSP00000505703",
+                "ENSP00000505476",
+                "ENSP00000505794",
+                "ENSP00000505028",
+                "ENSP00000506485",
+                "ENSP00000505482",
+                "ENSP00000506580",
+                "ENSP00000504970",
+                "ENSP00000505165",
+                "ENSP00000448790",
+                "ENSP00000448348",
+                "ENSP00000505725",
+                "ENSP00000506474",
+                "ENSP00000505090",
+                "ENSP00000448001"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_UGAG_1",
+                    "UUGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000089127",
+                    "UUGA"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0001730",
+                    "2'-5'-oligoadenylate synthetase activity"
+                ],
+                [
+                    "GO:0003725",
+                    "double-stranded RNA binding"
+                ],
+                [
+                    "GO:0016779",
+                    "nucleotidyltransferase activity"
+                ],
+                [
+                    "GO:0051607",
+                    "defense response to virus"
+                ],
+                [
+                    "GO:0000166",
+                    "nucleotide binding"
+                ],
+                [
+                    "GO:0002376",
+                    "immune system process"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005524",
+                    "ATP binding"
+                ],
+                [
+                    "GO:0005576",
+                    "extracellular region"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0005739",
+                    "mitochondrion"
+                ],
+                [
+                    "GO:0005783",
+                    "endoplasmic reticulum"
+                ],
+                [
+                    "GO:0005829",
+                    "cytosol"
+                ],
+                [
+                    "GO:0006006",
+                    "glucose metabolic process"
+                ],
+                [
+                    "GO:0006164",
+                    "purine nucleotide biosynthetic process"
+                ],
+                [
+                    "GO:0009615",
+                    "response to virus"
+                ],
+                [
+                    "GO:0016020",
+                    "membrane"
+                ],
+                [
+                    "GO:0016740",
+                    "transferase activity"
+                ],
+                [
+                    "GO:0032728",
+                    "positive regulation of interferon-beta production"
+                ],
+                [
+                    "GO:0032760",
+                    "positive regulation of tumor necrosis factor production"
+                ],
+                [
+                    "GO:0034138",
+                    "toll-like receptor 3 signaling pathway"
+                ],
+                [
+                    "GO:0034142",
+                    "toll-like receptor 4 signaling pathway"
+                ],
+                [
+                    "GO:0035457",
+                    "cellular response to interferon-alpha"
+                ],
+                [
+                    "GO:0035458",
+                    "cellular response to interferon-beta"
+                ],
+                [
+                    "GO:0042593",
+                    "glucose homeostasis"
+                ],
+                [
+                    "GO:0042742",
+                    "defense response to bacterium"
+                ],
+                [
+                    "GO:0043129",
+                    "surfactant homeostasis"
+                ],
+                [
+                    "GO:0043231",
+                    "intracellular membrane-bounded organelle"
+                ],
+                [
+                    "GO:0045071",
+                    "negative regulation of viral genome replication"
+                ],
+                [
+                    "GO:0045087",
+                    "innate immune response"
+                ],
+                [
+                    "GO:0046872",
+                    "metal ion binding"
+                ],
+                [
+                    "GO:0051259",
+                    "protein complex oligomerization"
+                ],
+                [
+                    "GO:0060333",
+                    "interferon-gamma-mediated signaling pathway"
+                ],
+                [
+                    "GO:0060337",
+                    "type I interferon signaling pathway"
+                ],
+                [
+                    "GO:0060339",
+                    "negative regulation of type I interferon-mediated signaling pathway"
+                ],
+                [
+                    "GO:0060700",
+                    "regulation of ribonuclease activity"
+                ],
+                [
+                    "GO:0070106",
+                    "interleukin-27-mediated signaling pathway"
+                ],
+                [
+                    "GO:0071639",
+                    "positive regulation of monocyte chemotactic protein-1 production"
+                ],
+                [
+                    "GO:0071659",
+                    "negative regulation of IP-10 production"
+                ],
+                [
+                    "GO:0098586",
+                    "cellular response to virus"
+                ],
+                [
+                    "GO:0140374",
+                    "antiviral innate immune response"
+                ],
+                [
+                    "GO:1901857",
+                    "positive regulation of cellular respiration"
+                ],
+                [
+                    "GO:2000342",
+                    "negative regulation of chemokine (C-X-C motif) ligand 2 production"
+                ],
+                [
+                    "GO:0005840",
+                    "ribosome"
+                ]
+            ]
+        }
+    },
+    "8": {
+        "homologies": [
+            "ENSG00000135486"
+        ],
+        "ENSG00000135486": {
+            "protein_id": [
+                "ENSP00000448617",
+                "ENSP00000503651",
+                "ENSP00000503610",
+                "ENSP00000502985",
+                "ENSP00000503649",
+                "ENSP00000446486",
+                "ENSP00000503166",
+                "ENSP00000341826",
+                "ENSP00000448229",
+                "ENSP00000449913",
+                "ENSP00000448117",
+                "ENSP00000504819",
+                "ENSP00000333504",
+                "ENSP00000503229",
+                "ENSP00000504604",
+                "ENSP00000447260",
+                "ENSP00000502987",
+                "ENSP00000504814",
+                "ENSP00000447782",
+                "ENSP00000504036",
+                "ENSP00000448917",
+                "ENSP00000504626",
+                "ENSP00000503619",
+                "ENSP00000504458",
+                "ENSP00000504753",
+                "ENSP00000503254",
+                "ENSP00000504511",
+                "ENSP00000503756",
+                "ENSP00000503056",
+                "ENSP00000504850",
+                "ENSP00000504089",
+                "ENSP00000503516",
+                "ENSP00000502876",
+                "ENSP00000503602",
+                "ENSP00000503162",
+                "ENSP00000504696",
+                "ENSP00000504683",
+                "ENSP00000504506",
+                "ENSP00000503128",
+                "ENSP00000504368",
+                "ENSP00000503865",
+                "ENSP00000504058",
+                "ENSP00000503276",
+                "ENSP00000504642",
+                "ENSP00000504431",
+                "ENSP00000503733",
+                "ENSP00000503977",
+                "ENSP00000504004",
+                "ENSP00000502981",
+                "ENSP00000503749",
+                "ENSP00000503030",
+                "ENSP00000504251",
+                "ENSP00000503825",
+                "ENSP00000503468",
+                "ENSP00000503562",
+                "ENSP00000504545",
+                "ENSP00000503537",
+                "ENSP00000503848",
+                "ENSP00000504539",
+                "ENSP00000503273",
+                "ENSP00000502904",
+                "ENSP00000504143",
+                "ENSP00000504344",
+                "ENSP00000503861",
+                "ENSP00000504664",
+                "ENSP00000503520",
+                "ENSP00000502915",
+                "ENSP00000503829"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_AGAG_2",
+                    "UAGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000135486",
+                    "UAGAGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_AGAG_2",
+                    "UAGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000135486",
+                    "UAGAGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_AGAG_2",
+                    "UAGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000135486",
+                    "UAGAGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_AGAG_2",
+                    "UAGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000135486",
+                    "UAGAGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_AGAG_2",
+                    "UAGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000135486",
+                    "UAGAGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_AGAG_2",
+                    "UAGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000135486",
+                    "UAGAGU"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000381",
+                    "regulation of alternative mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0000398",
+                    "mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003697",
+                    "single-stranded DNA binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0003727",
+                    "single-stranded RNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005681",
+                    "spliceosomal complex"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0006405",
+                    "RNA export from nucleus"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0008543",
+                    "fibroblast growth factor receptor signaling pathway"
+                ],
+                [
+                    "GO:0016020",
+                    "membrane"
+                ],
+                [
+                    "GO:0016032",
+                    "viral process"
+                ],
+                [
+                    "GO:0016070",
+                    "RNA metabolic process"
+                ],
+                [
+                    "GO:0019904",
+                    "protein domain specific binding"
+                ],
+                [
+                    "GO:0032211",
+                    "negative regulation of telomere maintenance via telomerase"
+                ],
+                [
+                    "GO:0032212",
+                    "positive regulation of telomere maintenance via telomerase"
+                ],
+                [
+                    "GO:0035198",
+                    "miRNA binding"
+                ],
+                [
+                    "GO:0036002",
+                    "pre-mRNA binding"
+                ],
+                [
+                    "GO:0042149",
+                    "cellular response to glucose starvation"
+                ],
+                [
+                    "GO:0042802",
+                    "identical protein binding"
+                ],
+                [
+                    "GO:0051028",
+                    "mRNA transport"
+                ],
+                [
+                    "GO:0051168",
+                    "nuclear export"
+                ],
+                [
+                    "GO:0051170",
+                    "import into nucleus"
+                ],
+                [
+                    "GO:0061752",
+                    "telomeric repeat-containing RNA binding"
+                ],
+                [
+                    "GO:0070062",
+                    "extracellular exosome"
+                ],
+                [
+                    "GO:0071013",
+                    "catalytic step 2 spliceosome"
+                ],
+                [
+                    "GO:0098505",
+                    "G-rich strand telomeric DNA binding"
+                ],
+                [
+                    "GO:1903936",
+                    "cellular response to sodium arsenite"
+                ],
+                [
+                    "GO:1990904",
+                    "ribonucleoprotein complex"
+                ]
+            ]
+        }
+    },
+    "9": {
+        "homologies": [
+            "ENSG00000112531"
+        ],
+        "ENSG00000112531": {
+            "protein_id": [
+                "ENSP00000354951",
+                "ENSP00000408775",
+                "ENSP00000275262",
+                "ENSP00000375973",
+                "ENSP00000355094",
+                "ENSP00000354867",
+                "ENSP00000408382",
+                "ENSP00000437867",
+                "ENSP00000443690",
+                "ENSP00000440991",
+                "ENSP00000443106",
+                "ENSP00000441252",
+                "ENSP00000440599",
+                "ENSP00000441773",
+                "ENSP00000442848"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_CGAG_3",
+                    "UCGAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000112531",
+                    "CGAGU"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0003729",
+                    "mRNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0006417",
+                    "regulation of translation"
+                ],
+                [
+                    "GO:0007275",
+                    "multicellular organism development"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0017124",
+                    "SH3 domain binding"
+                ],
+                [
+                    "GO:0030154",
+                    "cell differentiation"
+                ],
+                [
+                    "GO:0048024",
+                    "regulation of mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0051028",
+                    "mRNA transport"
+                ],
+                [
+                    "GO:0001570",
+                    "vasculogenesis"
+                ],
+                [
+                    "GO:0007286",
+                    "spermatid development"
+                ],
+                [
+                    "GO:0008366",
+                    "axon ensheathment"
+                ],
+                [
+                    "GO:0010628",
+                    "positive regulation of gene expression"
+                ],
+                [
+                    "GO:0042552",
+                    "myelination"
+                ],
+                [
+                    "GO:0042692",
+                    "muscle cell differentiation"
+                ],
+                [
+                    "GO:0042759",
+                    "long-chain fatty acid biosynthetic process"
+                ],
+                [
+                    "GO:0045202",
+                    "synapse"
+                ]
+            ]
+        }
+    },
+    "10": {
+        "homologies": [
+            "ENSG00000167005"
+        ],
+        "ENSG00000167005": {
+            "protein_id": [
+                "ENSP00000300291",
+                "ENSP00000454790",
+                "ENSP00000457942"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GUAG_4",
+                    "UGUAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000167005",
+                    "UGUA"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000398",
+                    "mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0003682",
+                    "chromatin binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0003729",
+                    "mRNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0005813",
+                    "centrosome"
+                ],
+                [
+                    "GO:0005847",
+                    "mRNA cleavage and polyadenylation specificity factor complex"
+                ],
+                [
+                    "GO:0005849",
+                    "mRNA cleavage factor complex"
+                ],
+                [
+                    "GO:0006369",
+                    "termination of RNA polymerase II transcription"
+                ],
+                [
+                    "GO:0006378",
+                    "mRNA polyadenylation"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0010608",
+                    "posttranscriptional regulation of gene expression"
+                ],
+                [
+                    "GO:0016604",
+                    "nuclear body"
+                ],
+                [
+                    "GO:0016787",
+                    "hydrolase activity"
+                ],
+                [
+                    "GO:0030154",
+                    "cell differentiation"
+                ],
+                [
+                    "GO:0031124",
+                    "mRNA 3'-end processing"
+                ],
+                [
+                    "GO:0031439",
+                    "positive regulation of mRNA cleavage"
+                ],
+                [
+                    "GO:0034451",
+                    "centriolar satellite"
+                ],
+                [
+                    "GO:0035925",
+                    "mRNA 3'-UTR AU-rich region binding"
+                ],
+                [
+                    "GO:0042382",
+                    "paraspeckles"
+                ],
+                [
+                    "GO:0042802",
+                    "identical protein binding"
+                ],
+                [
+                    "GO:0042803",
+                    "protein homodimerization activity"
+                ],
+                [
+                    "GO:0042826",
+                    "histone deacetylase binding"
+                ],
+                [
+                    "GO:0051262",
+                    "protein tetramerization"
+                ],
+                [
+                    "GO:0051290",
+                    "protein heterotetramerization"
+                ],
+                [
+                    "GO:0098789",
+                    "pre-mRNA cleavage required for polyadenylation"
+                ],
+                [
+                    "GO:0110104",
+                    "mRNA alternative polyadenylation"
+                ],
+                [
+                    "GO:1900365",
+                    "positive regulation of mRNA polyadenylation"
+                ],
+                [
+                    "GO:1990120",
+                    "messenger ribonucleoprotein complex assembly"
+                ],
+                [
+                    "GO:2000738",
+                    "positive regulation of stem cell differentiation"
+                ],
+                [
+                    "GO:2000975",
+                    "positive regulation of pro-B cell differentiation"
+                ]
+            ]
+        }
+    },
+    "11": {
+        "homologies": [
+            "ENSG00000116560"
+        ],
+        "ENSG00000116560": {
+            "protein_id": [
+                "ENSP00000425071",
+                "ENSP00000424440",
+                "ENSP00000349748"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GUAG_4",
+                    "UGUAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000116560",
+                    "GUAGUGU"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0000122",
+                    "negative regulation of transcription by RNA polymerase II"
+                ],
+                [
+                    "GO:0000380",
+                    "alternative mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0000398",
+                    "mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0000724",
+                    "double-strand break repair via homologous recombination"
+                ],
+                [
+                    "GO:0000785",
+                    "chromatin"
+                ],
+                [
+                    "GO:0000976",
+                    "transcription regulatory region sequence-specific DNA binding"
+                ],
+                [
+                    "GO:0002218",
+                    "activation of innate immune response"
+                ],
+                [
+                    "GO:0002376",
+                    "immune system process"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003677",
+                    "DNA binding"
+                ],
+                [
+                    "GO:0003682",
+                    "chromatin binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0005829",
+                    "cytosol"
+                ],
+                [
+                    "GO:0006281",
+                    "DNA repair"
+                ],
+                [
+                    "GO:0006310",
+                    "DNA recombination"
+                ],
+                [
+                    "GO:0006355",
+                    "regulation of transcription, DNA-templated"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0006974",
+                    "cellular response to DNA damage stimulus"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0016363",
+                    "nuclear matrix"
+                ],
+                [
+                    "GO:0016607",
+                    "nuclear speck"
+                ],
+                [
+                    "GO:0032839",
+                    "dendrite cytoplasm"
+                ],
+                [
+                    "GO:0033668",
+                    "negative regulation by symbiont of host apoptotic process"
+                ],
+                [
+                    "GO:0042382",
+                    "paraspeckles"
+                ],
+                [
+                    "GO:0042752",
+                    "regulation of circadian rhythm"
+                ],
+                [
+                    "GO:0042754",
+                    "negative regulation of circadian rhythm"
+                ],
+                [
+                    "GO:0042803",
+                    "protein homodimerization activity"
+                ],
+                [
+                    "GO:0042826",
+                    "histone deacetylase binding"
+                ],
+                [
+                    "GO:0045087",
+                    "innate immune response"
+                ],
+                [
+                    "GO:0045876",
+                    "positive regulation of sister chromatid cohesion"
+                ],
+                [
+                    "GO:0045892",
+                    "negative regulation of transcription, DNA-templated"
+                ],
+                [
+                    "GO:0045944",
+                    "positive regulation of transcription by RNA polymerase II"
+                ],
+                [
+                    "GO:0048511",
+                    "rhythmic process"
+                ],
+                [
+                    "GO:0051276",
+                    "chromosome organization"
+                ],
+                [
+                    "GO:0051726",
+                    "regulation of cell cycle"
+                ],
+                [
+                    "GO:0070932",
+                    "histone H3 deacetylation"
+                ],
+                [
+                    "GO:0090575",
+                    "RNA polymerase II transcription regulator complex"
+                ],
+                [
+                    "GO:0098963",
+                    "dendritic transport of messenger ribonucleoprotein complex"
+                ],
+                [
+                    "GO:1902177",
+                    "positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway"
+                ]
+            ]
+        }
+    },
+    "12": {
+        "homologies": [
+            "ENSG00000180210"
+        ],
+        "ENSG00000180210": {
+            "protein_id": [
+                "ENSP00000308541",
+                "ENSP00000433907",
+                "ENSP00000387413"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GAAG_5",
+                    "UGAAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000180210",
+                    "GAAG"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0001530",
+                    "lipopolysaccharide binding"
+                ],
+                [
+                    "GO:0001934",
+                    "positive regulation of protein phosphorylation"
+                ],
+                [
+                    "GO:0004252",
+                    "serine-type endopeptidase activity"
+                ],
+                [
+                    "GO:0005102",
+                    "signaling receptor binding"
+                ],
+                [
+                    "GO:0005509",
+                    "calcium ion binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005576",
+                    "extracellular region"
+                ],
+                [
+                    "GO:0005615",
+                    "extracellular space"
+                ],
+                [
+                    "GO:0005788",
+                    "endoplasmic reticulum lumen"
+                ],
+                [
+                    "GO:0005796",
+                    "Golgi lumen"
+                ],
+                [
+                    "GO:0005886",
+                    "plasma membrane"
+                ],
+                [
+                    "GO:0006508",
+                    "proteolysis"
+                ],
+                [
+                    "GO:0006888",
+                    "endoplasmic reticulum to Golgi vesicle-mediated transport"
+                ],
+                [
+                    "GO:0006953",
+                    "acute-phase response"
+                ],
+                [
+                    "GO:0007166",
+                    "cell surface receptor signaling pathway"
+                ],
+                [
+                    "GO:0007186",
+                    "G protein-coupled receptor signaling pathway"
+                ],
+                [
+                    "GO:0007275",
+                    "multicellular organism development"
+                ],
+                [
+                    "GO:0007596",
+                    "blood coagulation"
+                ],
+                [
+                    "GO:0007597",
+                    "blood coagulation, intrinsic pathway"
+                ],
+                [
+                    "GO:0007599",
+                    "hemostasis"
+                ],
+                [
+                    "GO:0008047",
+                    "enzyme activator activity"
+                ],
+                [
+                    "GO:0008083",
+                    "growth factor activity"
+                ],
+                [
+                    "GO:0008201",
+                    "heparin binding"
+                ],
+                [
+                    "GO:0008233",
+                    "peptidase activity"
+                ],
+                [
+                    "GO:0008236",
+                    "serine-type peptidase activity"
+                ],
+                [
+                    "GO:0008284",
+                    "positive regulation of cell population proliferation"
+                ],
+                [
+                    "GO:0008360",
+                    "regulation of cell shape"
+                ],
+                [
+                    "GO:0009611",
+                    "response to wounding"
+                ],
+                [
+                    "GO:0009897",
+                    "external side of plasma membrane"
+                ],
+                [
+                    "GO:0010468",
+                    "regulation of gene expression"
+                ],
+                [
+                    "GO:0010544",
+                    "negative regulation of platelet activation"
+                ],
+                [
+                    "GO:0014068",
+                    "positive regulation of phosphatidylinositol 3-kinase signaling"
+                ],
+                [
+                    "GO:0016787",
+                    "hydrolase activity"
+                ],
+                [
+                    "GO:0030168",
+                    "platelet activation"
+                ],
+                [
+                    "GO:0030193",
+                    "regulation of blood coagulation"
+                ],
+                [
+                    "GO:0030194",
+                    "positive regulation of blood coagulation"
+                ],
+                [
+                    "GO:0030307",
+                    "positive regulation of cell growth"
+                ],
+                [
+                    "GO:0030449",
+                    "regulation of complement activation"
+                ],
+                [
+                    "GO:0032967",
+                    "positive regulation of collagen biosynthetic process"
+                ],
+                [
+                    "GO:0042730",
+                    "fibrinolysis"
+                ],
+                [
+                    "GO:0044267",
+                    "cellular protein metabolic process"
+                ],
+                [
+                    "GO:0045861",
+                    "negative regulation of proteolysis"
+                ],
+                [
+                    "GO:0046427",
+                    "positive regulation of receptor signaling pathway via JAK-STAT"
+                ],
+                [
+                    "GO:0048712",
+                    "negative regulation of astrocyte differentiation"
+                ],
+                [
+                    "GO:0050900",
+                    "leukocyte migration"
+                ],
+                [
+                    "GO:0051281",
+                    "positive regulation of release of sequestered calcium ion into cytosol"
+                ],
+                [
+                    "GO:0051480",
+                    "regulation of cytosolic calcium ion concentration"
+                ],
+                [
+                    "GO:0051838",
+                    "cytolysis by host of symbiont cells"
+                ],
+                [
+                    "GO:0051918",
+                    "negative regulation of fibrinolysis"
+                ],
+                [
+                    "GO:0061844",
+                    "antimicrobial humoral immune response mediated by antimicrobial peptide"
+                ],
+                [
+                    "GO:0062023",
+                    "collagen-containing extracellular matrix"
+                ],
+                [
+                    "GO:0070053",
+                    "thrombospondin receptor activity"
+                ],
+                [
+                    "GO:0070062",
+                    "extracellular exosome"
+                ],
+                [
+                    "GO:0070945",
+                    "neutrophil-mediated killing of gram-negative bacterium"
+                ],
+                [
+                    "GO:0072562",
+                    "blood microparticle"
+                ],
+                [
+                    "GO:0090218",
+                    "positive regulation of lipid kinase activity"
+                ],
+                [
+                    "GO:1900016",
+                    "negative regulation of cytokine production involved in inflammatory response"
+                ],
+                [
+                    "GO:1900182",
+                    "positive regulation of protein localization to nucleus"
+                ],
+                [
+                    "GO:1900738",
+                    "positive regulation of phospholipase C-activating G protein-coupled receptor signaling pathway"
+                ],
+                [
+                    "GO:2000379",
+                    "positive regulation of reactive oxygen species metabolic process"
+                ]
+            ]
+        }
+    },
+    "13": {
+        "homologies": [
+            "ENSG00000122729"
+        ],
+        "ENSG00000122729": {
+            "protein_id": [
+                "ENSP00000438733",
+                "ENSP00000369255",
+                "ENSP00000309477"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GCAG_6",
+                    "UGCAGUGUGACAAUGGUGUUUG",
+                    "ENSG00000122729",
+                    "CAGUGU"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0003994",
+                    "aconitate hydratase activity"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0005739",
+                    "mitochondrion"
+                ],
+                [
+                    "GO:0005783",
+                    "endoplasmic reticulum"
+                ],
+                [
+                    "GO:0005794",
+                    "Golgi apparatus"
+                ],
+                [
+                    "GO:0005829",
+                    "cytosol"
+                ],
+                [
+                    "GO:0006099",
+                    "tricarboxylic acid cycle"
+                ],
+                [
+                    "GO:0006101",
+                    "citrate metabolic process"
+                ],
+                [
+                    "GO:0006879",
+                    "cellular iron ion homeostasis"
+                ],
+                [
+                    "GO:0010040",
+                    "response to iron(II) ion"
+                ],
+                [
+                    "GO:0016829",
+                    "lyase activity"
+                ],
+                [
+                    "GO:0030350",
+                    "iron-responsive element binding"
+                ],
+                [
+                    "GO:0046872",
+                    "metal ion binding"
+                ],
+                [
+                    "GO:0047780",
+                    "citrate dehydratase activity"
+                ],
+                [
+                    "GO:0051536",
+                    "iron-sulfur cluster binding"
+                ],
+                [
+                    "GO:0051538",
+                    "3 iron, 4 sulfur cluster binding"
+                ],
+                [
+                    "GO:0051539",
+                    "4 iron, 4 sulfur cluster binding"
+                ],
+                [
+                    "GO:0070062",
+                    "extracellular exosome"
+                ],
+                [
+                    "GO:0006417",
+                    "regulation of translation"
+                ],
+                [
+                    "GO:0009791",
+                    "post-embryonic development"
+                ],
+                [
+                    "GO:0010468",
+                    "regulation of gene expression"
+                ],
+                [
+                    "GO:0050892",
+                    "intestinal absorption"
+                ]
+            ]
+        }
+    },
+    "14": {
+        "homologies": [
+            "ENSG00000107201"
+        ],
+        "ENSG00000107201": {
+            "protein_id": [
+                "ENSP00000504921",
+                "ENSP00000369213",
+                "ENSP00000369197",
+                "ENSP00000505015",
+                "ENSP00000504892",
+                "ENSP00000505702"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGCG_7",
+                    "UGGCGUGUGACAAUGGUGUUUG",
+                    "ENSG00000107201",
+                    "GGCG"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000166",
+                    "nucleotide binding"
+                ],
+                [
+                    "GO:0002376",
+                    "immune system process"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0003724",
+                    "RNA helicase activity"
+                ],
+                [
+                    "GO:0004386",
+                    "helicase activity"
+                ],
+                [
+                    "GO:0005524",
+                    "ATP binding"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0008270",
+                    "zinc ion binding"
+                ],
+                [
+                    "GO:0016787",
+                    "hydrolase activity"
+                ],
+                [
+                    "GO:0016887",
+                    "ATPase activity"
+                ],
+                [
+                    "GO:0045087",
+                    "innate immune response"
+                ],
+                [
+                    "GO:0046872",
+                    "metal ion binding"
+                ],
+                [
+                    "GO:0051607",
+                    "defense response to virus"
+                ],
+                [
+                    "GO:0002230",
+                    "positive regulation of defense response to virus by host"
+                ],
+                [
+                    "GO:0002735",
+                    "positive regulation of myeloid dendritic cell cytokine production"
+                ],
+                [
+                    "GO:0003725",
+                    "double-stranded RNA binding"
+                ],
+                [
+                    "GO:0003727",
+                    "single-stranded RNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005829",
+                    "cytosol"
+                ],
+                [
+                    "GO:0005856",
+                    "cytoskeleton"
+                ],
+                [
+                    "GO:0005886",
+                    "plasma membrane"
+                ],
+                [
+                    "GO:0005923",
+                    "bicellular tight junction"
+                ],
+                [
+                    "GO:0009597",
+                    "detection of virus"
+                ],
+                [
+                    "GO:0009615",
+                    "response to virus"
+                ],
+                [
+                    "GO:0010628",
+                    "positive regulation of gene expression"
+                ],
+                [
+                    "GO:0015629",
+                    "actin cytoskeleton"
+                ],
+                [
+                    "GO:0016020",
+                    "membrane"
+                ],
+                [
+                    "GO:0016032",
+                    "viral process"
+                ],
+                [
+                    "GO:0016579",
+                    "protein deubiquitination"
+                ],
+                [
+                    "GO:0030054",
+                    "cell junction"
+                ],
+                [
+                    "GO:0030334",
+                    "regulation of cell migration"
+                ],
+                [
+                    "GO:0031625",
+                    "ubiquitin protein ligase binding"
+                ],
+                [
+                    "GO:0032480",
+                    "negative regulation of type I interferon production"
+                ],
+                [
+                    "GO:0032587",
+                    "ruffle membrane"
+                ],
+                [
+                    "GO:0032725",
+                    "positive regulation of granulocyte macrophage colony-stimulating factor production"
+                ],
+                [
+                    "GO:0032727",
+                    "positive regulation of interferon-alpha production"
+                ],
+                [
+                    "GO:0032728",
+                    "positive regulation of interferon-beta production"
+                ],
+                [
+                    "GO:0032755",
+                    "positive regulation of interleukin-6 production"
+                ],
+                [
+                    "GO:0032757",
+                    "positive regulation of interleukin-8 production"
+                ],
+                [
+                    "GO:0032760",
+                    "positive regulation of tumor necrosis factor production"
+                ],
+                [
+                    "GO:0034344",
+                    "regulation of type III interferon production"
+                ],
+                [
+                    "GO:0039528",
+                    "cytoplasmic pattern recognition receptor signaling pathway in response to virus"
+                ],
+                [
+                    "GO:0039529",
+                    "RIG-I signaling pathway"
+                ],
+                [
+                    "GO:0042802",
+                    "identical protein binding"
+                ],
+                [
+                    "GO:0042995",
+                    "cell projection"
+                ],
+                [
+                    "GO:0043330",
+                    "response to exogenous dsRNA"
+                ],
+                [
+                    "GO:0045944",
+                    "positive regulation of transcription by RNA polymerase II"
+                ],
+                [
+                    "GO:0051091",
+                    "positive regulation of DNA-binding transcription factor activity"
+                ],
+                [
+                    "GO:0060760",
+                    "positive regulation of response to cytokine stimulus"
+                ],
+                [
+                    "GO:0071360",
+                    "cellular response to exogenous dsRNA"
+                ],
+                [
+                    "GO:0140374",
+                    "antiviral innate immune response"
+                ],
+                [
+                    "GO:1990904",
+                    "ribonucleoprotein complex"
+                ]
+            ]
+        }
+    },
+    "15": {
+        "homologies": [
+            "ENSG00000132463",
+            "ENSG00000126945",
+            "ENSG00000169045",
+            "ENSG00000169813",
+            "ENSG00000096746"
+        ],
+        "ENSG00000132463": {
+            "protein_id": [
+                "ENSP00000254799",
+                "ENSP00000443380",
+                "ENSP00000427354",
+                "ENSP00000425430",
+                "ENSP00000421789",
+                "ENSP00000427644"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000132463",
+                    "GGGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000132463",
+                    "UGGGG"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000962",
+                    "positive regulation of mitochondrial RNA catabolic process"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0003729",
+                    "mRNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0005739",
+                    "mitochondrion"
+                ],
+                [
+                    "GO:0005759",
+                    "mitochondrial matrix"
+                ],
+                [
+                    "GO:0006378",
+                    "mRNA polyadenylation"
+                ],
+                [
+                    "GO:0006396",
+                    "RNA processing"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0008033",
+                    "tRNA processing"
+                ],
+                [
+                    "GO:0009952",
+                    "anterior/posterior pattern specification"
+                ],
+                [
+                    "GO:0016331",
+                    "morphogenesis of embryonic epithelium"
+                ],
+                [
+                    "GO:0035770",
+                    "ribonucleoprotein granule"
+                ],
+                [
+                    "GO:0042645",
+                    "mitochondrial nucleoid"
+                ],
+                [
+                    "GO:0043484",
+                    "regulation of RNA splicing"
+                ],
+                [
+                    "GO:1990904",
+                    "ribonucleoprotein complex"
+                ]
+            ]
+        },
+        "ENSG00000126945": {
+            "protein_id": [
+                "ENSP00000361927"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000126945",
+                    "GGGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000126945",
+                    "UGGGG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000126945",
+                    "GGGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000126945",
+                    "UGGGG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000126945",
+                    "UGGGG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000126945",
+                    "UGGGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000126945",
+                    "GGGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000126945",
+                    "UGGGG"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000398",
+                    "mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005829",
+                    "cytosol"
+                ],
+                [
+                    "GO:0014069",
+                    "postsynaptic density"
+                ],
+                [
+                    "GO:0016020",
+                    "membrane"
+                ],
+                [
+                    "GO:0016070",
+                    "RNA metabolic process"
+                ],
+                [
+                    "GO:0043484",
+                    "regulation of RNA splicing"
+                ],
+                [
+                    "GO:1990904",
+                    "ribonucleoprotein complex"
+                ]
+            ]
+        },
+        "ENSG00000169045": {
+            "protein_id": [
+                "ENSP00000377082",
+                "ENSP00000397797",
+                "ENSP00000349168",
+                "ENSP00000327539",
+                "ENSP00000426275",
+                "ENSP00000425851",
+                "ENSP00000429673",
+                "ENSP00000429481",
+                "ENSP00000427845",
+                "ENSP00000430445",
+                "ENSP00000428620",
+                "ENSP00000429270",
+                "ENSP00000427408",
+                "ENSP00000422955",
+                "ENSP00000425732",
+                "ENSP00000420850",
+                "ENSP00000427986",
+                "ENSP00000424087",
+                "ENSP00000423140",
+                "ENSP00000430970",
+                "ENSP00000430156",
+                "ENSP00000427388",
+                "ENSP00000426518",
+                "ENSP00000421695",
+                "ENSP00000429661",
+                "ENSP00000425343",
+                "ENSP00000427351",
+                "ENSP00000426726",
+                "ENSP00000486889",
+                "ENSP00000429179"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169045",
+                    "GGGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169045",
+                    "UGGGG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169045",
+                    "GGGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169045",
+                    "UGGGG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169045",
+                    "UGGGG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169045",
+                    "UGGGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169045",
+                    "GGGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169045",
+                    "UGGGG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169045",
+                    "GGGG"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000398",
+                    "mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005681",
+                    "spliceosomal complex"
+                ],
+                [
+                    "GO:0005829",
+                    "cytosol"
+                ],
+                [
+                    "GO:0006396",
+                    "RNA processing"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0008266",
+                    "poly(U) RNA binding"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0008543",
+                    "fibroblast growth factor receptor signaling pathway"
+                ],
+                [
+                    "GO:0016020",
+                    "membrane"
+                ],
+                [
+                    "GO:0016070",
+                    "RNA metabolic process"
+                ],
+                [
+                    "GO:0042802",
+                    "identical protein binding"
+                ],
+                [
+                    "GO:0043484",
+                    "regulation of RNA splicing"
+                ],
+                [
+                    "GO:0071013",
+                    "catalytic step 2 spliceosome"
+                ],
+                [
+                    "GO:1990904",
+                    "ribonucleoprotein complex"
+                ]
+            ]
+        },
+        "ENSG00000169813": {
+            "protein_id": [
+                "ENSP00000349573",
+                "ENSP00000348345",
+                "ENSP00000338477",
+                "ENSP00000490768",
+                "ENSP00000438061",
+                "ENSP00000400433",
+                "ENSP00000507787"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169813",
+                    "GGGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169813",
+                    "UGGGG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169813",
+                    "GGGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169813",
+                    "GGGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169813",
+                    "UGGGG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169813",
+                    "UGGGG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000169813",
+                    "UGGGGU"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000398",
+                    "mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0003727",
+                    "single-stranded RNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005681",
+                    "spliceosomal complex"
+                ],
+                [
+                    "GO:0005829",
+                    "cytosol"
+                ],
+                [
+                    "GO:0005886",
+                    "plasma membrane"
+                ],
+                [
+                    "GO:0006396",
+                    "RNA processing"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0008543",
+                    "fibroblast growth factor receptor signaling pathway"
+                ],
+                [
+                    "GO:0016020",
+                    "membrane"
+                ],
+                [
+                    "GO:0016070",
+                    "RNA metabolic process"
+                ],
+                [
+                    "GO:0035722",
+                    "interleukin-12-mediated signaling pathway"
+                ],
+                [
+                    "GO:0043484",
+                    "regulation of RNA splicing"
+                ],
+                [
+                    "GO:0071013",
+                    "catalytic step 2 spliceosome"
+                ],
+                [
+                    "GO:1990904",
+                    "ribonucleoprotein complex"
+                ],
+                [
+                    "GO:0008134",
+                    "transcription factor binding"
+                ],
+                [
+                    "GO:0017025",
+                    "TBP-class protein binding"
+                ]
+            ]
+        },
+        "ENSG00000096746": {
+            "protein_id": [
+                "ENSP00000265866",
+                "ENSP00000346726"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000096746",
+                    "GGGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000096746",
+                    "UGGGG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000096746",
+                    "UGGGG"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000096746",
+                    "GGGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000096746",
+                    "UGGGG"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000398",
+                    "mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005681",
+                    "spliceosomal complex"
+                ],
+                [
+                    "GO:0006396",
+                    "RNA processing"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0030855",
+                    "epithelial cell differentiation"
+                ],
+                [
+                    "GO:0043484",
+                    "regulation of RNA splicing"
+                ],
+                [
+                    "GO:1990904",
+                    "ribonucleoprotein complex"
+                ]
+            ]
+        }
+    },
+    "16": {
+        "homologies": [
+            "ENSG00000088247",
+            "ENSG00000139910"
+        ],
+        "ENSG00000088247": {
+            "protein_id": [
+                "ENSP00000471146",
+                "ENSP00000381216",
+                "ENSP00000469804",
+                "ENSP00000478033",
+                "ENSP00000472328",
+                "ENSP00000473254",
+                "ENSP00000472347",
+                "ENSP00000471262",
+                "ENSP00000469830",
+                "ENSP00000469431"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000088247",
+                    "GGGU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGGG_8",
+                    "UGGGGUGUGACAAUGGUGUUUG",
+                    "ENSG00000088247",
+                    "UGGG"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0003729",
+                    "mRNA binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0006355",
+                    "regulation of transcription, DNA-templated"
+                ],
+                [
+                    "GO:0006402",
+                    "mRNA catabolic process"
+                ],
+                [
+                    "GO:0010494",
+                    "cytoplasmic stress granule"
+                ],
+                [
+                    "GO:2000628",
+                    "regulation of miRNA metabolic process"
+                ],
+                [
+                    "GO:0000178",
+                    "exosome (RNase complex)"
+                ],
+                [
+                    "GO:0000375",
+                    "RNA splicing, via transesterification reactions"
+                ],
+                [
+                    "GO:0003677",
+                    "DNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0005829",
+                    "cytosol"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0010468",
+                    "regulation of gene expression"
+                ],
+                [
+                    "GO:0010586",
+                    "miRNA metabolic process"
+                ],
+                [
+                    "GO:0010989",
+                    "negative regulation of low-density lipoprotein particle clearance"
+                ],
+                [
+                    "GO:0016020",
+                    "membrane"
+                ],
+                [
+                    "GO:0035925",
+                    "mRNA 3'-UTR AU-rich region binding"
+                ],
+                [
+                    "GO:0043488",
+                    "regulation of mRNA stability"
+                ],
+                [
+                    "GO:0045019",
+                    "negative regulation of nitric oxide biosynthetic process"
+                ],
+                [
+                    "GO:0051028",
+                    "mRNA transport"
+                ],
+                [
+                    "GO:0061014",
+                    "positive regulation of mRNA catabolic process"
+                ],
+                [
+                    "GO:0061158",
+                    "3'-UTR-mediated mRNA destabilization"
+                ],
+                [
+                    "GO:0071345",
+                    "cellular response to cytokine stimulus"
+                ]
+            ]
+        },
+        "ENSG00000139910": {
+            "protein_id": [
+                "ENSP00000448956",
+                "ENSP00000447391",
+                "ENSP00000438875",
+                "ENSP00000408914",
+                "ENSP00000299472",
+                "ENSP00000448144",
+                "ENSP00000449113",
+                "ENSP00000449185",
+                "ENSP00000342387",
+                "ENSP00000448157",
+                "ENSP00000459545"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGUG_9",
+                    "UGGUGUGUGACAAUGGUGUUUG",
+                    "ENSG00000139910",
+                    "UGUGU"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000398",
+                    "mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0000381",
+                    "regulation of alternative mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003729",
+                    "mRNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005730",
+                    "nucleolus"
+                ],
+                [
+                    "GO:0005737",
+                    "cytoplasm"
+                ],
+                [
+                    "GO:0006396",
+                    "RNA processing"
+                ],
+                [
+                    "GO:0007268",
+                    "chemical synaptic transmission"
+                ],
+                [
+                    "GO:0007626",
+                    "locomotory behavior"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0010468",
+                    "regulation of gene expression"
+                ],
+                [
+                    "GO:0043231",
+                    "intracellular membrane-bounded organelle"
+                ],
+                [
+                    "GO:0045202",
+                    "synapse"
+                ],
+                [
+                    "GO:0051252",
+                    "regulation of RNA metabolic process"
+                ],
+                [
+                    "GO:0120163",
+                    "negative regulation of cold-induced thermogenesis"
+                ]
+            ]
+        }
+    },
+    "17": {
+        "homologies": [
+            "ENSG00000111786"
+        ],
+        "ENSG00000111786": {
+            "protein_id": [
+                "ENSP00000229390",
+                "ENSP00000474283",
+                "ENSP00000449030"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAU_10",
+                    "UGGAUUGUGACAAUGGUGUUUG",
+                    "ENSG00000111786",
+                    "UGGAU"
+                ],
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAC_12",
+                    "UGGACUGUGACAAUGGUGUUUG",
+                    "ENSG00000111786",
+                    "UGGAC"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0000380",
+                    "alternative mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0000398",
+                    "mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005730",
+                    "nucleolus"
+                ],
+                [
+                    "GO:0006376",
+                    "mRNA splice site selection"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0006405",
+                    "RNA export from nucleus"
+                ],
+                [
+                    "GO:0006406",
+                    "mRNA export from nucleus"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0009636",
+                    "response to toxic substance"
+                ],
+                [
+                    "GO:0016607",
+                    "nuclear speck"
+                ],
+                [
+                    "GO:0019904",
+                    "protein domain specific binding"
+                ],
+                [
+                    "GO:0031124",
+                    "mRNA 3'-end processing"
+                ],
+                [
+                    "GO:0043279",
+                    "response to alkaloid"
+                ],
+                [
+                    "GO:0048025",
+                    "negative regulation of mRNA splicing, via spliceosome"
+                ]
+            ]
+        }
+    },
+    "18": {
+        "homologies": [
+            "ENSG00000011304"
+        ],
+        "ENSG00000011304": {
+            "protein_id": [
+                "ENSP00000489604",
+                "ENSP00000486218",
+                "ENSP00000504032",
+                "ENSP00000501551",
+                "ENSP00000014112",
+                "ENSP00000468565",
+                "ENSP00000349428",
+                "ENSP00000408096",
+                "ENSP00000465652",
+                "ENSP00000478974",
+                "ENSP00000504829",
+                "ENSP00000342332",
+                "ENSP00000466250",
+                "ENSP00000478414",
+                "ENSP00000465451",
+                "ENSP00000478097"
+            ],
+            "motifs": [
+                [
+                    ">miRNA_Homo sapiens_GGAG_GGAC_12",
+                    "UGGACUGUGACAAUGGUGUUUG",
+                    "ENSG00000011304",
+                    "CUGU"
+                ]
+            ],
+            "functions": [
+                [
+                    "GO:0003676",
+                    "nucleic acid binding"
+                ],
+                [
+                    "GO:0003723",
+                    "RNA binding"
+                ],
+                [
+                    "GO:0005634",
+                    "nucleus"
+                ],
+                [
+                    "GO:0006397",
+                    "mRNA processing"
+                ],
+                [
+                    "GO:0008380",
+                    "RNA splicing"
+                ],
+                [
+                    "GO:0000381",
+                    "regulation of alternative mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0000398",
+                    "mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0003729",
+                    "mRNA binding"
+                ],
+                [
+                    "GO:0005515",
+                    "protein binding"
+                ],
+                [
+                    "GO:0005654",
+                    "nucleoplasm"
+                ],
+                [
+                    "GO:0005730",
+                    "nucleolus"
+                ],
+                [
+                    "GO:0008187",
+                    "poly-pyrimidine tract binding"
+                ],
+                [
+                    "GO:0008543",
+                    "fibroblast growth factor receptor signaling pathway"
+                ],
+                [
+                    "GO:0016020",
+                    "membrane"
+                ],
+                [
+                    "GO:0016070",
+                    "RNA metabolic process"
+                ],
+                [
+                    "GO:0033119",
+                    "negative regulation of RNA splicing"
+                ],
+                [
+                    "GO:0035307",
+                    "positive regulation of protein dephosphorylation"
+                ],
+                [
+                    "GO:0036002",
+                    "pre-mRNA binding"
+                ],
+                [
+                    "GO:0043484",
+                    "regulation of RNA splicing"
+                ],
+                [
+                    "GO:0045595",
+                    "regulation of cell differentiation"
+                ],
+                [
+                    "GO:0048025",
+                    "negative regulation of mRNA splicing, via spliceosome"
+                ],
+                [
+                    "GO:0051148",
+                    "negative regulation of muscle cell differentiation"
+                ],
+                [
+                    "GO:0070062",
+                    "extracellular exosome"
+                ],
+                [
+                    "GO:0070886",
+                    "positive regulation of calcineurin-NFAT signaling cascade"
+                ],
+                [
+                    "GO:0075522",
+                    "IRES-dependent viral translational initiation"
+                ]
+            ]
+        }
+    }
+}

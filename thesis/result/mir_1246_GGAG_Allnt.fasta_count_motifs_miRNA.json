@@ -1,0 +1,5030 @@
+{
+    "GCGC": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGCG_38",
+                "AAUGGAUUUUUAGCGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGCG_102",
+                "AAUGGAUUUUUCGCGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGCG_38",
+                "AAUGGAUUUUUAGCGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGCG_102",
+                "AAUGGAUUUUUCGCGCAGG"
+            ]
+        ]
+    },
+    "UGUGU": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUGU_187",
+                "AAUGGAUUUUUGUGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUGU_187",
+                "AAUGGAUUUUUGUGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUGU_187",
+                "AAUGGAUUUUUGUGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUGU_187",
+                "AAUGGAUUUUUGUGUCAGG"
+            ]
+        ]
+    },
+    "UGUU": {
+        "count": 6,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUA_188",
+                "AAUGGAUUUUUGUUACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUC_189",
+                "AAUGGAUUUUUGUUCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUG_190",
+                "AAUGGAUUUUUGUUGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUA_188",
+                "AAUGGAUUUUUGUUACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUC_189",
+                "AAUGGAUUUUUGUUCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUG_190",
+                "AAUGGAUUUUUGUUGCAGG"
+            ]
+        ]
+    },
+    "UGUUU": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUU_191",
+                "AAUGGAUUUUUGUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUU_191",
+                "AAUGGAUUUUUGUUUCAGG"
+            ]
+        ]
+    },
+    "UUGUG": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUGA_184",
+                "AAUGGAUUUUUGUGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUGC_185",
+                "AAUGGAUUUUUGUGCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUGG_186",
+                "AAUGGAUUUUUGUGGCAGG"
+            ]
+        ]
+    },
+    "UUGUU": {
+        "count": 9,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUA_188",
+                "AAUGGAUUUUUGUUACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUA_188",
+                "AAUGGAUUUUUGUUACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUC_189",
+                "AAUGGAUUUUUGUUCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUC_189",
+                "AAUGGAUUUUUGUUCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUG_190",
+                "AAUGGAUUUUUGUUGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUG_190",
+                "AAUGGAUUUUUGUUGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUA_188",
+                "AAUGGAUUUUUGUUACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUC_189",
+                "AAUGGAUUUUUGUUCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUG_190",
+                "AAUGGAUUUUUGUUGCAGG"
+            ]
+        ]
+    },
+    "UAUGU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUGU_59",
+                "AAUGGAUUUUUAUGUCAGG"
+            ]
+        ]
+    },
+    "UGUUC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUC_189",
+                "AAUGGAUUUUUGUUCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGUU_239",
+                "AAUGGAUUUUUUGUUCAGG"
+            ]
+        ]
+    },
+    "UGUUG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUG_190",
+                "AAUGGAUUUUUGUUGCAGG"
+            ]
+        ]
+    },
+    "UUGUGU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUGU_187",
+                "AAUGGAUUUUUGUGUCAGG"
+            ]
+        ]
+    },
+    "GAUC": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAU_35",
+                "AAUGGAUUUUUAGAUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAU_35",
+                "AAUGGAUUUUUAGAUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAU_35",
+                "AAUGGAUUUUUAGAUCAGG"
+            ]
+        ]
+    },
+    "UUUUA": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ]
+        ]
+    },
+    "UUUUUU": {
+        "count": 36,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UAAA_192",
+                "AAUGGAUUUUUUAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UAAA_192",
+                "AAUGGAUUUUUUAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UAAA_192",
+                "AAUGGAUUUUUUAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UAAA_192",
+                "AAUGGAUUUUUUAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UAAA_192",
+                "AAUGGAUUUUUUAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UAAA_192",
+                "AAUGGAUUUUUUAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UAAA_192",
+                "AAUGGAUUUUUUAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UAAA_192",
+                "AAUGGAUUUUUUAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UAAA_192",
+                "AAUGGAUUUUUUAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "UUUUUUU": {
+        "count": 180,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAG_242",
+                "AAUGGAUUUUUUUAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCU_247",
+                "AAUGGAUUUUUUUCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUG_254",
+                "AAUGGAUUUUUUUUGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGG_250",
+                "AAUGGAUUUUUUUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "AGAAC": {
+        "count": 6,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAA_32",
+                "AAUGGAUUUUUAGAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAA_32",
+                "AAUGGAUUUUUAGAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAA_32",
+                "AAUGGAUUUUUAGAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAA_32",
+                "AAUGGAUUUUUAGAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAA_32",
+                "AAUGGAUUUUUAGAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAA_32",
+                "AAUGGAUUUUUAGAACAGG"
+            ]
+        ]
+    },
+    "GGCG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGCG_166",
+                "AAUGGAUUUUUGGCGCAGG"
+            ]
+        ]
+    },
+    "CGCG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGCG_102",
+                "AAUGGAUUUUUCGCGCAGG"
+            ]
+        ]
+    },
+    "AUUU": {
+        "count": 12,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "AUUUU": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "UUUAUUU": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUUU_63",
+                "AAUGGAUUUUUAUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AUUU_63",
+                "AAUGGAUUUUUAUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AUUU_63",
+                "AAUGGAUUUUUAUUUCAGG"
+            ]
+        ]
+    },
+    "UUUGUUU": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUU_191",
+                "AAUGGAUUUUUGUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUU_191",
+                "AAUGGAUUUUUGUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUU_191",
+                "AAUGGAUUUUUGUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUU_191",
+                "AAUGGAUUUUUGUUUCAGG"
+            ]
+        ]
+    },
+    "UUUAGUU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGUU_47",
+                "AAUGGAUUUUUAGUUCAGG"
+            ]
+        ]
+    },
+    "UUUGGUU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGUU_175",
+                "AAUGGAUUUUUGGUUCAGG"
+            ]
+        ]
+    },
+    "UUUU": {
+        "count": 8,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "UUUUU": {
+        "count": 16,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "UUUUUUG": {
+        "count": 18,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UGAA_224",
+                "AAUGGAUUUUUUGAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGCC_229",
+                "AAUGGAUUUUUUGCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGAA_224",
+                "AAUGGAUUUUUUGAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGCC_229",
+                "AAUGGAUUUUUUGCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGAA_224",
+                "AAUGGAUUUUUUGAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGCC_229",
+                "AAUGGAUUUUUUGCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGAA_224",
+                "AAUGGAUUUUUUGAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGCC_229",
+                "AAUGGAUUUUUUGCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGAA_224",
+                "AAUGGAUUUUUUGAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGAG_226",
+                "AAUGGAUUUUUUGAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGCC_229",
+                "AAUGGAUUUUUUGCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGCU_231",
+                "AAUGGAUUUUUUGCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ]
+        ]
+    },
+    "AUUUC": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUUU_63",
+                "AAUGGAUUUUUAUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AUUU_63",
+                "AAUGGAUUUUUAUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AUUU_63",
+                "AAUGGAUUUUUAUUUCAGG"
+            ]
+        ]
+    },
+    "AUUUUUA": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ]
+        ]
+    },
+    "AUUUUUC": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAAA_64",
+                "AAUGGAUUUUUCAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CAAU_67",
+                "AAUGGAUUUUUCAAUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ]
+        ]
+    },
+    "AUUUUUUUA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UUAA_240",
+                "AAUGGAUUUUUUUAACAGG"
+            ]
+        ]
+    },
+    "CUUUC": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUU_127",
+                "AAUGGAUUUUUCUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUU_127",
+                "AAUGGAUUUUUCUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUU_127",
+                "AAUGGAUUUUUCUUUCAGG"
+            ]
+        ]
+    },
+    "GAAA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GAAA_128",
+                "AAUGGAUUUUUGAAACAGG"
+            ]
+        ]
+    },
+    "GUUUC": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUU_191",
+                "AAUGGAUUUUUGUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUU_191",
+                "AAUGGAUUUUUGUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUU_191",
+                "AAUGGAUUUUUGUUUCAGG"
+            ]
+        ]
+    },
+    "AAGACAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAGA_8",
+                "AAUGGAUUUUUAAGACAGG"
+            ]
+        ]
+    },
+    "UAGACAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UAGA_200",
+                "AAUGGAUUUUUUAGACAGG"
+            ]
+        ]
+    },
+    "CAGACAG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAGA_72",
+                "AAUGGAUUUUUCAGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CAGA_72",
+                "AAUGGAUUUUUCAGACAGG"
+            ]
+        ]
+    },
+    "AGGACAG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGA_40",
+                "AAUGGAUUUUUAGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGA_40",
+                "AAUGGAUUUUUAGGACAGG"
+            ]
+        ]
+    },
+    "UGGACAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGA_232",
+                "AAUGGAUUUUUUGGACAGG"
+            ]
+        ]
+    },
+    "CGGACAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGA_104",
+                "AAUGGAUUUUUCGGACAGG"
+            ]
+        ]
+    },
+    "AAUACAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAUA_12",
+                "AAUGGAUUUUUAAUACAGG"
+            ]
+        ]
+    },
+    "UAUACAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UAUA_204",
+                "AAUGGAUUUUUUAUACAGG"
+            ]
+        ]
+    },
+    "CAUACAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAUA_76",
+                "AAUGGAUUUUUCAUACAGG"
+            ]
+        ]
+    },
+    "AGUACAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGUA_44",
+                "AAUGGAUUUUUAGUACAGG"
+            ]
+        ]
+    },
+    "UGUACAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UGUA_236",
+                "AAUGGAUUUUUUGUACAGG"
+            ]
+        ]
+    },
+    "CGUACAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGUA_108",
+                "AAUGGAUUUUUCGUACAGG"
+            ]
+        ]
+    },
+    "AGCC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAGC_9",
+                "AAUGGAUUUUUAAGCCAGG"
+            ]
+        ]
+    },
+    "UUUCAGA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAGA_72",
+                "AAUGGAUUUUUCAGACAGG"
+            ]
+        ]
+    },
+    "GAAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GAAG_130",
+                "AAUGGAUUUUUGAAGCAGG"
+            ]
+        ]
+    },
+    "GCUGC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUG_158",
+                "AAUGGAUUUUUGCUGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUG_158",
+                "AAUGGAUUUUUGCUGCAGG"
+            ]
+        ]
+    },
+    "GGACAGG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGA_40",
+                "AAUGGAUUUUUAGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGA_40",
+                "AAUGGAUUUUUAGGACAGG"
+            ]
+        ]
+    },
+    "UGACAGG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUGA_56",
+                "AAUGGAUUUUUAUGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AUGA_56",
+                "AAUGGAUUUUUAUGACAGG"
+            ]
+        ]
+    },
+    "GGUG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGUG_174",
+                "AAUGGAUUUUUGGUGCAGG"
+            ]
+        ]
+    },
+    "ACGACA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACGA_24",
+                "AAUGGAUUUUUACGACAGG"
+            ]
+        ]
+    },
+    "AUGACA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUGA_56",
+                "AAUGGAUUUUUAUGACAGG"
+            ]
+        ]
+    },
+    "AGACAGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAGA_8",
+                "AAUGGAUUUUUAAGACAGG"
+            ]
+        ]
+    },
+    "UGGGA": {
+        "count": 14,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ]
+        ]
+    },
+    "UGGGU": {
+        "count": 11,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGU_171",
+                "AAUGGAUUUUUGGGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGU_171",
+                "AAUGGAUUUUUGGGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGU_171",
+                "AAUGGAUUUUUGGGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGU_171",
+                "AAUGGAUUUUUGGGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGU_171",
+                "AAUGGAUUUUUGGGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGU_171",
+                "AAUGGAUUUUUGGGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGU_171",
+                "AAUGGAUUUUUGGGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGU_171",
+                "AAUGGAUUUUUGGGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGU_171",
+                "AAUGGAUUUUUGGGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGU_171",
+                "AAUGGAUUUUUGGGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGU_171",
+                "AAUGGAUUUUUGGGUCAGG"
+            ]
+        ]
+    },
+    "UGGGG": {
+        "count": 15,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ]
+        ]
+    },
+    "AUAGCA": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUAG_50",
+                "AAUGGAUUUUUAUAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AUAG_50",
+                "AAUGGAUUUUUAUAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AUAG_50",
+                "AAUGGAUUUUUAUAGCAGG"
+            ]
+        ]
+    },
+    "UAGACA": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UAGA_200",
+                "AAUGGAUUUUUUAGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UAGA_200",
+                "AAUGGAUUUUUUAGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UAGA_200",
+                "AAUGGAUUUUUUAGACAGG"
+            ]
+        ]
+    },
+    "UAGGA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGA_40",
+                "AAUGGAUUUUUAGGACAGG"
+            ]
+        ]
+    },
+    "UAGGCA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UAGG_202",
+                "AAUGGAUUUUUUAGGCAGG"
+            ]
+        ]
+    },
+    "UAGGGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGG_42",
+                "AAUGGAUUUUUAGGGCAGG"
+            ]
+        ]
+    },
+    "UUUAUA": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUAA_48",
+                "AAUGGAUUUUUAUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AUAA_48",
+                "AAUGGAUUUUUAUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AUAA_48",
+                "AAUGGAUUUUUAUAACAGG"
+            ]
+        ]
+    },
+    "UACGGC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACGG_26",
+                "AAUGGAUUUUUACGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_ACGG_26",
+                "AAUGGAUUUUUACGGCAGG"
+            ]
+        ]
+    },
+    "UCGGGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGG_106",
+                "AAUGGAUUUUUCGGGCAGG"
+            ]
+        ]
+    },
+    "AUUUUUG": {
+        "count": 10,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GAAA_128",
+                "AAUGGAUUUUUGAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GCCC_149",
+                "AAUGGAUUUUUGCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GAAA_128",
+                "AAUGGAUUUUUGAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GCCC_149",
+                "AAUGGAUUUUUGCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GACU_135",
+                "AAUGGAUUUUUGACUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GAGU_139",
+                "AAUGGAUUUUUGAGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GCGC_153",
+                "AAUGGAUUUUUGCGCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ]
+        ]
+    },
+    "AUUUUUU": {
+        "count": 17,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UAAA_192",
+                "AAUGGAUUUUUUAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UAAA_192",
+                "AAUGGAUUUUUUAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UAAG_194",
+                "AAUGGAUUUUUUAAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UACG_198",
+                "AAUGGAUUUUUUACGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGUG_238",
+                "AAUGGAUUUUUUGUGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UAAA_192",
+                "AAUGGAUUUUUUAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "UUUUUA": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ]
+        ]
+    },
+    "UUUUUC": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAAA_64",
+                "AAUGGAUUUUUCAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "UUUUUG": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GAAA_128",
+                "AAUGGAUUUUUGAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GCCC_149",
+                "AAUGGAUUUUUGCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ]
+        ]
+    },
+    "UUAGAG": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAG_34",
+                "AAUGGAUUUUUAGAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAG_34",
+                "AAUGGAUUUUUAGAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAG_34",
+                "AAUGGAUUUUUAGAGCAGG"
+            ]
+        ]
+    },
+    "UUAGGA": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGA_40",
+                "AAUGGAUUUUUAGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGA_40",
+                "AAUGGAUUUUUAGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGA_40",
+                "AAUGGAUUUUUAGGACAGG"
+            ]
+        ]
+    },
+    "UUAGGG": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGG_42",
+                "AAUGGAUUUUUAGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGG_42",
+                "AAUGGAUUUUUAGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGG_42",
+                "AAUGGAUUUUUAGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGG_42",
+                "AAUGGAUUUUUAGGGCAGG"
+            ]
+        ]
+    },
+    "ACUGCA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACUG_30",
+                "AAUGGAUUUUUACUGCAGG"
+            ]
+        ]
+    },
+    "UGUCGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUCG_182",
+                "AAUGGAUUUUUGUCGCAGG"
+            ]
+        ]
+    },
+    "AGGGC": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGG_42",
+                "AAUGGAUUUUUAGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGG_42",
+                "AAUGGAUUUUUAGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGG_42",
+                "AAUGGAUUUUUAGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGG_42",
+                "AAUGGAUUUUUAGGGCAGG"
+            ]
+        ]
+    },
+    "CGGGC": {
+        "count": 7,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGG_106",
+                "AAUGGAUUUUUCGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGG_106",
+                "AAUGGAUUUUUCGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGG_106",
+                "AAUGGAUUUUUCGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGG_106",
+                "AAUGGAUUUUUCGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGG_106",
+                "AAUGGAUUUUUCGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGG_106",
+                "AAUGGAUUUUUCGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGG_106",
+                "AAUGGAUUUUUCGGGCAGG"
+            ]
+        ]
+    },
+    "GGGGC": {
+        "count": 5,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ]
+        ]
+    },
+    "UGGGC": {
+        "count": 8,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGC_169",
+                "AAUGGAUUUUUGGGCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGC_169",
+                "AAUGGAUUUUUGGGCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGC_169",
+                "AAUGGAUUUUUGGGCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGC_169",
+                "AAUGGAUUUUUGGGCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGGG_234",
+                "AAUGGAUUUUUUGGGCAGG"
+            ]
+        ]
+    },
+    "GCCCAG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGCC_37",
+                "AAUGGAUUUUUAGCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGCC_101",
+                "AAUGGAUUUUUCGCCCAGG"
+            ]
+        ]
+    },
+    "UCCCAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCA_84",
+                "AAUGGAUUUUUCCCACAGG"
+            ]
+        ]
+    },
+    "AACA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ]
+        ]
+    },
+    "ACAA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACAA_16",
+                "AAUGGAUUUUUACAACAGG"
+            ]
+        ]
+    },
+    "ACAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AACA_4",
+                "AAUGGAUUUUUAACACAGG"
+            ]
+        ]
+    },
+    "ACAU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACAU_19",
+                "AAUGGAUUUUUACAUCAGG"
+            ]
+        ]
+    },
+    "CACA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AACA_4",
+                "AAUGGAUUUUUAACACAGG"
+            ]
+        ]
+    },
+    "CACC": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACAC_17",
+                "AAUGGAUUUUUACACCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_ACAC_17",
+                "AAUGGAUUUUUACACCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_ACAC_17",
+                "AAUGGAUUUUUACACCAGG"
+            ]
+        ]
+    },
+    "CACG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CACG_70",
+                "AAUGGAUUUUUCACGCAGG"
+            ]
+        ]
+    },
+    "CCAC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACCA_20",
+                "AAUGGAUUUUUACCACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_ACCA_20",
+                "AAUGGAUUUUUACCACAGG"
+            ]
+        ]
+    },
+    "GCAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGCA_36",
+                "AAUGGAUUUUUAGCACAGG"
+            ]
+        ]
+    },
+    "UACA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAUA_12",
+                "AAUGGAUUUUUAAUACAGG"
+            ]
+        ]
+    },
+    "UCCG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCGA_88",
+                "AAUGGAUUUUUCCGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCGU_91",
+                "AAUGGAUUUUUCCGUCAGG"
+            ]
+        ]
+    },
+    "CAUU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAUU_79",
+                "AAUGGAUUUUUCAUUCAGG"
+            ]
+        ]
+    },
+    "UUAAAA": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ]
+        ]
+    },
+    "UUAAAU": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAU_3",
+                "AAUGGAUUUUUAAAUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAU_3",
+                "AAUGGAUUUUUAAAUCAGG"
+            ]
+        ]
+    },
+    "UUUUAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACCG_22",
+                "AAUGGAUUUUUACCGCAGG"
+            ]
+        ]
+    },
+    "AGGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGG_42",
+                "AAUGGAUUUUUAGGGCAGG"
+            ]
+        ]
+    },
+    "GGGU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGU_171",
+                "AAUGGAUUUUUGGGUCAGG"
+            ]
+        ]
+    },
+    "UAGGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGG_42",
+                "AAUGGAUUUUUAGGGCAGG"
+            ]
+        ]
+    },
+    "UGGG": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGC_169",
+                "AAUGGAUUUUUGGGCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ]
+        ]
+    },
+    "UUAG": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAA_32",
+                "AAUGGAUUUUUAGAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAA_32",
+                "AAUGGAUUUUUAGAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGCU_39",
+                "AAUGGAUUUUUAGCUCAGG"
+            ]
+        ]
+    },
+    "UUGGG": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGC_169",
+                "AAUGGAUUUUUGGGCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ]
+        ]
+    },
+    "UUUAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAA_32",
+                "AAUGGAUUUUUAGAACAGG"
+            ]
+        ]
+    },
+    "AUGCCA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUGC_57",
+                "AAUGGAUUUUUAUGCCAGG"
+            ]
+        ]
+    },
+    "CUGCCA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUGC_121",
+                "AAUGGAUUUUUCUGCCAGG"
+            ]
+        ]
+    },
+    "UCGCUC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGCU_103",
+                "AAUGGAUUUUUCGCUCAGG"
+            ]
+        ]
+    },
+    "UUGCCA": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCCA_148",
+                "AAUGGAUUUUUGCCACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUGC_249",
+                "AAUGGAUUUUUUUGCCAGG"
+            ]
+        ]
+    },
+    "UUGCCC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCCC_149",
+                "AAUGGAUUUUUGCCCCAGG"
+            ]
+        ]
+    },
+    "UUGCCG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCCG_150",
+                "AAUGGAUUUUUGCCGCAGG"
+            ]
+        ]
+    },
+    "UUGCCU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCCU_151",
+                "AAUGGAUUUUUGCCUCAGG"
+            ]
+        ]
+    },
+    "UUGCUA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUA_156",
+                "AAUGGAUUUUUGCUACAGG"
+            ]
+        ]
+    },
+    "UUGCUC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUC_157",
+                "AAUGGAUUUUUGCUCCAGG"
+            ]
+        ]
+    },
+    "UUGCUG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUG_158",
+                "AAUGGAUUUUUGCUGCAGG"
+            ]
+        ]
+    },
+    "UUGCUU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUU_159",
+                "AAUGGAUUUUUGCUUCAGG"
+            ]
+        ]
+    },
+    "CGCC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACGC_25",
+                "AAUGGAUUUUUACGCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCGC_89",
+                "AAUGGAUUUUUCCGCCAGG"
+            ]
+        ]
+    },
+    "UGCC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUGC_57",
+                "AAUGGAUUUUUAUGCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUGC_121",
+                "AAUGGAUUUUUCUGCCAGG"
+            ]
+        ]
+    },
+    "CGCU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGCU_103",
+                "AAUGGAUUUUUCGCUCAGG"
+            ]
+        ]
+    },
+    "UGCU": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUA_156",
+                "AAUGGAUUUUUGCUACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUC_157",
+                "AAUGGAUUUUUGCUCCAGG"
+            ]
+        ]
+    },
+    "UUUGCUGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUG_158",
+                "AAUGGAUUUUUGCUGCAGG"
+            ]
+        ]
+    },
+    "UUUGCUUC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUU_159",
+                "AAUGGAUUUUUGCUUCAGG"
+            ]
+        ]
+    },
+    "UCACC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CACC_69",
+                "AAUGGAUUUUUCACCCAGG"
+            ]
+        ]
+    },
+    "UCAC": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUCA_52",
+                "AAUGGAUUUUUAUCACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AUCA_52",
+                "AAUGGAUUUUUAUCACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AUCA_52",
+                "AAUGGAUUUUUAUCACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AUCA_52",
+                "AAUGGAUUUUUAUCACAGG"
+            ]
+        ]
+    },
+    "UCAU": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAUA_76",
+                "AAUGGAUUUUUCAUACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CAUA_76",
+                "AAUGGAUUUUUCAUACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CAUA_76",
+                "AAUGGAUUUUUCAUACAGG"
+            ]
+        ]
+    },
+    "UUCAG": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAUU_15",
+                "AAUGGAUUUUUAAUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUU_95",
+                "AAUGGAUUUUUCCUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGUU_175",
+                "AAUGGAUUUUUGGUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "UUCAU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAUA_76",
+                "AAUGGAUUUUUCAUACAGG"
+            ]
+        ]
+    },
+    "CCAU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCAU_83",
+                "AAUGGAUUUUUCCAUCAGG"
+            ]
+        ]
+    },
+    "CCAG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAC_1",
+                "AAUGGAUUUUUAAACCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ]
+        ]
+    },
+    "UCAG": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAU_3",
+                "AAUGGAUUUUUAAAUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCU_87",
+                "AAUGGAUUUUUCCCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGU_171",
+                "AAUGGAUUUUUGGGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "AUCAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUCA_52",
+                "AAUGGAUUUUUAUCACAGG"
+            ]
+        ]
+    },
+    "UGUA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUAA_176",
+                "AAUGGAUUUUUGUAACAGG"
+            ]
+        ]
+    },
+    "UUGUA": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUAA_176",
+                "AAUGGAUUUUUGUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUAA_176",
+                "AAUGGAUUUUUGUAACAGG"
+            ]
+        ]
+    },
+    "AGAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAGA_8",
+                "AAUGGAUUUUUAAGACAGG"
+            ]
+        ]
+    },
+    "CCUG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUG_94",
+                "AAUGGAUUUUUCCUGCAGG"
+            ]
+        ]
+    },
+    "AAAGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAG_2",
+                "AAUGGAUUUUUAAAGCAGG"
+            ]
+        ]
+    },
+    "UUGA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GAAA_128",
+                "AAUGGAUUUUUGAAACAGG"
+            ]
+        ]
+    },
+    "CCCU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCU_87",
+                "AAUGGAUUUUUCCCUCAGG"
+            ]
+        ]
+    },
+    "UCCCCA": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ]
+        ]
+    },
+    "AUCG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUCG_54",
+                "AAUGGAUUUUUAUCGCAGG"
+            ]
+        ]
+    },
+    "GCUU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUU_159",
+                "AAUGGAUUUUUGCUUCAGG"
+            ]
+        ]
+    },
+    "UUUAAA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ]
+        ]
+    },
+    "UUAUAA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUAA_48",
+                "AAUGGAUUUUUAUAACAGG"
+            ]
+        ]
+    },
+    "UUUUAA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ]
+        ]
+    },
+    "UUAAUA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAUA_12",
+                "AAUGGAUUUUUAAUACAGG"
+            ]
+        ]
+    },
+    "UUAUUA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUUA_60",
+                "AAUGGAUUUUUAUUACAGG"
+            ]
+        ]
+    },
+    "UUUAAU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAUA_12",
+                "AAUGGAUUUUUAAUACAGG"
+            ]
+        ]
+    },
+    "UUAUAU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUAU_51",
+                "AAUGGAUUUUUAUAUCAGG"
+            ]
+        ]
+    },
+    "UUUUAU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUCU_55",
+                "AAUGGAUUUUUAUCUCAGG"
+            ]
+        ]
+    },
+    "UUAAUU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAUU_15",
+                "AAUGGAUUUUUAAUUCAGG"
+            ]
+        ]
+    },
+    "UUUAUU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUUG_62",
+                "AAUGGAUUUUUAUUGCAGG"
+            ]
+        ]
+    },
+    "UUAUUU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUUU_63",
+                "AAUGGAUUUUUAUUUCAGG"
+            ]
+        ]
+    },
+    "AUUUUU": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "CUCU": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCU_119",
+                "AAUGGAUUUUUCUCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCU_119",
+                "AAUGGAUUUUUCUCUCAGG"
+            ]
+        ]
+    },
+    "CUCUC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCU_119",
+                "AAUGGAUUUUUCUCUCAGG"
+            ]
+        ]
+    },
+    "CUAA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUAA_112",
+                "AAUGGAUUUUUCUAACAGG"
+            ]
+        ]
+    },
+    "CUUA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUA_124",
+                "AAUGGAUUUUUCUUACAGG"
+            ]
+        ]
+    },
+    "CUCA": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AACU_7",
+                "AAUGGAUUUUUAACUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCU_87",
+                "AAUGGAUUUUUCCCUCAGG"
+            ]
+        ]
+    },
+    "CUGA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUGA_120",
+                "AAUGGAUUUUUCUGACAGG"
+            ]
+        ]
+    },
+    "CUAU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUAU_115",
+                "AAUGGAUUUUUCUAUCAGG"
+            ]
+        ]
+    },
+    "CUUU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUU_127",
+                "AAUGGAUUUUUCUUUCAGG"
+            ]
+        ]
+    },
+    "CUGU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUGU_123",
+                "AAUGGAUUUUUCUGUCAGG"
+            ]
+        ]
+    },
+    "CUAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACUA_28",
+                "AAUGGAUUUUUACUACAGG"
+            ]
+        ]
+    },
+    "CUUC": {
+        "count": 6,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACUU_31",
+                "AAUGGAUUUUUACUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUU_95",
+                "AAUGGAUUUUUCCUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_ACUU_31",
+                "AAUGGAUUUUUACUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_ACUU_31",
+                "AAUGGAUUUUUACUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUU_95",
+                "AAUGGAUUUUUCCUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUU_95",
+                "AAUGGAUUUUUCCUUCAGG"
+            ]
+        ]
+    },
+    "CUCC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACUC_29",
+                "AAUGGAUUUUUACUCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCC_117",
+                "AAUGGAUUUUUCUCCCAGG"
+            ]
+        ]
+    },
+    "CUGC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACUG_30",
+                "AAUGGAUUUUUACUGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUG_94",
+                "AAUGGAUUUUUCCUGCAGG"
+            ]
+        ]
+    },
+    "CUAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUAG_114",
+                "AAUGGAUUUUUCUAGCAGG"
+            ]
+        ]
+    },
+    "CUUG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUG_126",
+                "AAUGGAUUUUUCUUGCAGG"
+            ]
+        ]
+    },
+    "CUCG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCG_118",
+                "AAUGGAUUUUUCUCGCAGG"
+            ]
+        ]
+    },
+    "CUGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUGG_122",
+                "AAUGGAUUUUUCUGGCAGG"
+            ]
+        ]
+    },
+    "UUUUUCU": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUAA_112",
+                "AAUGGAUUUUUCUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCC_117",
+                "AAUGGAUUUUUCUCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUAA_112",
+                "AAUGGAUUUUUCUAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCG_118",
+                "AAUGGAUUUUUCUCGCAGG"
+            ]
+        ]
+    },
+    "UCUCU": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCU_119",
+                "AAUGGAUUUUUCUCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCU_119",
+                "AAUGGAUUUUUCUCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCU_119",
+                "AAUGGAUUUUUCUCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCU_119",
+                "AAUGGAUUUUUCUCUCAGG"
+            ]
+        ]
+    },
+    "UCUCUC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCU_119",
+                "AAUGGAUUUUUCUCUCAGG"
+            ]
+        ]
+    },
+    "UCUU": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUA_124",
+                "AAUGGAUUUUUCUUACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUA_124",
+                "AAUGGAUUUUUCUUACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUC_125",
+                "AAUGGAUUUUUCUUCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUC_125",
+                "AAUGGAUUUUUCUUCCAGG"
+            ]
+        ]
+    },
+    "UCUUC": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUC_125",
+                "AAUGGAUUUUUCUUCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUC_125",
+                "AAUGGAUUUUUCUUCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUC_125",
+                "AAUGGAUUUUUCUUCCAGG"
+            ]
+        ]
+    },
+    "UCUUU": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUU_127",
+                "AAUGGAUUUUUCUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUU_127",
+                "AAUGGAUUUUUCUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUU_127",
+                "AAUGGAUUUUUCUUUCAGG"
+            ]
+        ]
+    },
+    "UUCUUC": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUC_125",
+                "AAUGGAUUUUUCUUCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUC_125",
+                "AAUGGAUUUUUCUUCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUC_125",
+                "AAUGGAUUUUUCUUCCAGG"
+            ]
+        ]
+    },
+    "UUCUUG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUG_126",
+                "AAUGGAUUUUUCUUGCAGG"
+            ]
+        ]
+    },
+    "UUCUUU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUU_127",
+                "AAUGGAUUUUUCUUUCAGG"
+            ]
+        ]
+    },
+    "UUUCUUU": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUU_127",
+                "AAUGGAUUUUUCUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUU_127",
+                "AAUGGAUUUUUCUUUCAGG"
+            ]
+        ]
+    },
+    "UCUAA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUAA_112",
+                "AAUGGAUUUUUCUAACAGG"
+            ]
+        ]
+    },
+    "UCUUA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUA_124",
+                "AAUGGAUUUUUCUUACAGG"
+            ]
+        ]
+    },
+    "CCUCA": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACCU_23",
+                "AAUGGAUUUUUACCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCU_87",
+                "AAUGGAUUUUUCCCUCAGG"
+            ]
+        ]
+    },
+    "UCUCA": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCA_116",
+                "AAUGGAUUUUUCUCACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCU_119",
+                "AAUGGAUUUUUCUCUCAGG"
+            ]
+        ]
+    },
+    "UCUGA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUGA_120",
+                "AAUGGAUUUUUCUGACAGG"
+            ]
+        ]
+    },
+    "UCUAU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUAU_115",
+                "AAUGGAUUUUUCUAUCAGG"
+            ]
+        ]
+    },
+    "UCUGU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUGU_123",
+                "AAUGGAUUUUUCUGUCAGG"
+            ]
+        ]
+    },
+    "CCUAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUA_92",
+                "AAUGGAUUUUUCCUACAGG"
+            ]
+        ]
+    },
+    "UCUAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUAC_113",
+                "AAUGGAUUUUUCUACCAGG"
+            ]
+        ]
+    },
+    "CCUUC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUU_95",
+                "AAUGGAUUUUUCCUUCAGG"
+            ]
+        ]
+    },
+    "CCUCC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUC_93",
+                "AAUGGAUUUUUCCUCCAGG"
+            ]
+        ]
+    },
+    "UCUCC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCC_117",
+                "AAUGGAUUUUUCUCCCAGG"
+            ]
+        ]
+    },
+    "CCUGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUG_94",
+                "AAUGGAUUUUUCCUGCAGG"
+            ]
+        ]
+    },
+    "UCUGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUGC_121",
+                "AAUGGAUUUUUCUGCCAGG"
+            ]
+        ]
+    },
+    "UCUAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUAG_114",
+                "AAUGGAUUUUUCUAGCAGG"
+            ]
+        ]
+    },
+    "UCUUG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUG_126",
+                "AAUGGAUUUUUCUUGCAGG"
+            ]
+        ]
+    },
+    "UCUCG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCG_118",
+                "AAUGGAUUUUUCUCGCAGG"
+            ]
+        ]
+    },
+    "UCUGG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUGG_122",
+                "AAUGGAUUUUUCUGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUGG_122",
+                "AAUGGAUUUUUCUGGCAGG"
+            ]
+        ]
+    },
+    "UGUCCAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UGUC_237",
+                "AAUGGAUUUUUUGUCCAGG"
+            ]
+        ]
+    },
+    "UUUUUUC": {
+        "count": 11,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UCAA_208",
+                "AAUGGAUUUUUUCAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCAA_208",
+                "AAUGGAUUUUUUCAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCC_213",
+                "AAUGGAUUUUUUCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCAG_210",
+                "AAUGGAUUUUUUCAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCUA_220",
+                "AAUGGAUUUUUUCUACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCCU_215",
+                "AAUGGAUUUUUUCCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCUC_221",
+                "AAUGGAUUUUUUCUCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "CGGGCA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGG_106",
+                "AAUGGAUUUUUCGGGCAGG"
+            ]
+        ]
+    },
+    "AAUCCAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAUC_13",
+                "AAUGGAUUUUUAAUCCAGG"
+            ]
+        ]
+    },
+    "UAUCCAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UAUC_205",
+                "AAUGGAUUUUUUAUCCAGG"
+            ]
+        ]
+    },
+    "CAUCCAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAUC_77",
+                "AAUGGAUUUUUCAUCCAGG"
+            ]
+        ]
+    },
+    "AUCCCA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUCC_53",
+                "AAUGGAUUUUUAUCCCAGG"
+            ]
+        ]
+    },
+    "UAAGAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAGA_8",
+                "AAUGGAUUUUUAAGACAGG"
+            ]
+        ]
+    },
+    "UCAAA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAAA_64",
+                "AAUGGAUUUUUCAAACAGG"
+            ]
+        ]
+    },
+    "UUUC": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUUU_63",
+                "AAUGGAUUUUUAUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUU_191",
+                "AAUGGAUUUUUGUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "AAAA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ]
+        ]
+    },
+    "UUGCACA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UGCA_228",
+                "AAUGGAUUUUUUGCACAGG"
+            ]
+        ]
+    },
+    "GUGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUGG_186",
+                "AAUGGAUUUUUGUGGCAGG"
+            ]
+        ]
+    },
+    "CCUC": {
+        "count": 6,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACCU_23",
+                "AAUGGAUUUUUACCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCU_87",
+                "AAUGGAUUUUUCCCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_ACCU_23",
+                "AAUGGAUUUUUACCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCU_87",
+                "AAUGGAUUUUUCCCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_ACCU_23",
+                "AAUGGAUUUUUACCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCU_87",
+                "AAUGGAUUUUUCCCUCAGG"
+            ]
+        ]
+    },
+    "GAGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAG_34",
+                "AAUGGAUUUUUAGAGCAGG"
+            ]
+        ]
+    },
+    "GGAGC": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGAG_162",
+                "AAUGGAUUUUUGGAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGAG_162",
+                "AAUGGAUUUUUGGAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGAG_162",
+                "AAUGGAUUUUUGGAGCAGG"
+            ]
+        ]
+    },
+    "UCGG": {
+        "count": 6,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGA_104",
+                "AAUGGAUUUUUCGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGC_105",
+                "AAUGGAUUUUUCGGCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGA_104",
+                "AAUGGAUUUUUCGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGC_105",
+                "AAUGGAUUUUUCGGCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGA_104",
+                "AAUGGAUUUUUCGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGC_105",
+                "AAUGGAUUUUUCGGCCAGG"
+            ]
+        ]
+    },
+    "AGGU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGU_43",
+                "AAUGGAUUUUUAGGUCAGG"
+            ]
+        ]
+    },
+    "UAAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAGG_10",
+                "AAUGGAUUUUUAAGGCAGG"
+            ]
+        ]
+    },
+    "UGCUG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUG_158",
+                "AAUGGAUUUUUGCUGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUG_158",
+                "AAUGGAUUUUUGCUGCAGG"
+            ]
+        ]
+    },
+    "AGAGCAGG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAG_34",
+                "AAUGGAUUUUUAGAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAG_34",
+                "AAUGGAUUUUUAGAGCAGG"
+            ]
+        ]
+    },
+    "AGGACA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGA_40",
+                "AAUGGAUUUUUAGGACAGG"
+            ]
+        ]
+    },
+    "CCGACAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCGA_88",
+                "AAUGGAUUUUUCCGACAGG"
+            ]
+        ]
+    },
+    "UCGCACA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGCA_100",
+                "AAUGGAUUUUUCGCACAGG"
+            ]
+        ]
+    },
+    "UCGGGCA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGG_106",
+                "AAUGGAUUUUUCGGGCAGG"
+            ]
+        ]
+    },
+    "UGAACCA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GAAC_129",
+                "AAUGGAUUUUUGAACCAGG"
+            ]
+        ]
+    },
+    "UGAAGCA": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GAAG_130",
+                "AAUGGAUUUUUGAAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GAAG_130",
+                "AAUGGAUUUUUGAAGCAGG"
+            ]
+        ]
+    },
+    "UGGAGCA": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGAG_162",
+                "AAUGGAUUUUUGGAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGAG_162",
+                "AAUGGAUUUUUGGAGCAGG"
+            ]
+        ]
+    },
+    "UGAUGCA": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GAUG_142",
+                "AAUGGAUUUUUGAUGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GAUG_142",
+                "AAUGGAUUUUUGAUGCAGG"
+            ]
+        ]
+    },
+    "UGGUGCA": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGUG_174",
+                "AAUGGAUUUUUGGUGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGUG_174",
+                "AAUGGAUUUUUGGUGCAGG"
+            ]
+        ]
+    },
+    "AGCAG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAG_2",
+                "AAUGGAUUUUUAAAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAG_2",
+                "AAUGGAUUUUUAAAGCAGG"
+            ]
+        ]
+    },
+    "CAUC": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACAU_19",
+                "AAUGGAUUUUUACAUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_ACAU_19",
+                "AAUGGAUUUUUACAUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_ACAU_19",
+                "AAUGGAUUUUUACAUCAGG"
+            ]
+        ]
+    },
+    "UCAUC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAUC_77",
+                "AAUGGAUUUUUCAUCCAGG"
+            ]
+        ]
+    },
+    "UUACGAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACGA_24",
+                "AAUGGAUUUUUACGACAGG"
+            ]
+        ]
+    },
+    "UUCAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CACC_69",
+                "AAUGGAUUUUUCACCCAGG"
+            ]
+        ]
+    },
+    "ACACC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACAC_17",
+                "AAUGGAUUUUUACACCAGG"
+            ]
+        ]
+    },
+    "ACAGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACAG_18",
+                "AAUGGAUUUUUACAGCAGG"
+            ]
+        ]
+    },
+    "ACAGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ]
+        ]
+    },
+    "ACCGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACCG_22",
+                "AAUGGAUUUUUACCGCAGG"
+            ]
+        ]
+    },
+    "ACGGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACGG_26",
+                "AAUGGAUUUUUACGGCAGG"
+            ]
+        ]
+    },
+    "ACUGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACUG_30",
+                "AAUGGAUUUUUACUGCAGG"
+            ]
+        ]
+    },
+    "GCAGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCAG_146",
+                "AAUGGAUUUUUGCAGCAGG"
+            ]
+        ]
+    },
+    "GCAGG": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAG_2",
+                "AAUGGAUUUUUAAAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCG_86",
+                "AAUGGAUUUUUCCCGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ]
+        ]
+    },
+    "UCCGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCGC_89",
+                "AAUGGAUUUUUCCGCCAGG"
+            ]
+        ]
+    },
+    "UCGGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGG_106",
+                "AAUGGAUUUUUCGGGCAGG"
+            ]
+        ]
+    },
+    "UACGUC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACGU_27",
+                "AAUGGAUUUUUACGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_ACGU_27",
+                "AAUGGAUUUUUACGUCAGG"
+            ]
+        ]
+    },
+    "UGCGGC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCGG_154",
+                "AAUGGAUUUUUGCGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GCGG_154",
+                "AAUGGAUUUUUGCGGCAGG"
+            ]
+        ]
+    },
+    "UGCGUC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCGU_155",
+                "AAUGGAUUUUUGCGUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GCGU_155",
+                "AAUGGAUUUUUGCGUCAGG"
+            ]
+        ]
+    },
+    "UCAACA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UCAA_208",
+                "AAUGGAUUUUUUCAACAGG"
+            ]
+        ]
+    },
+    "UCUUCA": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UCUU_223",
+                "AAUGGAUUUUUUCUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UCUU_223",
+                "AAUGGAUUUUUUCUUCAGG"
+            ]
+        ]
+    },
+    "AAGAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAGA_8",
+                "AAUGGAUUUUUAAGACAGG"
+            ]
+        ]
+    },
+    "ACCAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACCA_20",
+                "AAUGGAUUUUUACCACAGG"
+            ]
+        ]
+    },
+    "AGCAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGCA_36",
+                "AAUGGAUUUUUAGCACAGG"
+            ]
+        ]
+    },
+    "AGGAC": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGA_40",
+                "AAUGGAUUUUUAGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGA_40",
+                "AAUGGAUUUUUAGGACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGA_40",
+                "AAUGGAUUUUUAGGACAGG"
+            ]
+        ]
+    },
+    "AGGCA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAGG_74",
+                "AAUGGAUUUUUCAGGCAGG"
+            ]
+        ]
+    },
+    "AUGACAG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUGA_56",
+                "AAUGGAUUUUUAUGACAGG"
+            ]
+        ]
+    },
+    "CGGAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGGA_104",
+                "AAUGGAUUUUUCGGACAGG"
+            ]
+        ]
+    },
+    "UGGAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGAC_161",
+                "AAUGGAUUUUUGGACCAGG"
+            ]
+        ]
+    },
+    "UGGAU": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAAA_0",
+                "AAUGGAUUUUUAAAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "AUUC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAUU_15",
+                "AAUGGAUUUUUAAUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_AAUU_15",
+                "AAUGGAUUUUUAAUUCAGG"
+            ]
+        ]
+    },
+    "UUUUUCG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGAG_98",
+                "AAUGGAUUUUUCGAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CGUC_109",
+                "AAUGGAUUUUUCGUCCAGG"
+            ]
+        ]
+    },
+    "UUUUUGG": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGAU_163",
+                "AAUGGAUUUUUGGAUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGCU_167",
+                "AAUGGAUUUUUGGCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ]
+        ]
+    },
+    "UUUUUGU": {
+        "count": 3,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUAG_178",
+                "AAUGGAUUUUUGUAGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUCU_183",
+                "AAUGGAUUUUUGUCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUGG_186",
+                "AAUGGAUUUUUGUGGCAGG"
+            ]
+        ]
+    },
+    "UUUUUUUUU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "AUUA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUUA_60",
+                "AAUGGAUUUUUAUUACAGG"
+            ]
+        ]
+    },
+    "AUUUUUUUC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCA_244",
+                "AAUGGAUUUUUUUCACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUCC_245",
+                "AAUGGAUUUUUUUCCCAGG"
+            ]
+        ]
+    },
+    "AGAA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGAA_32",
+                "AAUGGAUUUUUAGAACAGG"
+            ]
+        ]
+    },
+    "UCAAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAAC_65",
+                "AAUGGAUUUUUCAACCAGG"
+            ]
+        ]
+    },
+    "UUUUUCC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCAA_80",
+                "AAUGGAUUUUUCCAACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ]
+        ]
+    },
+    "CCGC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACCG_22",
+                "AAUGGAUUUUUACCGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCG_86",
+                "AAUGGAUUUUUCCCGCAGG"
+            ]
+        ]
+    },
+    "GUUU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUU_191",
+                "AAUGGAUUUUUGUUUCAGG"
+            ]
+        ]
+    },
+    "ACAAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACAA_16",
+                "AAUGGAUUUUUACAACAGG"
+            ]
+        ]
+    },
+    "UAAUAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAUA_12",
+                "AAUGGAUUUUUAAUACAGG"
+            ]
+        ]
+    },
+    "UCAUAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAUA_76",
+                "AAUGGAUUUUUCAUACAGG"
+            ]
+        ]
+    },
+    "UGAUAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GAUA_140",
+                "AAUGGAUUUUUGAUACAGG"
+            ]
+        ]
+    },
+    "UACUAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACUA_28",
+                "AAUGGAUUUUUACUACAGG"
+            ]
+        ]
+    },
+    "UCCUAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUA_92",
+                "AAUGGAUUUUUCCUACAGG"
+            ]
+        ]
+    },
+    "UGCUAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUA_156",
+                "AAUGGAUUUUUGCUACAGG"
+            ]
+        ]
+    },
+    "UAGUAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGUA_44",
+                "AAUGGAUUUUUAGUACAGG"
+            ]
+        ]
+    },
+    "UCGUAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGUA_108",
+                "AAUGGAUUUUUCGUACAGG"
+            ]
+        ]
+    },
+    "UGGUAC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGUA_172",
+                "AAUGGAUUUUUGGUACAGG"
+            ]
+        ]
+    },
+    "UAAUGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAUG_14",
+                "AAUGGAUUUUUAAUGCAGG"
+            ]
+        ]
+    },
+    "UCAUGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CAUG_78",
+                "AAUGGAUUUUUCAUGCAGG"
+            ]
+        ]
+    },
+    "UGAUGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GAUG_142",
+                "AAUGGAUUUUUGAUGCAGG"
+            ]
+        ]
+    },
+    "UACUGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACUG_30",
+                "AAUGGAUUUUUACUGCAGG"
+            ]
+        ]
+    },
+    "UCCUGC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUG_94",
+                "AAUGGAUUUUUCCUGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUG_94",
+                "AAUGGAUUUUUCCUGCAGG"
+            ]
+        ]
+    },
+    "UGCUGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCUG_158",
+                "AAUGGAUUUUUGCUGCAGG"
+            ]
+        ]
+    },
+    "UAGUGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGUG_46",
+                "AAUGGAUUUUUAGUGCAGG"
+            ]
+        ]
+    },
+    "UCGUGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CGUG_110",
+                "AAUGGAUUUUUCGUGCAGG"
+            ]
+        ]
+    },
+    "UGGUGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGUG_174",
+                "AAUGGAUUUUUGGUGCAGG"
+            ]
+        ]
+    },
+    "UCCUCC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUC_93",
+                "AAUGGAUUUUUCCUCCAGG"
+            ]
+        ]
+    },
+    "UCUUCC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUC_125",
+                "AAUGGAUUUUUCUUCCAGG"
+            ]
+        ]
+    },
+    "UCCUUC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUU_95",
+                "AAUGGAUUUUUCCUUCAGG"
+            ]
+        ]
+    },
+    "UCUUUC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUU_127",
+                "AAUGGAUUUUUCUUUCAGG"
+            ]
+        ]
+    },
+    "UCUUGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUG_126",
+                "AAUGGAUUUUUCUUGCAGG"
+            ]
+        ]
+    },
+    "UUGUGC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUGC_185",
+                "AAUGGAUUUUUGUGCCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UGUG_238",
+                "AAUGGAUUUUUUGUGCAGG"
+            ]
+        ]
+    },
+    "UUGUGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GUGG_186",
+                "AAUGGAUUUUUGUGGCAGG"
+            ]
+        ]
+    },
+    "CCACC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCAC_81",
+                "AAUGGAUUUUUCCACCAGG"
+            ]
+        ]
+    },
+    "CCGCAGG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACCG_22",
+                "AAUGGAUUUUUACCGCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCG_86",
+                "AAUGGAUUUUUCCCGCAGG"
+            ]
+        ]
+    },
+    "UACAGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACAG_18",
+                "AAUGGAUUUUUACAGCAGG"
+            ]
+        ]
+    },
+    "UGCAGC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCAG_146",
+                "AAUGGAUUUUUGCAGCAGG"
+            ]
+        ]
+    },
+    "UACAUC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACAU_19",
+                "AAUGGAUUUUUACAUCAGG"
+            ]
+        ]
+    },
+    "UGCAUC": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GCAU_147",
+                "AAUGGAUUUUUGCAUCAGG"
+            ]
+        ]
+    },
+    "AAGU": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AAGU_11",
+                "AAUGGAUUUUUAAGUCAGG"
+            ]
+        ]
+    },
+    "UUUUUCCC": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCA_84",
+                "AAUGGAUUUUUCCCACAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCC_85",
+                "AAUGGAUUUUUCCCCCAGG"
+            ]
+        ]
+    },
+    "UUUCACG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CACG_70",
+                "AAUGGAUUUUUCACGCAGG"
+            ]
+        ]
+    },
+    "UUUCUCG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCG_118",
+                "AAUGGAUUUUUCUCGCAGG"
+            ]
+        ]
+    },
+    "CCACAGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACCA_20",
+                "AAUGGAUUUUUACCACAGG"
+            ]
+        ]
+    },
+    "UCACAGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUCA_52",
+                "AAUGGAUUUUUAUCACAGG"
+            ]
+        ]
+    },
+    "CUACAGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACUA_28",
+                "AAUGGAUUUUUACUACAGG"
+            ]
+        ]
+    },
+    "UUACAGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUUA_60",
+                "AAUGGAUUUUUAUUACAGG"
+            ]
+        ]
+    },
+    "CCUCAGG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACCU_23",
+                "AAUGGAUUUUUACCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCCU_87",
+                "AAUGGAUUUUUCCCUCAGG"
+            ]
+        ]
+    },
+    "UCUCAGG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUCU_55",
+                "AAUGGAUUUUUAUCUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUCU_119",
+                "AAUGGAUUUUUCUCUCAGG"
+            ]
+        ]
+    },
+    "CUUCAGG": {
+        "count": 2,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_ACUU_31",
+                "AAUGGAUUUUUACUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CCUU_95",
+                "AAUGGAUUUUUCCUUCAGG"
+            ]
+        ]
+    },
+    "UUUCAGG": {
+        "count": 4,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AUUU_63",
+                "AAUGGAUUUUUAUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_CUUU_127",
+                "AAUGGAUUUUUCUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_GUUU_191",
+                "AAUGGAUUUUUGUUUCAGG"
+            ],
+            [
+                ">miRNA_Homo sapiens_GGAG_UUUU_255",
+                "AAUGGAUUUUUUUUUCAGG"
+            ]
+        ]
+    },
+    "UUUCUGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_CUGG_122",
+                "AAUGGAUUUUUCUGGCAGG"
+            ]
+        ]
+    },
+    "GGGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGG_170",
+                "AAUGGAUUUUUGGGGCAGG"
+            ]
+        ]
+    },
+    "GGGA": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_GGGA_168",
+                "AAUGGAUUUUUGGGACAGG"
+            ]
+        ]
+    },
+    "UAGG": {
+        "count": 1,
+        "found": [
+            [
+                ">miRNA_Homo sapiens_GGAG_AGGA_40",
+                "AAUGGAUUUUUAGGACAGG"
+            ]
+        ]
+    }
+}

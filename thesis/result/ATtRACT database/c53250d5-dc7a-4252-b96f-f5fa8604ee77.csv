@@ -1,0 +1,253 @@
+>miRNA_Homoçsapiens_GGAG_GAAG_5
+UGAAGUGUGACAAUGGUGUUUG
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,20947024,RRM,4,16,3.202,3.975,2.923
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUUU,5,X-RAY DIFFRACTION,20947024,RRM,5,16,4.582,5.891,4.314
+CELF2,ENSG00000048740,no,Homo_sapiens,GUGUG,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,4,5.02,5.542,5.033
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,PubMed ID is not available,RRM,4,16,3.202,3.975,2.923
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUUU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,16,4.582,5.891,4.314
+CELF4,ENSG00000101489,no,Homo_sapiens,GGUGUUU,7,RNAcompete,23846655,RRM,7,14,9.463,9.94,9.331
+F2,ENSG00000180210,no,Homo_sapiens,GAAG,4,X-RAY DIFFRACTION,18971322,GLA;KRINGLE;THROMBIN_LIGHT;TRYPSIN,4,1,3.25,2.581,3.574
+FUS,ENSG00000089280,no,Homo_sapiens,GGUG,4,SELEX,11098054,ZF_RANBP;RRM,4,14,3.266,3.369,3.659
+FUS,ENSG00000089280,no,Homo_sapiens,UGGUGU,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE, EMSA, UV crosslink, competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,13,7.462,7.402,7.374
+HNRNPL,ENSG00000104824,no,Homo_sapiens,ACAA,4,Pull-down assays, UV crosslink, immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,9,3.845,3.454,3.566
+RBM24,ENSG00000112183,no,Homo_sapiens,AGUGUGA,7,RNAcompete,23846655,RRM,7,3,9.479,9.415,9.483
+TIA1,ENSG00000116001,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+TIAL1,ENSG00000151923,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+XPO5,ENSG00000124571,no,Homo_sapiens,GUUU,4,X-RAY DIFFRACTION,19965479,XPO1,4,17,3.339,4.234,3.042
+RBMX,ENSG00000147274,no,Homo_sapiens,AAGU,4,Mutagenesis;Deletion analysis,12761049,RRM,4,2,3.629,3.733,3.423
+>miRNA_Homoçsapiens_GGAG_GGAA_11
+UGGAAUGUGACAAUGGUGUUUG
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,20947024,RRM,4,16,3.202,3.975,2.923
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUUU,5,X-RAY DIFFRACTION,20947024,RRM,5,16,4.582,5.891,4.314
+CELF2,ENSG00000048740,no,Homo_sapiens,AUGUG,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,4,5.395,5.419,5.258
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,PubMed ID is not available,RRM,4,16,3.202,3.975,2.923
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUUU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,16,4.582,5.891,4.314
+CELF4,ENSG00000101489,no,Homo_sapiens,GGUGUUU,7,RNAcompete,23846655,RRM,7,14,9.463,9.94,9.331
+FUS,ENSG00000089280,no,Homo_sapiens,GGUG,4,SELEX,11098054,ZF_RANBP;RRM,4,14,3.266,3.369,3.659
+FUS,ENSG00000089280,no,Homo_sapiens,UGGUGU,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE, EMSA, UV crosslink, competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,13,7.462,7.402,7.374
+HNRNPL,ENSG00000104824,no,Homo_sapiens,ACAA,4,Pull-down assays, UV crosslink, immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,9,3.845,3.454,3.566
+TARDBP,ENSG00000120948,no,Homo_sapiens,GAAUGU,6,RNAcompete,23846655,RRM,6,2,7.581,7.405,7.506
+TIA1,ENSG00000116001,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+TIAL1,ENSG00000151923,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+XPO5,ENSG00000124571,no,Homo_sapiens,GUUU,4,X-RAY DIFFRACTION,19965479,XPO1,4,17,3.339,4.234,3.042
+>miRNA_Homoçsapiens_GGAG_GGAG_0
+UGGAGUGUGACAAUGGUGUUUG
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,20947024,RRM,4,16,3.202,3.975,2.923
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUUU,5,X-RAY DIFFRACTION,20947024,RRM,5,16,4.582,5.891,4.314
+CELF2,ENSG00000048740,no,Homo_sapiens,GUGUG,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,4,5.02,5.542,5.033
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,PubMed ID is not available,RRM,4,16,3.202,3.975,2.923
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUUU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,16,4.582,5.891,4.314
+CELF4,ENSG00000101489,no,Homo_sapiens,GGUGUUU,7,RNAcompete,23846655,RRM,7,14,9.463,9.94,9.331
+FUS,ENSG00000089280,no,Homo_sapiens,GGUG,4,SELEX,11098054,ZF_RANBP;RRM,4,14,3.266,3.369,3.659
+FUS,ENSG00000089280,no,Homo_sapiens,UGGUGU,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE, EMSA, UV crosslink, competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,13,7.462,7.402,7.374
+HNRNPL,ENSG00000104824,no,Homo_sapiens,ACAA,4,Pull-down assays, UV crosslink, immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,9,3.845,3.454,3.566
+RBM24,ENSG00000112183,no,Homo_sapiens,AGUGUGA,7,RNAcompete,23846655,RRM,7,3,9.479,9.415,9.483
+SRSF2,ENSG00000161547,no,Homo_sapiens,GGAGUG,6,RNAcompete,23846655,RRM,6,1,7.281,7.406,7.197
+SRSF2,ENSG00000161547,no,Homo_sapiens,UGGAGU,6,SOLUTION NMR,22002536,RRM,6,0,7.216,7.083,6.884
+TIA1,ENSG00000116001,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+TIAL1,ENSG00000151923,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+XPO5,ENSG00000124571,no,Homo_sapiens,GUUU,4,X-RAY DIFFRACTION,19965479,XPO1,4,17,3.339,4.234,3.042
+>miRNA_Homoçsapiens_GGAG_GGGG_8
+UGGGGUGUGACAAUGGUGUUUG
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,20947024,RRM,4,16,3.202,3.975,2.923
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUUU,5,X-RAY DIFFRACTION,20947024,RRM,5,16,4.582,5.891,4.314
+CELF2,ENSG00000048740,no,Homo_sapiens,GUGUG,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,4,5.02,5.542,5.033
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,PubMed ID is not available,RRM,4,16,3.202,3.975,2.923
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUUU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,16,4.582,5.891,4.314
+CELF4,ENSG00000101489,no,Homo_sapiens,GGUGUUU,7,RNAcompete,23846655,RRM,7,14,9.463,9.94,9.331
+FUS,ENSG00000089280,no,Homo_sapiens,GGGUGU,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE, EMSA, UV crosslink, competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,2,7.667,8.468,7.98
+FUS,ENSG00000089280,no,Homo_sapiens,GGUG,4,SELEX,11098054,ZF_RANBP;RRM,4,3;14,4.266,4.369,4.659
+FUS,ENSG00000089280,no,Homo_sapiens,UGGUGU,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE, EMSA, UV crosslink, competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,13,7.462,7.402,7.374
+GRSF1,ENSG00000132463,no,Homo_sapiens,GGGGU,5,protein affinity purification,17337441,RRM,5,1,5.485,6.487,6.038
+GRSF1,ENSG00000132463,no,Homo_sapiens,UGGGG,5,protein affinity purification,17337441,RRM,5,0,4.637,5.181,5.333
+HNRNPF,ENSG00000169813,no,Homo_sapiens,GGGGU,5,protein affinity purification,17337441,RRM;ZF_RNPHF,5,1,5.485,6.487,6.038
+HNRNPF,ENSG00000169813,no,Homo_sapiens,UGGGG,5,protein affinity purification,17337441,RRM;ZF_RNPHF,5,0,4.637,5.181,5.333
+HNRNPF,ENSG00000169813,no,Homo_sapiens,GGGGU,5,Mutation assay, REMSA, UV cross-linking in HeLa nuclear extract, Immunoblotting,12228232,RRM;ZF_RNPHF,5,1,5.485,6.487,6.038
+HNRNPF,ENSG00000169813,no,Homo_sapiens,GGGGU,5,NMR titration using recombinant protein,16885237,RRM;ZF_RNPHF,5,1,5.485,6.487,6.038
+HNRNPF,ENSG00000169813,no,Homo_sapiens,UGGGG,5,Mutation assay, REMSA, UV cross-linking in HeLa nuclear extract, Immunoblotting,12228232,RRM;ZF_RNPHF,5,0,4.637,5.181,5.333
+HNRNPF,ENSG00000169813,no,Homo_sapiens,UGGGG,5,NMR titration using recombinant protein,16885237,RRM;ZF_RNPHF,5,0,4.637,5.181,5.333
+HNRNPF,ENSG00000169813,no,Homo_sapiens,UGGGGU,6,Mutation assay, REMSA, UV cross-linking in HeLa nuclear extract, Immunoblotting,12228232,RRM;ZF_RNPHF,6,0,7.025,8.122,7.35
+HNRNPH1,ENSG00000169045,no,Homo_sapiens,GGGGU,5,protein affinity purification,17337441,ZF_RNPHF,5,1,5.485,6.487,6.038
+HNRNPH1,ENSG00000169045,no,Homo_sapiens,UGGGG,5,protein affinity purification,17337441,ZF_RNPHF,5,0,4.637,5.181,5.333
+HNRNPH1,ENSG00000169045,no,Homo_sapiens,GGGGU,5,Mutation assay, REMSA, UV cross-linking in HeLa nuclear extract, Immunoblotting,12228232,ZF_RNPHF,5,1,5.485,6.487,6.038
+HNRNPH1,ENSG00000169045,no,Homo_sapiens,UGGGG,5,EMSA, UV cross-linking, immunoprecipitation and Western blotting with HEK293T nuclear extract,20028692,ZF_RNPHF,5,0,4.637,5.181,5.333
+HNRNPH1,ENSG00000169045,no,Homo_sapiens,UGGGG,5,Mutation assay, REMSA, UV cross-linking in HeLa nuclear extract, Immunoblotting,12228232,ZF_RNPHF,5,0,4.637,5.181,5.333
+HNRNPH1,ENSG00000169045,no,Homo_sapiens,UGGGGU,6,Mutation assay, REMSA, UV cross-linking in HeLa nuclear extract, Immunoblotting,12228232,ZF_RNPHF,6,0,7.025,8.122,7.35
+HNRNPH1,ENSG00000169045,yes,Homo_sapiens,GGGGU,5,UV cross-linking, pull-down assay, immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,ZF_RNPHF,5,1,5.485,6.487,6.038
+HNRNPH1,ENSG00000169045,yes,Homo_sapiens,UGGGG,5,UV cross-linking, pull-down assay, immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,ZF_RNPHF,5,0,4.637,5.181,5.333
+HNRNPH2,ENSG00000126945,no,Homo_sapiens,GGGGU,5,protein affinity purification,17337441,ZF_RNPHF,5,1,5.485,6.487,6.038
+HNRNPH2,ENSG00000126945,no,Homo_sapiens,UGGGG,5,protein affinity purification,17337441,ZF_RNPHF,5,0,4.637,5.181,5.333
+HNRNPH2,ENSG00000126945,no,Homo_sapiens,GGGGU,5,Mutation assay, REMSA, UV cross-linking in HeLa nuclear extract, Immunoblotting,12228232,ZF_RNPHF,5,1,5.485,6.487,6.038
+HNRNPH2,ENSG00000126945,no,Homo_sapiens,UGGGG,5,EMSA, UV cross-linking, immunoprecipitation and Western blotting with HEK293T nuclear extract,20028692,ZF_RNPHF,5,0,4.637,5.181,5.333
+HNRNPH2,ENSG00000126945,no,Homo_sapiens,UGGGG,5,Mutation assay, REMSA, UV cross-linking in HeLa nuclear extract, Immunoblotting,12228232,ZF_RNPHF,5,0,4.637,5.181,5.333
+HNRNPH2,ENSG00000126945,no,Homo_sapiens,UGGGGU,6,Mutation assay, REMSA, UV cross-linking in HeLa nuclear extract, Immunoblotting,12228232,ZF_RNPHF,6,0,7.025,8.122,7.35
+HNRNPH2,ENSG00000126945,yes,Homo_sapiens,GGGGU,5,UV cross-linking, pull-down assay, immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,ZF_RNPHF,5,1,5.485,6.487,6.038
+HNRNPH2,ENSG00000126945,yes,Homo_sapiens,UGGGG,5,UV cross-linking, pull-down assay, immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,ZF_RNPHF,5,0,4.637,5.181,5.333
+HNRNPH3,ENSG00000096746,no,Homo_sapiens,GGGGU,5,protein affinity purification,17337441,RRM,5,1,5.485,6.487,6.038
+HNRNPH3,ENSG00000096746,no,Homo_sapiens,UGGGG,5,protein affinity purification,17337441,RRM,5,0,4.637,5.181,5.333
+HNRNPH3,ENSG00000096746,no,Homo_sapiens,UGGGG,5,EMSA, UV cross-linking, immunoprecipitation and Western blotting with HEK293T nuclear extract,20028692,RRM,5,0,4.637,5.181,5.333
+HNRNPH3,ENSG00000096746,yes,Homo_sapiens,GGGGU,5,UV cross-linking, pull-down assay, immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,RRM,5,1,5.485,6.487,6.038
+HNRNPH3,ENSG00000096746,yes,Homo_sapiens,UGGGG,5,UV cross-linking, pull-down assay, immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,RRM,5,0,4.637,5.181,5.333
+HNRNPL,ENSG00000104824,no,Homo_sapiens,ACAA,4,Pull-down assays, UV crosslink, immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,9,3.845,3.454,3.566
+KHSRP,ENSG00000088247,no,Homo_sapiens,GGGU,4,NMR,18684992,KH,4,2,3.706,4.475,4.035
+KHSRP,ENSG00000088247,no,Homo_sapiens,UGGG,4,NMR,18684992,KH,4,0,2.892,3.258,3.202
+TIA1,ENSG00000116001,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+TIAL1,ENSG00000151923,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+XPO5,ENSG00000124571,no,Homo_sapiens,GUUU,4,X-RAY DIFFRACTION,19965479,XPO1,4,17,3.339,4.234,3.042
+HNRNPH1,ENSG00000169045,no,Homo_sapiens,GGGG,4,Immunoprecipitation;UV cross-linking,15506926,ZF_RNPHF,4,1,3.078,3.577,3.978
+>miRNA_Homoçsapiens_GGAG_GCAG_6
+UGCAGUGUGACAAUGGUGUUUG
+ACO1,ENSG00000122729,no,Homo_sapiens,CAGUGU,6,SELEX,8021254,ACONITASE_C,6,2,7.297,7.302,7.284
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,20947024,RRM,4,16,3.202,3.975,2.923
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUUU,5,X-RAY DIFFRACTION,20947024,RRM,5,16,4.582,5.891,4.314
+CELF2,ENSG00000048740,no,Homo_sapiens,GUGUG,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,4,5.02,5.542,5.033
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,PubMed ID is not available,RRM,4,16,3.202,3.975,2.923
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUUU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,16,4.582,5.891,4.314
+CELF4,ENSG00000101489,no,Homo_sapiens,GGUGUUU,7,RNAcompete,23846655,RRM,7,14,9.463,9.94,9.331
+FUS,ENSG00000089280,no,Homo_sapiens,GGUG,4,SELEX,11098054,ZF_RANBP;RRM,4,14,3.266,3.369,3.659
+FUS,ENSG00000089280,no,Homo_sapiens,UGGUGU,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE, EMSA, UV crosslink, competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,13,7.462,7.402,7.374
+HNRNPL,ENSG00000104824,no,Homo_sapiens,ACAA,4,Pull-down assays, UV crosslink, immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,9,3.845,3.454,3.566
+RBM24,ENSG00000112183,no,Homo_sapiens,AGUGUGA,7,RNAcompete,23846655,RRM,7,3,9.479,9.415,9.483
+TIA1,ENSG00000116001,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+TIAL1,ENSG00000151923,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+XPO5,ENSG00000124571,no,Homo_sapiens,GUUU,4,X-RAY DIFFRACTION,19965479,XPO1,4,17,3.339,4.234,3.042
+>miRNA_Homoçsapiens_GGAG_GGAC_12
+UGGACUGUGACAAUGGUGUUUG
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,20947024,RRM,4,16,3.202,3.975,2.923
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUUU,5,X-RAY DIFFRACTION,20947024,RRM,5,16,4.582,5.891,4.314
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,PubMed ID is not available,RRM,4,16,3.202,3.975,2.923
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUUU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,16,4.582,5.891,4.314
+CELF4,ENSG00000101489,no,Homo_sapiens,GGUGUUU,7,RNAcompete,23846655,RRM,7,14,9.463,9.94,9.331
+FUS,ENSG00000089280,no,Homo_sapiens,GGUG,4,SELEX,11098054,ZF_RANBP;RRM,4,14,3.266,3.369,3.659
+FUS,ENSG00000089280,no,Homo_sapiens,UGGUGU,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE, EMSA, UV crosslink, competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,13,7.462,7.402,7.374
+HNRNPL,ENSG00000104824,no,Homo_sapiens,ACAA,4,Pull-down assays, UV crosslink, immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,9,3.845,3.454,3.566
+PTBP1,ENSG00000011304,no,Homo_sapiens,CUGU,4,NMR,16179478,RRM,4,4,3.142,3.365,3.17
+SRSF9,ENSG00000111786,no,Homo_sapiens,UGGAC,5,SELEX of 20nt random with recombinant protein. Consensus motif: AGGAC. EMSA, UV crosslink, SDS-PAGE with HeLa nuclear extracts.,17548433,RRM,5,0,5.828,5.0,6.4
+TIA1,ENSG00000116001,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+TIAL1,ENSG00000151923,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+XPO5,ENSG00000124571,no,Homo_sapiens,GUUU,4,X-RAY DIFFRACTION,19965479,XPO1,4,17,3.339,4.234,3.042
+>miRNA_Homoçsapiens_GGAG_GUAG_4
+UGUAGUGUGACAAUGGUGUUUG
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,20947024,RRM,4,16,3.202,3.975,2.923
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUUU,5,X-RAY DIFFRACTION,20947024,RRM,5,16,4.582,5.891,4.314
+CELF2,ENSG00000048740,no,Homo_sapiens,GUGUG,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,4,5.02,5.542,5.033
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,PubMed ID is not available,RRM,4,16,3.202,3.975,2.923
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUUU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,16,4.582,5.891,4.314
+CELF4,ENSG00000101489,no,Homo_sapiens,GGUGUUU,7,RNAcompete,23846655,RRM,7,14,9.463,9.94,9.331
+FUS,ENSG00000089280,no,Homo_sapiens,GGUG,4,SELEX,11098054,ZF_RANBP;RRM,4,14,3.266,3.369,3.659
+FUS,ENSG00000089280,no,Homo_sapiens,UGGUGU,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE, EMSA, UV crosslink, competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,13,7.462,7.402,7.374
+HNRNPL,ENSG00000104824,no,Homo_sapiens,ACAA,4,Pull-down assays, UV crosslink, immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,9,3.845,3.454,3.566
+NUDT21,ENSG00000167005,no,Homo_sapiens,UGUA,4,X-RAY DIFFRACTION,21295486,NUDIX_2,4,0,3.801,4.543,3.374
+RBM24,ENSG00000112183,no,Homo_sapiens,AGUGUGA,7,RNAcompete,23846655,RRM,7,3,9.479,9.415,9.483
+SFPQ,ENSG00000116560,no,Homo_sapiens,GUAGUGU,7,RNAcompete,23846655,RRM,7,1,10.794,12.025,10.393
+TIA1,ENSG00000116001,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+TIAL1,ENSG00000151923,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+XPO5,ENSG00000124571,no,Homo_sapiens,GUUU,4,X-RAY DIFFRACTION,19965479,XPO1,4,17,3.339,4.234,3.042
+>miRNA_Homoçsapiens_GGAG_AGAG_2
+UAGAGUGUGACAAUGGUGUUUG
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,20947024,RRM,4,16,3.202,3.975,2.923
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUUU,5,X-RAY DIFFRACTION,20947024,RRM,5,16,4.582,5.891,4.314
+CELF2,ENSG00000048740,no,Homo_sapiens,GUGUG,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,4,5.02,5.542,5.033
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,PubMed ID is not available,RRM,4,16,3.202,3.975,2.923
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUUU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,16,4.582,5.891,4.314
+CELF4,ENSG00000101489,no,Homo_sapiens,GGUGUUU,7,RNAcompete,23846655,RRM,7,14,9.463,9.94,9.331
+FUS,ENSG00000089280,no,Homo_sapiens,GGUG,4,SELEX,11098054,ZF_RANBP;RRM,4,14,3.266,3.369,3.659
+FUS,ENSG00000089280,no,Homo_sapiens,UGGUGU,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE, EMSA, UV crosslink, competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,13,7.462,7.402,7.374
+HNRNPA1,ENSG00000135486,no,Homo_sapiens,UAGAGU,6,EMSA with HeLa nuclear extract and recombinant protein. ,12060656,RRM,6,0,8.389,9.624,7.933
+HNRNPA1,ENSG00000135486,no,Homo_sapiens,UAGAGU,6,EMSA with recombinant protein.,10202157,RRM,6,0,8.389,9.624,7.933
+HNRNPA1,ENSG00000135486,no,Homo_sapiens,UAGAGU,6,Filter binding assay, EMSA using recombinant protein,19926721,RRM,6,0,8.389,9.624,7.933
+HNRNPA1,ENSG00000135486,no,Homo_sapiens,UAGAGU,6,Immunoprecipitation, Gel shift and RNase H protection assays,16396608,RRM,6,0,8.389,9.624,7.933
+HNRNPA1,ENSG00000135486,no,Homo_sapiens,UAGAGU,6,RNase protection, immunoprecipitation in HeLa nuclear extract.,9121425,RRM,6,0,8.389,9.624,7.933
+HNRNPA1,ENSG00000135486,no,Homo_sapiens,UAGAGU,6,UV crosslink, immunoblot, EMSA.,11598017,RRM,6,0,8.389,9.624,7.933
+HNRNPL,ENSG00000104824,no,Homo_sapiens,ACAA,4,Pull-down assays, UV crosslink, immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,9,3.845,3.454,3.566
+RBM24,ENSG00000112183,no,Homo_sapiens,AGUGUGA,7,RNAcompete,23846655,RRM,7,3,9.479,9.415,9.483
+RBM24,ENSG00000112183,no,Homo_sapiens,AGAGUGU,7,RNAcompete,23846655,RRM,7,1,9.815,9.725,9.729
+TIA1,ENSG00000116001,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+TIAL1,ENSG00000151923,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+XPO5,ENSG00000124571,no,Homo_sapiens,GUUU,4,X-RAY DIFFRACTION,19965479,XPO1,4,17,3.339,4.234,3.042
+>miRNA_Homoçsapiens_GGAG_UGAG_1
+UUGAGUGUGACAAUGGUGUUUG
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,20947024,RRM,4,16,3.202,3.975,2.923
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUUU,5,X-RAY DIFFRACTION,20947024,RRM,5,16,4.582,5.891,4.314
+CELF2,ENSG00000048740,no,Homo_sapiens,GUGUG,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,4,5.02,5.542,5.033
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,PubMed ID is not available,RRM,4,16,3.202,3.975,2.923
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUUU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,16,4.582,5.891,4.314
+CELF4,ENSG00000101489,no,Homo_sapiens,GGUGUUU,7,RNAcompete,23846655,RRM,7,14,9.463,9.94,9.331
+FUS,ENSG00000089280,no,Homo_sapiens,GGUG,4,SELEX,11098054,ZF_RANBP;RRM,4,14,3.266,3.369,3.659
+FUS,ENSG00000089280,no,Homo_sapiens,UGGUGU,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE, EMSA, UV crosslink, competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,13,7.462,7.402,7.374
+HNRNPL,ENSG00000104824,no,Homo_sapiens,ACAA,4,Pull-down assays, UV crosslink, immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,9,3.845,3.454,3.566
+OAS1,ENSG00000089127,no,Homo_sapiens,UUGA,4,X-RAY DIFFRACTION,23319625,OAS1_C;NTP_TRANSF_2,4,0,3.592,3.804,3.249
+RBM24,ENSG00000112183,no,Homo_sapiens,AGUGUGA,7,RNAcompete,23846655,RRM,7,3,9.479,9.415,9.483
+RBM24,ENSG00000112183,no,Homo_sapiens,UGAGUGU,7,RNAcompete,23846655,RRM,7,1,9.186,9.801,9.513
+TIA1,ENSG00000116001,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+TIAL1,ENSG00000151923,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+XPO5,ENSG00000124571,no,Homo_sapiens,GUUU,4,X-RAY DIFFRACTION,19965479,XPO1,4,17,3.339,4.234,3.042
+>miRNA_Homoçsapiens_GGAG_GGCG_7
+UGGCGUGUGACAAUGGUGUUUG
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,20947024,RRM,4,16,3.202,3.975,2.923
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUUU,5,X-RAY DIFFRACTION,20947024,RRM,5,16,4.582,5.891,4.314
+CELF2,ENSG00000048740,no,Homo_sapiens,CGUGU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,3,7.179,6.904,7.708
+CELF2,ENSG00000048740,no,Homo_sapiens,GUGUG,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,4,5.02,5.542,5.033
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,PubMed ID is not available,RRM,4,16,3.202,3.975,2.923
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUUU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,16,4.582,5.891,4.314
+CELF4,ENSG00000101489,no,Homo_sapiens,GGUGUUU,7,RNAcompete,23846655,RRM,7,14,9.463,9.94,9.331
+DDX58,ENSG00000107201,no,Homo_sapiens,GGCG,4,X-RAY DIFFRACTION,20961956,DEAD,4,1,4.484,4.275,5.636
+FUS,ENSG00000089280,no,Homo_sapiens,GGUG,4,SELEX,11098054,ZF_RANBP;RRM,4,14,3.266,3.369,3.659
+FUS,ENSG00000089280,no,Homo_sapiens,UGGUGU,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE, EMSA, UV crosslink, competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,13,7.462,7.402,7.374
+HNRNPL,ENSG00000104824,no,Homo_sapiens,ACAA,4,Pull-down assays, UV crosslink, immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,9,3.845,3.454,3.566
+TIA1,ENSG00000116001,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+TIAL1,ENSG00000151923,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+XPO5,ENSG00000124571,no,Homo_sapiens,GUUU,4,X-RAY DIFFRACTION,19965479,XPO1,4,17,3.339,4.234,3.042
+>miRNA_Homoçsapiens_GGAG_CGAG_3
+UCGAGUGUGACAAUGGUGUUUG
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,20947024,RRM,4,16,3.202,3.975,2.923
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUUU,5,X-RAY DIFFRACTION,20947024,RRM,5,16,4.582,5.891,4.314
+CELF2,ENSG00000048740,no,Homo_sapiens,GUGUG,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,4,5.02,5.542,5.033
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,PubMed ID is not available,RRM,4,16,3.202,3.975,2.923
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUUU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,16,4.582,5.891,4.314
+CELF4,ENSG00000101489,no,Homo_sapiens,GGUGUUU,7,RNAcompete,23846655,RRM,7,14,9.463,9.94,9.331
+FUS,ENSG00000089280,no,Homo_sapiens,GGUG,4,SELEX,11098054,ZF_RANBP;RRM,4,14,3.266,3.369,3.659
+FUS,ENSG00000089280,no,Homo_sapiens,UGGUGU,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE, EMSA, UV crosslink, competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,13,7.462,7.402,7.374
+HNRNPL,ENSG00000104824,no,Homo_sapiens,ACAA,4,Pull-down assays, UV crosslink, immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,9,3.845,3.454,3.566
+QKI,ENSG00000112531,yes,Homo_sapiens,CGAGU,5,EMSA with WT and mutated sequences and UV crosslinking with recombinant protein,24722255,KH,5,1,7.726,6.883,8.328
+RBM24,ENSG00000112183,no,Homo_sapiens,AGUGUGA,7,RNAcompete,23846655,RRM,7,3,9.479,9.415,9.483
+TIA1,ENSG00000116001,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+TIAL1,ENSG00000151923,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+XPO5,ENSG00000124571,no,Homo_sapiens,GUUU,4,X-RAY DIFFRACTION,19965479,XPO1,4,17,3.339,4.234,3.042
+>miRNA_Homoçsapiens_GGAG_GGAU_10
+UGGAUUGUGACAAUGGUGUUUG
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,20947024,RRM,4,16,3.202,3.975,2.923
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUUU,5,X-RAY DIFFRACTION,20947024,RRM,5,16,4.582,5.891,4.314
+CELF1,ENSG00000149187,no,Homo_sapiens,UUGUG,5,X-RAY DIFFRACTION,20947024,RRM,5,4,5.412,5.822,5.252
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,PubMed ID is not available,RRM,4,16,3.202,3.975,2.923
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUUU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,16,4.582,5.891,4.314
+CELF4,ENSG00000101489,no,Homo_sapiens,GGUGUUU,7,RNAcompete,23846655,RRM,7,14,9.463,9.94,9.331
+FUS,ENSG00000089280,no,Homo_sapiens,GGUG,4,SELEX,11098054,ZF_RANBP;RRM,4,14,3.266,3.369,3.659
+FUS,ENSG00000089280,no,Homo_sapiens,UGGUGU,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE, EMSA, UV crosslink, competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,13,7.462,7.402,7.374
+HNRNPL,ENSG00000104824,no,Homo_sapiens,ACAA,4,Pull-down assays, UV crosslink, immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,9,3.845,3.454,3.566
+SRSF9,ENSG00000111786,no,Homo_sapiens,UGGAU,5,SELEX of 20nt random with recombinant protein. Consensus motif: AGGAC. EMSA, UV crosslink, SDS-PAGE with HeLa nuclear extracts.,17548433,RRM,5,0,5.678,5.209,5.61
+TIA1,ENSG00000116001,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+TIAL1,ENSG00000151923,no,Homo_sapiens,GUUUG,5,SELEX of 68nt random with recombinant protein. Winners confirmed by UV cross-linking and competition assay.,8576255,RRM,5,17,5.556,5.944,5.385
+XPO5,ENSG00000124571,no,Homo_sapiens,GUUU,4,X-RAY DIFFRACTION,19965479,XPO1,4,17,3.339,4.234,3.042
+>miRNA_Homoçsapiens_GGAG_GGUG_9
+UGGUGUGUGACAAUGGUGUUUG
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUGU,5,SELEX of 35nt random with recombinant protein. Surface plasmon resonance and EMSA.,16938098,RRM,5,3,4.805,5.757,4.652
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUGUG,6,SELEX of 35nt random with recombinant protein. Surface plasmon resonance and EMSA.,16938098,RRM,6,3,6.185,7.257,6.066
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUGUG,6,SOLUTION NMR,19553194,RRM,6,3,6.185,7.257,6.066
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,20947024,RRM,4,16,3.202,3.975,2.923
+CELF1,ENSG00000149187,no,Homo_sapiens,UGUUU,5,X-RAY DIFFRACTION,20947024,RRM,5,16,4.582,5.891,4.314
+CELF2,ENSG00000048740,no,Homo_sapiens,GUGUG,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,4;2,6.02,6.542,6.033
+CELF2,ENSG00000048740,no,Homo_sapiens,GUGUGU,6,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,6,2,6.475,7.961,6.307
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUGU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,3,4.805,5.757,4.652
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUGU,5,UV crosslink, western blot, immunoprecipitation in HeLa nuclear extracts.,11931771,RRM,5,3,4.805,5.757,4.652
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUGUG,6,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,6,3,6.185,7.257,6.066
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUU,4,X-RAY DIFFRACTION,PubMed ID is not available,RRM,4,16,3.202,3.975,2.923
+CELF2,ENSG00000048740,no,Homo_sapiens,UGUUU,5,SELEX of 20nt random with recombinant protein, some winner sequences are verified by EMSA.,15657417,RRM,5,16,4.582,5.891,4.314
+CELF4,ENSG00000101489,no,Homo_sapiens,GGUGUGU,7,RNAcompete,23846655,RRM,7,1,9.277,10.253,9.416
+CELF4,ENSG00000101489,no,Homo_sapiens,GGUGUUU,7,RNAcompete,23846655,RRM,7,14,9.463,9.94,9.331
+FUS,ENSG00000089280,no,Homo_sapiens,GGUG,4,SELEX,11098054,ZF_RANBP;RRM,4,1;14,4.266,4.369,4.659
+FUS,ENSG00000089280,no,Homo_sapiens,UGGUGU,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE, EMSA, UV crosslink, competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,0;13,8.462,8.402,8.374
+HNRNPL,ENSG00000104824,no,Homo_sapiens,ACAA,4,Pull-down assays, UV crosslink, immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,9,3.845,3.454,3.566
+NOVA1,ENSG00000139910,no,Homo_sapiens,UGUGU,5,NMR titrations using recombinant protein,17655233,KH,5,3,4.805,5.757,4.652
+RBM24,ENSG00000112183,no,Homo_sapiens,UGUGUGA,7,RNAcompete,23846655,RRM,7,3,9.024,9.473,8.989
+TARDBP,ENSG00000120948,no,Homo_sapiens,UGUGUG,6,UV crosslink, SDS-PAGE, EMSA with recombinant pr

@@ -1,0 +1,1410 @@
+{
+    "GAAA": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "UAGGA": {
+        "count": 12,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_GUAG_5",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGUAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GUAG_5",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGUAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GUAG_5",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGUAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GUAG_5",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGUAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GUAG_5",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGUAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GUAG_5",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGUAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GUAG_5",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGUAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GUAG_5",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGUAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GUAG_5",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGUAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GUAG_5",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGUAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GUAG_5",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGUAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GUAG_5",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGUAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "CGGGA": {
+        "count": 12,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCGG_8",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCGGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCGG_8",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCGGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCGG_8",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCGGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCGG_8",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCGGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCGG_8",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCGGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCGG_8",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCGGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCGG_8",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCGGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCGG_8",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCGGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCGG_8",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCGGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCGG_8",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCGGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCGG_8",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCGGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCGG_8",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCGGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "AGGAG": {
+        "count": 20,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "ACCCAA": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "ACAC": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "CACC": {
+        "count": 12,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "GAAAUCA": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "UGUA": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "CCUG": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "UUGA": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "CUGA": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "CUUG": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "CCUGA": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "CCUUG": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "CGAGU": {
+        "count": 3,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCAC_12",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCACGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCAC_12",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCACGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCAC_12",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCACGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "AGCAUGA": {
+        "count": 2,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCAU_10",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCAUGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCAU_10",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCAUGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "UGAGUGG": {
+        "count": 2,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCAU_10",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCAUGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCAU_10",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCAUGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "AAUCAAU": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "GAAGGAG": {
+        "count": 18,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "GAAGGA": {
+        "count": 24,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GAAG_6",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGAAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "GUGG": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "AGGAGGA": {
+        "count": 66,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "GAGGAGGA": {
+        "count": 44,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GGAG_4",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGGAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "GCCGGAG": {
+        "count": 3,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCCG_7",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCCGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCCG_7",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCCGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCCG_7",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCCGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "AAAGGAA": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "GGAGUG": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "UGGAGU": {
+        "count": 2,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCUG_9",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCUGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCUG_9",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCUGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "AAAGG": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "ACACC": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "GCCGGA": {
+        "count": 3,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCCG_7",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCCGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCCG_7",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCCGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCCG_7",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCCGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "AGGAA": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "CGGAG": {
+        "count": 3,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCCG_7",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCCGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCCG_7",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCCGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCCG_7",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCCGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "UGGAC": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "GAAUGG": {
+        "count": 4,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ],
+            [
+                ">premiRNA_Homo sapiens_GCAG_UCAG_1",
+                "UGUAUCCUUGAAUGGAUUUUUGGAUCAGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    },
+    "GGGA": {
+        "count": 1,
+        "found": [
+            [
+                ">premiRNA_Homo sapiens_GCAG_GCGG_8",
+                "UGUAUCCUUGAAUGGAUUUUUGGAGCGGGAGUGGACACCUGACCCAAAGGAAAUCAAUCC"
+            ]
+        ]
+    }
+}
