@@ -1,0 +1,4555 @@
+{
+    "gene_diff": [
+        "ENSG00000129245",
+        "ENSG00000124193",
+        "ENSG00000104967",
+        "ENSG00000115267",
+        "ENSMUSG00000003410",
+        "ENSG00000197451",
+        "ENSG00000147140",
+        "ENSG00000162231",
+        "ENSG00000151962",
+        "ENSG00000131773",
+        "ENSG00000136231",
+        "ENSG00000089682",
+        "ENSG00000152601",
+        "ENSG00000100320",
+        "ENSG00000139168",
+        "ENSG00000113761",
+        "ENSG00000140488",
+        "ENSG00000112232",
+        "ENSG00000153250",
+        "ENSG00000135316",
+        "ENSG00000140319",
+        "ENSG00000120658",
+        "ENSG00000132485",
+        "ENSG00000004534",
+        "ENSG00000092847",
+        "ENSG00000164902",
+        "ENSG00000188529",
+        "ENSG00000165119",
+        "ENSG00000119707",
+        "ENSG00000070756",
+        "ENSG00000116754",
+        "ENSG00000135482",
+        "ENSG00000077312",
+        "ENSG00000115875",
+        "ENSG00000102081",
+        "ENSG00000196361",
+        "ENSG00000134644",
+        "ENSG00000114416",
+        "ENSG00000153187",
+        "ENSG00000104852",
+        "ENSG00000080802",
+        "ENSG00000148584",
+        "ENSG00000003756",
+        "ENSG00000108771",
+        "ENSG00000128016",
+        "ENSG00000161082",
+        "ENSG00000164548",
+        "ENSG00000125207",
+        "ENSG00000135828"
+    ],
+    "ENSG00000149187": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GUGA_184",
+            "AAUGGAUUUUUGUGACAGG",
+            "ENSG00000149187",
+            "UUGUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUG_190",
+            "AAUGGAUUUUUGUUGCAGG",
+            "ENSG00000149187",
+            "UGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUGG_186",
+            "AAUGGAUUUUUGUGGCAGG",
+            "ENSG00000149187",
+            "UUGUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUG_190",
+            "AAUGGAUUUUUGUUGCAGG",
+            "ENSG00000149187",
+            "UUGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_9",
+            "UGGUGUGUGACAAUGGUGUUUG",
+            "ENSG00000149187",
+            "UGUGUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUA_188",
+            "AAUGGAUUUUUGUUACAGG",
+            "ENSG00000149187",
+            "UGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_9",
+            "UGGUGUGUGACAAUGGUGUUUG",
+            "ENSG00000149187",
+            "UGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "UGGAGUGUGACAAUGGUGUUUG",
+            "ENSG00000149187",
+            "UGUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUU_191",
+            "AAUGGAUUUUUGUUUCAGG",
+            "ENSG00000149187",
+            "UGUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "UGGAGUGUGACAAUGGUGUUUG",
+            "ENSG00000149187",
+            "UGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAU_10",
+            "UGGAUUGUGACAAUGGUGUUUG",
+            "ENSG00000149187",
+            "UUGUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUA_188",
+            "AAUGGAUUUUUGUUACAGG",
+            "ENSG00000149187",
+            "UUGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUGU_187",
+            "AAUGGAUUUUUGUGUCAGG",
+            "ENSG00000149187",
+            "UGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUGC_185",
+            "AAUGGAUUUUUGUGCCAGG",
+            "ENSG00000149187",
+            "UUGUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUC_189",
+            "AAUGGAUUUUUGUUCCAGG",
+            "ENSG00000149187",
+            "UGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUC_189",
+            "AAUGGAUUUUUGUUCCAGG",
+            "ENSG00000149187",
+            "UUGUU"
+        ]
+    ],
+    "ENSG00000101489": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_174",
+            "UGGUGUGUGACAAUGGUGUUUG",
+            "ENSG00000101489",
+            "GGUGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "UAAAAUGUGACAAUGGUGUUUG",
+            "ENSG00000101489",
+            "GGUGUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "UGGAGUGUGACAAUGGUGUUUG",
+            "ENSG00000101489",
+            "GGUGUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_9",
+            "UGGUGUGUGACAAUGGUGUUUG",
+            "ENSG00000101489",
+            "GGUGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGUG_238",
+            "UUGUGUGUGACAAUGGUGUUUG",
+            "ENSG00000101489",
+            "UGUGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUGU_187",
+            "UGUGUUGUGACAAUGGUGUUUG",
+            "ENSG00000101489",
+            "UGUGUUG"
+        ]
+    ],
+    "ENSG00000048740": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUA_188",
+            "AAUGGAUUUUUGUUACAGG",
+            "ENSG00000048740",
+            "UUGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUA_188",
+            "AAUGGAUUUUUGUUACAGG",
+            "ENSG00000048740",
+            "UGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "UGGAGUGUGACAAUGGUGUUUG",
+            "ENSG00000048740",
+            "UGUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAA_11",
+            "UGGAAUGUGACAAUGGUGUUUG",
+            "ENSG00000048740",
+            "AUGUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGUU_239",
+            "AAUGGAUUUUUUGUUCAGG",
+            "ENSG00000048740",
+            "UGUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUC_189",
+            "AAUGGAUUUUUGUUCCAGG",
+            "ENSG00000048740",
+            "UGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUU_191",
+            "AAUGGAUUUUUGUUUCAGG",
+            "ENSG00000048740",
+            "UGUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUG_190",
+            "AAUGGAUUUUUGUUGCAGG",
+            "ENSG00000048740",
+            "UGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGCG_7",
+            "UGGCGUGUGACAAUGGUGUUUG",
+            "ENSG00000048740",
+            "CGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUG_190",
+            "AAUGGAUUUUUGUUGCAGG",
+            "ENSG00000048740",
+            "UGUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUC_189",
+            "AAUGGAUUUUUGUUCCAGG",
+            "ENSG00000048740",
+            "UGUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "UGGAGUGUGACAAUGGUGUUUG",
+            "ENSG00000048740",
+            "UGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUGU_187",
+            "AAUGGAUUUUUGUGUCAGG",
+            "ENSG00000048740",
+            "UUGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_9",
+            "UGGUGUGUGACAAUGGUGUUUG",
+            "ENSG00000048740",
+            "GUGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUC_189",
+            "AAUGGAUUUUUGUUCCAGG",
+            "ENSG00000048740",
+            "UUGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUG_190",
+            "AAUGGAUUUUUGUUGCAGG",
+            "ENSG00000048740",
+            "UUGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_9",
+            "UGGUGUGUGACAAUGGUGUUUG",
+            "ENSG00000048740",
+            "UGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUGU_59",
+            "AAUGGAUUUUUAUGUCAGG",
+            "ENSG00000048740",
+            "UAUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_9",
+            "UGGUGUGUGACAAUGGUGUUUG",
+            "ENSG00000048740",
+            "UGUGUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUGU_187",
+            "AAUGGAUUUUUGUGUCAGG",
+            "ENSG00000048740",
+            "UGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "UGGAGUGUGACAAUGGUGUUUG",
+            "ENSG00000048740",
+            "GUGUG"
+        ]
+    ],
+    "ENSG00000089280": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000089280",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000089280",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000089280",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000089280",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_174",
+            "AAUGGAUUUUUGGUGCAGG",
+            "ENSG00000089280",
+            "GGUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_9",
+            "AAUGGAUUUUUGGUGCAGG",
+            "ENSG00000089280",
+            "GGUG"
+        ]
+    ],
+    "ENSG00000104824": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AACA_4",
+            "AAUGGAUUUUUAACACAGG",
+            "ENSG00000104824",
+            "CACA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAUA_12",
+            "AAUGGAUUUUUAAUACAGG",
+            "ENSG00000104824",
+            "UACA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACAC_17",
+            "AAUGGAUUUUUACACCAGG",
+            "ENSG00000104824",
+            "CACC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAA_11",
+            "AAUGGAUUUUUGGAACAGG",
+            "ENSG00000104824",
+            "AACA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACAU_19",
+            "AAUGGAUUUUUACAUCAGG",
+            "ENSG00000104824",
+            "ACAU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGCA_36",
+            "AAUGGAUUUUUAGCACAGG",
+            "ENSG00000104824",
+            "GCAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACAA_16",
+            "AAUGGAUUUUUACAACAGG",
+            "ENSG00000104824",
+            "ACAA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000104824",
+            "AACA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CACG_70",
+            "AAUGGAUUUUUCACGCAGG",
+            "ENSG00000104824",
+            "CACG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AACA_4",
+            "AAUGGAUUUUUAACACAGG",
+            "ENSG00000104824",
+            "ACAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACCA_20",
+            "AAUGGAUUUUUACCACAGG",
+            "ENSG00000104824",
+            "CCAC"
+        ]
+    ],
+    "ENSG00000112183": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "UUGAGUGUGACAAUGGUGUUUG",
+            "ENSG00000112183",
+            "UGAGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "UAGAGUGUGACAAUGGUGUUUG",
+            "ENSG00000112183",
+            "AGAGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAG_2",
+            "UAAAGUGUGACAAUGGUGUUUG",
+            "ENSG00000112183",
+            "AGUGUGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAUG_14",
+            "UAAUGUGUGACAAUGGUGUUUG",
+            "ENSG00000112183",
+            "UGUGUGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGUG_238",
+            "UUGUGUGUGACAAUGGUGUUUG",
+            "ENSG00000112183",
+            "UGUGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_9",
+            "UGGUGUGUGACAAUGGUGUUUG",
+            "ENSG00000112183",
+            "UGUGUGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "UGGAGUGUGACAAUGGUGUUUG",
+            "ENSG00000112183",
+            "AGUGUGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_34",
+            "UAGAGUGUGACAAUGGUGUUUG",
+            "ENSG00000112183",
+            "AGAGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_226",
+            "UUGAGUGUGACAAUGGUGUUUG",
+            "ENSG00000112183",
+            "UGAGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGUG_46",
+            "UAGUGUGUGACAAUGGUGUUUG",
+            "ENSG00000112183",
+            "AGUGUGU"
+        ]
+    ],
+    "ENSG00000120948": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAA_11",
+            "UGGAAUGUGACAAUGGUGUUUG",
+            "ENSG00000120948",
+            "GAAUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_9",
+            "UGGUGUGUGACAAUGGUGUUUG",
+            "ENSG00000120948",
+            "UGUGUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_AUGA_56",
+            "AAUGGAUUUUUGGAAUGAG",
+            "ENSG00000120948",
+            "GAAUGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_AUGG_58",
+            "AAUGGAUUUUUGGAAUGGG",
+            "ENSG00000120948",
+            "GAAUGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_AUGU_59",
+            "AAUGGAUUUUUGGAAUGUG",
+            "ENSG00000120948",
+            "GAAUGU"
+        ]
+    ],
+    "ENSG00000161547": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000161547",
+            "UUAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAA_32",
+            "AAUGGAUUUUUAGAACAGG",
+            "ENSG00000161547",
+            "UUAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAG_2",
+            "AAUGGAUUUUUAAAGCAGG",
+            "ENSG00000161547",
+            "AGCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000161547",
+            "AGCAG"
+        ]
+    ],
+    "ENSG00000116001": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GACU_135",
+            "AAUGGAUUUUUGACUCAGG",
+            "ENSG00000116001",
+            "AUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000116001",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000116001",
+            "AUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000116001",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCCC_213",
+            "AAUGGAUUUUUUCCCCAGG",
+            "ENSG00000116001",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000116001",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUUU_63",
+            "AAUGGAUUUUUAUUUCAGG",
+            "ENSG00000116001",
+            "AUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAGU_139",
+            "AAUGGAUUUUUGAGUCAGG",
+            "ENSG00000116001",
+            "AUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAUU_15",
+            "AAUGGAUUUUUAAUUCAGG",
+            "ENSG00000116001",
+            "AUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UAAG_194",
+            "AAUGGAUUUUUUAAGCAGG",
+            "ENSG00000116001",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000116001",
+            "UUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGUC_109",
+            "AAUGGAUUUUUCGUCCAGG",
+            "ENSG00000116001",
+            "UUUUUCG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000116001",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000116001",
+            "AUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000116001",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCUU_95",
+            "AAUGGAUUUUUCCUUCAGG",
+            "ENSG00000116001",
+            "CUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAU_163",
+            "AAUGGAUUUUUGGAUCAGG",
+            "ENSG00000116001",
+            "UUUUUGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAA_224",
+            "AAUGGAUUUUUUGAACAGG",
+            "ENSG00000116001",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000116001",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_226",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000116001",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUAG_4",
+            "AAUGGAUUUUUGUAGCAGG",
+            "ENSG00000116001",
+            "UUUUUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUU_127",
+            "AAUGGAUUUUUCUUUCAGG",
+            "ENSG00000116001",
+            "CUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACUU_31",
+            "AAUGGAUUUUUACUUCAGG",
+            "ENSG00000116001",
+            "CUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCCC_213",
+            "AAUGGAUUUUUUCCCCAGG",
+            "ENSG00000116001",
+            "UUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000116001",
+            "UUUUUGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUAA_112",
+            "AAUGGAUUUUUCUAACAGG",
+            "ENSG00000116001",
+            "UUUUUCU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGAG_3",
+            "AAUGGAUUUUUCGAGCAGG",
+            "ENSG00000116001",
+            "UUUUUCG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGCU_167",
+            "AAUGGAUUUUUGGCUCAGG",
+            "ENSG00000116001",
+            "UUUUUGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000116001",
+            "AUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000116001",
+            "UUUUUGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UACG_198",
+            "AAUGGAUUUUUUACGCAGG",
+            "ENSG00000116001",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUU_191",
+            "AAUGGAUUUUUGUUUCAGG",
+            "ENSG00000116001",
+            "GUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUAG_178",
+            "AAUGGAUUUUUGUAGCAGG",
+            "ENSG00000116001",
+            "UUUUUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUCU_183",
+            "AAUGGAUUUUUGUCUCAGG",
+            "ENSG00000116001",
+            "UUUUUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGUG_238",
+            "AAUGGAUUUUUUGUGCAGG",
+            "ENSG00000116001",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCGC_153",
+            "AAUGGAUUUUUGCGCCAGG",
+            "ENSG00000116001",
+            "AUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000116001",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCAA_208",
+            "AAUGGAUUUUUUCAACAGG",
+            "ENSG00000116001",
+            "UUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGCC_229",
+            "AAUGGAUUUUUUGCCCAGG",
+            "ENSG00000116001",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUCC_117",
+            "AAUGGAUUUUUCUCCCAGG",
+            "ENSG00000116001",
+            "UUUUUCU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGCU_231",
+            "AAUGGAUUUUUUGCUCAGG",
+            "ENSG00000116001",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000116001",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGAG_98",
+            "AAUGGAUUUUUCGAGCAGG",
+            "ENSG00000116001",
+            "UUUUUCG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000116001",
+            "UUUUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CAAU_67",
+            "AAUGGAUUUUUCAAUCAGG",
+            "ENSG00000116001",
+            "AUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGAG_3",
+            "AAUGGAUUUUUCGAGCAGG",
+            "ENSG00000116001",
+            "AUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUGG_186",
+            "AAUGGAUUUUUGUGGCAGG",
+            "ENSG00000116001",
+            "UUUUUGU"
+        ]
+    ],
+    "ENSG00000151923": [
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUU_127",
+            "AAUGGAUUUUUCUUUCAGG",
+            "ENSG00000151923",
+            "CUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCA_244",
+            "AAUGGAUUUUUUUCACAGG",
+            "ENSG00000151923",
+            "AUUUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000151923",
+            "AUUUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUUA_60",
+            "AAUGGAUUUUUAUUACAGG",
+            "ENSG00000151923",
+            "AUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000151923",
+            "AUUUUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000151923",
+            "AUUUUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAUU_15",
+            "AAUGGAUUUUUAAUUCAGG",
+            "ENSG00000151923",
+            "AUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUUU_63",
+            "AAUGGAUUUUUAUUUCAGG",
+            "ENSG00000151923",
+            "AUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUU_191",
+            "AAUGGAUUUUUGUUUCAGG",
+            "ENSG00000151923",
+            "GUUUC"
+        ]
+    ],
+    "ENSG00000147274": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AAGU_11",
+            "AAUGGAUUUUUAAGUCAGG",
+            "ENSG00000147274",
+            "AAGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAGA_8",
+            "AAUGGAUUUUUAAGACAGG",
+            "ENSG00000147274",
+            "UAAGAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CAAA_64",
+            "AAUGGAUUUUUCAAACAGG",
+            "ENSG00000147274",
+            "UCAAA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUCC_53",
+            "AAUGGAUUUUUAUCCCAGG",
+            "ENSG00000147274",
+            "AUCCCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAAG_5",
+            "UGAAGUGUGACAAUGGUGUUUG",
+            "ENSG00000147274",
+            "AAGU"
+        ]
+    ],
+    "ENSG00000124571": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUU_191",
+            "AAUGGAUUUUUGUUUCAGG",
+            "ENSG00000124571",
+            "GUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCG_86",
+            "AAUGGAUUUUUCCCGCAGG",
+            "ENSG00000124571",
+            "CCGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "UGGAGUGUGACAAUGGUGUUUG",
+            "ENSG00000124571",
+            "GUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACCG_22",
+            "AAUGGAUUUUUACCGCAGG",
+            "ENSG00000124571",
+            "CCGC"
+        ]
+    ],
+    "ENSG00000089127": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAG_2",
+            "AAUGGAUUUUUAAAGCAGG",
+            "ENSG00000089127",
+            "AAAGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000089127",
+            "UUGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAAA_128",
+            "AAUGGAUUUUUGAAACAGG",
+            "ENSG00000089127",
+            "UUGA"
+        ]
+    ],
+    "ENSG00000135486": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000135486",
+            "UUAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACGG_26",
+            "AAUGGAUUUUUACGGCAGG",
+            "ENSG00000135486",
+            "UACGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UAGG_202",
+            "AAUGGAUUUUUUAGGCAGG",
+            "ENSG00000135486",
+            "UAGGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUAG_50",
+            "AAUGGAUUUUUAUAGCAGG",
+            "ENSG00000135486",
+            "AUAGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000135486",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000135486",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGG_42",
+            "AAUGGAUUUUUAGGGCAGG",
+            "ENSG00000135486",
+            "UAGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUAA_48",
+            "AAUGGAUUUUUAUAACAGG",
+            "ENSG00000135486",
+            "UUUAUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000135486",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAA_32",
+            "AAUGGAUUUUUAGAACAGG",
+            "ENSG00000135486",
+            "AGAAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UAGA_200",
+            "AAUGGAUUUUUUAGACAGG",
+            "ENSG00000135486",
+            "UAGACA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000135486",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGGG_106",
+            "AAUGGAUUUUUCGGGCAGG",
+            "ENSG00000135486",
+            "UCGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGA_40",
+            "AAUGGAUUUUUAGGACAGG",
+            "ENSG00000135486",
+            "UAGGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGA_40",
+            "AAUGGAUUUUUAGGACAGG",
+            "ENSG00000135486",
+            "UAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGCU_39",
+            "AAUGGAUUUUUAGCUCAGG",
+            "ENSG00000135486",
+            "UUAG"
+        ]
+    ],
+    "ENSG00000112531": [
+        [
+            ">miRNA_Homo sapiens_GGAG_CGAG_3",
+            "UCGAGUGUGACAAUGGUGUUUG",
+            "ENSG00000112531",
+            "CGAGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUAA_112",
+            "UCUAAUGUGACAAUGGUGUUUG",
+            "ENSG00000112531",
+            "CUAAU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGAG_98",
+            "UCGAGUGUGACAAUGGUGUUUG",
+            "ENSG00000112531",
+            "CGAGU"
+        ]
+    ],
+    "ENSG00000167005": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GUAA_176",
+            "AAUGGAUUUUUGUAACAGG",
+            "ENSG00000167005",
+            "UGUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUAA_176",
+            "AAUGGAUUUUUGUAACAGG",
+            "ENSG00000167005",
+            "UUGUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUAG_4",
+            "AAUGGAUUUUUGUAGCAGG",
+            "ENSG00000167005",
+            "UGUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUAG_4",
+            "AAUGGAUUUUUGUAGCAGG",
+            "ENSG00000167005",
+            "UUGUA"
+        ]
+    ],
+    "ENSG00000116560": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000116560",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUAG_4",
+            "UGUAGUGUGACAAUGGUGUUUG",
+            "ENSG00000116560",
+            "GUAGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000116560",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000116560",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000116560",
+            "UUUUUUU"
+        ]
+    ],
+    "ENSG00000180210": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GAAG_130",
+            "AAUGGAUUUUUGAAGCAGG",
+            "ENSG00000180210",
+            "GAAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAAG_5",
+            "AAUGGAUUUUUGAAGCAGG",
+            "ENSG00000180210",
+            "GAAG"
+        ]
+    ],
+    "ENSG00000122729": [
+        [
+            ">miRNA_Homo sapiens_GGAG_ACAG_18",
+            "UACAGUGUGACAAUGGUGUUUG",
+            "ENSG00000122729",
+            "CAGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCAG_6",
+            "UGCAGUGUGACAAUGGUGUUUG",
+            "ENSG00000122729",
+            "CAGUGU"
+        ]
+    ],
+    "ENSG00000107201": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GGCG_7",
+            "AAUGGAUUUUUGGCGCAGG",
+            "ENSG00000107201",
+            "GGCG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGCG_166",
+            "AAUGGAUUUUUGGCGCAGG",
+            "ENSG00000107201",
+            "GGCG"
+        ]
+    ],
+    "ENSG00000132463": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_8",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000132463",
+            "UGGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000132463",
+            "UGGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGU_171",
+            "AAUGGAUUUUUGGGUCAGG",
+            "ENSG00000132463",
+            "UGGGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGA_168",
+            "AAUGGAUUUUUGGGACAGG",
+            "ENSG00000132463",
+            "UGGGA"
+        ]
+    ],
+    "ENSG00000126945": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGA_168",
+            "AAUGGAUUUUUGGGACAGG",
+            "ENSG00000126945",
+            "UGGGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGG_42",
+            "AAUGGAUUUUUAGGGCAGG",
+            "ENSG00000126945",
+            "AGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGU_171",
+            "AAUGGAUUUUUGGGUCAGG",
+            "ENSG00000126945",
+            "UGGGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_8",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000126945",
+            "GGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_8",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000126945",
+            "UGGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000126945",
+            "UGGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000126945",
+            "GGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000126945",
+            "UGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGC_169",
+            "AAUGGAUUUUUGGGCCAGG",
+            "ENSG00000126945",
+            "UGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGGG_106",
+            "AAUGGAUUUUUCGGGCAGG",
+            "ENSG00000126945",
+            "CGGGC"
+        ]
+    ],
+    "ENSG00000169045": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGC_169",
+            "AAUGGAUUUUUGGGCCAGG",
+            "ENSG00000169045",
+            "UGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGG_42",
+            "AAUGGAUUUUUAGGGCAGG",
+            "ENSG00000169045",
+            "AGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000169045",
+            "GGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000169045",
+            "UGGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000169045",
+            "GGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_8",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000169045",
+            "GGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGGG_106",
+            "AAUGGAUUUUUCGGGCAGG",
+            "ENSG00000169045",
+            "CGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_8",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000169045",
+            "UGGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGU_171",
+            "AAUGGAUUUUUGGGUCAGG",
+            "ENSG00000169045",
+            "UGGGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGA_168",
+            "AAUGGAUUUUUGGGACAGG",
+            "ENSG00000169045",
+            "UGGGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000169045",
+            "UGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_8",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000169045",
+            "GGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGA_168",
+            "AAUGGAUUUUUGGGACAGG",
+            "ENSG00000169045",
+            "GGGA"
+        ]
+    ],
+    "ENSG00000169813": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_8",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000169813",
+            "UGGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_8",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000169813",
+            "GGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGA_168",
+            "AAUGGAUUUUUGGGACAGG",
+            "ENSG00000169813",
+            "UGGGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGG_42",
+            "AAUGGAUUUUUAGGGCAGG",
+            "ENSG00000169813",
+            "AGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000169813",
+            "UGGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000169813",
+            "GGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGC_169",
+            "AAUGGAUUUUUGGGCCAGG",
+            "ENSG00000169813",
+            "UGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGU_171",
+            "AAUGGAUUUUUGGGUCAGG",
+            "ENSG00000169813",
+            "UGGGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000169813",
+            "UGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGGG_106",
+            "AAUGGAUUUUUCGGGCAGG",
+            "ENSG00000169813",
+            "CGGGC"
+        ]
+    ],
+    "ENSG00000096746": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGA_168",
+            "AAUGGAUUUUUGGGACAGG",
+            "ENSG00000096746",
+            "UGGGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGGG_106",
+            "AAUGGAUUUUUCGGGCAGG",
+            "ENSG00000096746",
+            "CGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGC_169",
+            "AAUGGAUUUUUGGGCCAGG",
+            "ENSG00000096746",
+            "UGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_8",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000096746",
+            "UGGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGU_171",
+            "AAUGGAUUUUUGGGUCAGG",
+            "ENSG00000096746",
+            "UGGGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGG_42",
+            "AAUGGAUUUUUAGGGCAGG",
+            "ENSG00000096746",
+            "AGGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000096746",
+            "UGGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000096746",
+            "UGGGC"
+        ]
+    ],
+    "ENSG00000088247": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGG_42",
+            "AAUGGAUUUUUAGGGCAGG",
+            "ENSG00000088247",
+            "AGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000088247",
+            "UUUAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000088247",
+            "UGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAA_32",
+            "AAUGGAUUUUUAGAACAGG",
+            "ENSG00000088247",
+            "UUAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000088247",
+            "UUAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGC_169",
+            "AAUGGAUUUUUGGGCCAGG",
+            "ENSG00000088247",
+            "UUGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGA_168",
+            "AAUGGAUUUUUGGGACAGG",
+            "ENSG00000088247",
+            "UUGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAA_32",
+            "AAUGGAUUUUUAGAACAGG",
+            "ENSG00000088247",
+            "UUUAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_8",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000088247",
+            "UUGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGC_169",
+            "AAUGGAUUUUUGGGCCAGG",
+            "ENSG00000088247",
+            "UGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGA_168",
+            "AAUGGAUUUUUGGGACAGG",
+            "ENSG00000088247",
+            "UGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_8",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000088247",
+            "UGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGU_171",
+            "AAUGGAUUUUUGGGUCAGG",
+            "ENSG00000088247",
+            "GGGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGU_171",
+            "AAUGGAUUUUUGGGUCAGG",
+            "ENSG00000088247",
+            "UGGGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000088247",
+            "UUGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGG_42",
+            "AAUGGAUUUUUAGGGCAGG",
+            "ENSG00000088247",
+            "UAGGG"
+        ]
+    ],
+    "ENSG00000139910": [
+        [
+            ">miRNA_Homo sapiens_GGAG_ACCA_20",
+            "AAUGGAUUUUUACCACAGG",
+            "ENSG00000139910",
+            "CCAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000139910",
+            "CCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAC_1",
+            "AAUGGAUUUUUAAACCAGG",
+            "ENSG00000139910",
+            "CCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUCA_52",
+            "AAUGGAUUUUUAUCACAGG",
+            "ENSG00000139910",
+            "UCAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAC_12",
+            "AAUGGAUUUUUGGACCAGG",
+            "ENSG00000139910",
+            "CCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAUU_15",
+            "AAUGGAUUUUUAAUUCAGG",
+            "ENSG00000139910",
+            "UUCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000139910",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000139910",
+            "UCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CACC_69",
+            "AAUGGAUUUUUCACCCAGG",
+            "ENSG00000139910",
+            "UCACC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAU_3",
+            "AAUGGAUUUUUAAAUCAGG",
+            "ENSG00000139910",
+            "UCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGU_171",
+            "AAUGGAUUUUUGGGUCAGG",
+            "ENSG00000139910",
+            "UCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUGU_187",
+            "AAUGGAUUUUUGUGUCAGG",
+            "ENSG00000139910",
+            "UGUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUU_175",
+            "AAUGGAUUUUUGGUUCAGG",
+            "ENSG00000139910",
+            "UUCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCAU_83",
+            "AAUGGAUUUUUCCAUCAGG",
+            "ENSG00000139910",
+            "CCAU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000139910",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CAUA_76",
+            "AAUGGAUUUUUCAUACAGG",
+            "ENSG00000139910",
+            "UCAU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAU_10",
+            "AAUGGAUUUUUGGAUCAGG",
+            "ENSG00000139910",
+            "UCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000139910",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000139910",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000139910",
+            "UUCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCU_87",
+            "AAUGGAUUUUUCCCUCAGG",
+            "ENSG00000139910",
+            "UCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCUU_95",
+            "AAUGGAUUUUUCCUUCAGG",
+            "ENSG00000139910",
+            "UUCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CAUA_76",
+            "AAUGGAUUUUUCAUACAGG",
+            "ENSG00000139910",
+            "UUCAU"
+        ]
+    ],
+    "ENSG00000111786": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGA_40",
+            "AAUGGAUUUUUAGGACAGG",
+            "ENSG00000111786",
+            "AGGAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000111786",
+            "UGGAU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_174",
+            "AAUGGAUUUUUGGUGCAGG",
+            "ENSG00000111786",
+            "UGGUGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGA_40",
+            "AAUGGAUUUUUAGGACAGG",
+            "ENSG00000111786",
+            "AGGACAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAAG_130",
+            "AAUGGAUUUUUGAAGCAGG",
+            "ENSG00000111786",
+            "UGAAGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000111786",
+            "UGGAU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAC_12",
+            "AAUGGAUUUUUGGACCAGG",
+            "ENSG00000111786",
+            "UGGAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000111786",
+            "AGCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAUG_142",
+            "AAUGGAUUUUUGAUGCAGG",
+            "ENSG00000111786",
+            "UGAUGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CAGG_74",
+            "AAUGGAUUUUUCAGGCAGG",
+            "ENSG00000111786",
+            "AGGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000111786",
+            "UGGAU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAG_2",
+            "AAUGGAUUUUUAAAGCAGG",
+            "ENSG00000111786",
+            "AGCAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_162",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000111786",
+            "UGGAGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGGA_104",
+            "AAUGGAUUUUUCGGACAGG",
+            "ENSG00000111786",
+            "CGGAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAA_32",
+            "AAUGGAUUUUUAGAACAGG",
+            "ENSG00000111786",
+            "AGAAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000111786",
+            "UGGAGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUGA_56",
+            "AAUGGAUUUUUAUGACAGG",
+            "ENSG00000111786",
+            "AUGACAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGCA_36",
+            "AAUGGAUUUUUAGCACAGG",
+            "ENSG00000111786",
+            "AGCAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_9",
+            "AAUGGAUUUUUGGUGCAGG",
+            "ENSG00000111786",
+            "UGGUGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAC_161",
+            "AAUGGAUUUUUGGACCAGG",
+            "ENSG00000111786",
+            "UGGAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAGA_8",
+            "AAUGGAUUUUUAAGACAGG",
+            "ENSG00000111786",
+            "AAGAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000111786",
+            "UGGAU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAAG_5",
+            "AAUGGAUUUUUGAAGCAGG",
+            "ENSG00000111786",
+            "UGAAGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACCA_20",
+            "AAUGGAUUUUUACCACAGG",
+            "ENSG00000111786",
+            "ACCAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000111786",
+            "UGGAU"
+        ]
+    ],
+    "ENSG00000011304": [
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUA_124",
+            "AAUGGAUUUUUCUUACAGG",
+            "ENSG00000011304",
+            "UCUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUU_127",
+            "AAUGGAUUUUUCUUUCAGG",
+            "ENSG00000011304",
+            "UUUCUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCU_87",
+            "AAUGGAUUUUUCCCUCAGG",
+            "ENSG00000011304",
+            "CCUCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACUC_29",
+            "AAUGGAUUUUUACUCCAGG",
+            "ENSG00000011304",
+            "CUCC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUGG_122",
+            "AAUGGAUUUUUCUGGCAGG",
+            "ENSG00000011304",
+            "UCUGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCUC_93",
+            "AAUGGAUUUUUCCUCCAGG",
+            "ENSG00000011304",
+            "CCUCC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUCU_119",
+            "AAUGGAUUUUUCUCUCAGG",
+            "ENSG00000011304",
+            "UCUCUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUC_125",
+            "AAUGGAUUUUUCUUCCAGG",
+            "ENSG00000011304",
+            "UCUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUU_127",
+            "AAUGGAUUUUUCUUUCAGG",
+            "ENSG00000011304",
+            "UCUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUAU_115",
+            "AAUGGAUUUUUCUAUCAGG",
+            "ENSG00000011304",
+            "CUAU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUAA_112",
+            "AAUGGAUUUUUCUAACAGG",
+            "ENSG00000011304",
+            "UCUAA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUAG_114",
+            "AAUGGAUUUUUCUAGCAGG",
+            "ENSG00000011304",
+            "UCUAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACUA_28",
+            "AAUGGAUUUUUACUACAGG",
+            "ENSG00000011304",
+            "CUAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUG_126",
+            "AAUGGAUUUUUCUUGCAGG",
+            "ENSG00000011304",
+            "CUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACCU_23",
+            "AAUGGAUUUUUACCUCAGG",
+            "ENSG00000011304",
+            "CCUCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACUG_30",
+            "AAUGGAUUUUUACUGCAGG",
+            "ENSG00000011304",
+            "CUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUAC_113",
+            "AAUGGAUUUUUCUACCAGG",
+            "ENSG00000011304",
+            "UCUAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUAU_115",
+            "AAUGGAUUUUUCUAUCAGG",
+            "ENSG00000011304",
+            "UCUAU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUCG_118",
+            "AAUGGAUUUUUCUCGCAGG",
+            "ENSG00000011304",
+            "UUUUUCU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUU_127",
+            "AAUGGAUUUUUCUUUCAGG",
+            "ENSG00000011304",
+            "CUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUG_126",
+            "AAUGGAUUUUUCUUGCAGG",
+            "ENSG00000011304",
+            "UUCUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000011304",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000011304",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCUG_94",
+            "AAUGGAUUUUUCCUGCAGG",
+            "ENSG00000011304",
+            "CUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000011304",
+            "UUUUUCCC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCUA_92",
+            "AAUGGAUUUUUCCUACAGG",
+            "ENSG00000011304",
+            "CCUAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUCG_118",
+            "AAUGGAUUUUUCUCGCAGG",
+            "ENSG00000011304",
+            "CUCG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUCU_119",
+            "AAUGGAUUUUUCUCUCAGG",
+            "ENSG00000011304",
+            "CUCUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AACU_7",
+            "AAUGGAUUUUUAACUCAGG",
+            "ENSG00000011304",
+            "CUCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000011304",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCU_87",
+            "AAUGGAUUUUUCCCUCAGG",
+            "ENSG00000011304",
+            "CUCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUG_126",
+            "AAUGGAUUUUUCUUGCAGG",
+            "ENSG00000011304",
+            "UCUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUCU_119",
+            "AAUGGAUUUUUCUCUCAGG",
+            "ENSG00000011304",
+            "CUCU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000011304",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUCU_119",
+            "AAUGGAUUUUUCUCUCAGG",
+            "ENSG00000011304",
+            "UCUCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUU_127",
+            "AAUGGAUUUUUCUUUCAGG",
+            "ENSG00000011304",
+            "UUCUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UAAA_192",
+            "AAUGGAUUUUUUAAACAGG",
+            "ENSG00000011304",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCUU_95",
+            "AAUGGAUUUUUCCUUCAGG",
+            "ENSG00000011304",
+            "CUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUGA_120",
+            "AAUGGAUUUUUCUGACAGG",
+            "ENSG00000011304",
+            "CUGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUCC_117",
+            "AAUGGAUUUUUCUCCCAGG",
+            "ENSG00000011304",
+            "UCUCC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUCU_119",
+            "AAUGGAUUUUUCUCUCAGG",
+            "ENSG00000011304",
+            "UCUCU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUC_125",
+            "AAUGGAUUUUUCUUCCAGG",
+            "ENSG00000011304",
+            "UCUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUAG_114",
+            "AAUGGAUUUUUCUAGCAGG",
+            "ENSG00000011304",
+            "CUAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCCC_213",
+            "AAUGGAUUUUUUCCCCAGG",
+            "ENSG00000011304",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000011304",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUGA_120",
+            "AAUGGAUUUUUCUGACAGG",
+            "ENSG00000011304",
+            "UCUGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUA_124",
+            "AAUGGAUUUUUCUUACAGG",
+            "ENSG00000011304",
+            "CUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCUU_95",
+            "AAUGGAUUUUUCCUUCAGG",
+            "ENSG00000011304",
+            "CCUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUC_125",
+            "AAUGGAUUUUUCUUCCAGG",
+            "ENSG00000011304",
+            "UUCUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUGC_121",
+            "AAUGGAUUUUUCUGCCAGG",
+            "ENSG00000011304",
+            "UCUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUCC_117",
+            "AAUGGAUUUUUCUCCCAGG",
+            "ENSG00000011304",
+            "CUCC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACUU_31",
+            "AAUGGAUUUUUACUUCAGG",
+            "ENSG00000011304",
+            "CUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUA_124",
+            "AAUGGAUUUUUCUUACAGG",
+            "ENSG00000011304",
+            "UCUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUGU_123",
+            "AAUGGAUUUUUCUGUCAGG",
+            "ENSG00000011304",
+            "CUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUGU_123",
+            "AAUGGAUUUUUCUGUCAGG",
+            "ENSG00000011304",
+            "UCUGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCA_84",
+            "AAUGGAUUUUUCCCACAGG",
+            "ENSG00000011304",
+            "UUUUUCCC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000011304",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000011304",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCUG_94",
+            "AAUGGAUUUUUCCUGCAGG",
+            "ENSG00000011304",
+            "CCUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUCA_116",
+            "AAUGGAUUUUUCUCACAGG",
+            "ENSG00000011304",
+            "UCUCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUCG_118",
+            "AAUGGAUUUUUCUCGCAGG",
+            "ENSG00000011304",
+            "UCUCG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUAA_112",
+            "AAUGGAUUUUUCUAACAGG",
+            "ENSG00000011304",
+            "UUUUUCU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUGG_122",
+            "AAUGGAUUUUUCUGGCAGG",
+            "ENSG00000011304",
+            "CUGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUAA_112",
+            "AAUGGAUUUUUCUAACAGG",
+            "ENSG00000011304",
+            "CUAA"
+        ]
+    ],
+    "ENSG00000066044": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000066044",
+            "AUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000066044",
+            "UUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000066044",
+            "AUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGUU_47",
+            "AAUGGAUUUUUAGUUCAGG",
+            "ENSG00000066044",
+            "UUUAGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000066044",
+            "AUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000066044",
+            "AUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAA_224",
+            "AAUGGAUUUUUUGAACAGG",
+            "ENSG00000066044",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000066044",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUUU_63",
+            "AAUGGAUUUUUAUUUCAGG",
+            "ENSG00000066044",
+            "UUUAUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000066044",
+            "AUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUU_191",
+            "AAUGGAUUUUUGUUUCAGG",
+            "ENSG00000066044",
+            "UUUGUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000066044",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000066044",
+            "UUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000066044",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGCC_229",
+            "AAUGGAUUUUUUGCCCAGG",
+            "ENSG00000066044",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000066044",
+            "UUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000066044",
+            "UUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000066044",
+            "AUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000066044",
+            "UUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000066044",
+            "AUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000066044",
+            "UUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000066044",
+            "UUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000066044",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000066044",
+            "UUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUU_175",
+            "AAUGGAUUUUUGGUUCAGG",
+            "ENSG00000066044",
+            "UUUGGUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000066044",
+            "UUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000066044",
+            "UUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000066044",
+            "AUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000066044",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000066044",
+            "AUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000066044",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000066044",
+            "AUUU"
+        ]
+    ],
+    "ENSG00000162374": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000162374",
+            "AUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000162374",
+            "AUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000162374",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000162374",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000162374",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000162374",
+            "AUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000162374",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000162374",
+            "AUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000162374",
+            "AUUU"
+        ]
+    ],
+    "ENSG00000092199": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000092199",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000092199",
+            "UUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGCC_229",
+            "AAUGGAUUUUUUGCCCAGG",
+            "ENSG00000092199",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGAG_3",
+            "AAUGGAUUUUUCGAGCAGG",
+            "ENSG00000092199",
+            "UUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000092199",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCCC_213",
+            "AAUGGAUUUUUUCCCCAGG",
+            "ENSG00000092199",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000092199",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000092199",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000092199",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000092199",
+            "AUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000092199",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UAAA_192",
+            "AAUGGAUUUUUUAAACAGG",
+            "ENSG00000092199",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAAA_128",
+            "AAUGGAUUUUUGAAACAGG",
+            "ENSG00000092199",
+            "UUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000092199",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000092199",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CAAA_64",
+            "AAUGGAUUUUUCAAACAGG",
+            "ENSG00000092199",
+            "UUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000092199",
+            "AUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000092199",
+            "UUUUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000092199",
+            "UUUUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCCC_149",
+            "AAUGGAUUUUUGCCCCAGG",
+            "ENSG00000092199",
+            "UUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000092199",
+            "UUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAAA_128",
+            "AAUGGAUUUUUGAAACAGG",
+            "ENSG00000092199",
+            "AUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000092199",
+            "UUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000092199",
+            "UUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000092199",
+            "UUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCCC_213",
+            "AAUGGAUUUUUUCCCCAGG",
+            "ENSG00000092199",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000092199",
+            "UUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000092199",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UAAA_192",
+            "AAUGGAUUUUUUAAACAGG",
+            "ENSG00000092199",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000092199",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000092199",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000092199",
+            "UUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000092199",
+            "UUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCCC_149",
+            "AAUGGAUUUUUGCCCCAGG",
+            "ENSG00000092199",
+            "AUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000092199",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000092199",
+            "UUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAA_224",
+            "AAUGGAUUUUUUGAACAGG",
+            "ENSG00000092199",
+            "UUUUUUG"
+        ]
+    ],
+    "ENSG00000179172": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000179172",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000179172",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCCC_149",
+            "AAUGGAUUUUUGCCCCAGG",
+            "ENSG00000179172",
+            "AUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAA_224",
+            "AAUGGAUUUUUUGAACAGG",
+            "ENSG00000179172",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000179172",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000179172",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000179172",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000179172",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UAAA_192",
+            "AAUGGAUUUUUUAAACAGG",
+            "ENSG00000179172",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000179172",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000179172",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCCC_213",
+            "AAUGGAUUUUUUCCCCAGG",
+            "ENSG00000179172",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000179172",
+            "AUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000179172",
+            "AUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAAA_128",
+            "AAUGGAUUUUUGAAACAGG",
+            "ENSG00000179172",
+            "AUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGCC_229",
+            "AAUGGAUUUUUUGCCCAGG",
+            "ENSG00000179172",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000179172",
+            "AUUUUUG"
+        ]
+    ],
+    "ENSG00000084072": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UCCC_213",
+            "AAUGGAUUUUUUCCCCAGG",
+            "ENSG00000084072",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000084072",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000084072",
+            "AUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000084072",
+            "AUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUAU_51",
+            "AAUGGAUUUUUAUAUCAGG",
+            "ENSG00000084072",
+            "UUAUAU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000084072",
+            "AUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000084072",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000084072",
+            "UUUAAA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUUU_63",
+            "AAUGGAUUUUUAUUUCAGG",
+            "ENSG00000084072",
+            "UUAUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000084072",
+            "UUUUAA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000084072",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUUA_60",
+            "AAUGGAUUUUUAUUACAGG",
+            "ENSG00000084072",
+            "UUAUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUCU_55",
+            "AAUGGAUUUUUAUCUCAGG",
+            "ENSG00000084072",
+            "UUUUAU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUAA_48",
+            "AAUGGAUUUUUAUAACAGG",
+            "ENSG00000084072",
+            "UUAUAA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000084072",
+            "UUUUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAUA_12",
+            "AAUGGAUUUUUAAUACAGG",
+            "ENSG00000084072",
+            "UUAAUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAUA_12",
+            "AAUGGAUUUUUAAUACAGG",
+            "ENSG00000084072",
+            "UUUAAU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAUU_15",
+            "AAUGGAUUUUUAAUUCAGG",
+            "ENSG00000084072",
+            "UUAAUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UAAA_192",
+            "AAUGGAUUUUUUAAACAGG",
+            "ENSG00000084072",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUUG_62",
+            "AAUGGAUUUUUAUUGCAGG",
+            "ENSG00000084072",
+            "UUUAUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000084072",
+            "UUUUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUAA_48",
+            "AAUGGAUUUUUAUAACAGG",
+            "ENSG00000084072",
+            "UUUAUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAU_3",
+            "AAUGGAUUUUUAAAUCAGG",
+            "ENSG00000084072",
+            "UUAAAU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000084072",
+            "AUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000084072",
+            "UUAAAA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000084072",
+            "AUUUUU"
+        ]
+    ],
+    "ENSG00000153037": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_34",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000153037",
+            "GAGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCU_87",
+            "AAUGGAUUUUUCCCUCAGG",
+            "ENSG00000153037",
+            "CCUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGGC_105",
+            "AAUGGAUUUUUCGGCCAGG",
+            "ENSG00000153037",
+            "UCGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_162",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000153037",
+            "GGAGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGGA_104",
+            "AAUGGAUUUUUCGGACAGG",
+            "ENSG00000153037",
+            "UCGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACCU_23",
+            "AAUGGAUUUUUACCUCAGG",
+            "ENSG00000153037",
+            "CCUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000153037",
+            "GAGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000153037",
+            "GGAGC"
+        ]
+    ],
+    "ENSG00000100883": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGU_43",
+            "AAUGGAUUUUUAGGUCAGG",
+            "ENSG00000100883",
+            "AGGU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACCU_23",
+            "AAUGGAUUUUUACCUCAGG",
+            "ENSG00000100883",
+            "CCUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGGC_105",
+            "AAUGGAUUUUUCGGCCAGG",
+            "ENSG00000100883",
+            "UCGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000100883",
+            "GGAGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGGA_104",
+            "AAUGGAUUUUUCGGACAGG",
+            "ENSG00000100883",
+            "UCGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCU_87",
+            "AAUGGAUUUUUCCCUCAGG",
+            "ENSG00000100883",
+            "CCUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_162",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000100883",
+            "GGAGC"
+        ]
+    ],
+    "ENSG00000167881": [
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCU_87",
+            "AAUGGAUUUUUCCCUCAGG",
+            "ENSG00000167881",
+            "CCUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_162",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000167881",
+            "GGAGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGGA_104",
+            "AAUGGAUUUUUCGGACAGG",
+            "ENSG00000167881",
+            "UCGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGGC_105",
+            "AAUGGAUUUUUCGGCCAGG",
+            "ENSG00000167881",
+            "UCGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACCU_23",
+            "AAUGGAUUUUUACCUCAGG",
+            "ENSG00000167881",
+            "CCUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000167881",
+            "GGAGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCUG_158",
+            "AAUGGAUUUUUGCUGCAGG",
+            "ENSG00000167881",
+            "UGCUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAGG_10",
+            "AAUGGAUUUUUAAGGCAGG",
+            "ENSG00000167881",
+            "UAAG"
+        ]
+    ],
+    "ENSG00000136450": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GAUG_142",
+            "AAUGGAUUUUUGAUGCAGG",
+            "ENSG00000136450",
+            "UGAUGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAAG_130",
+            "AAUGGAUUUUUGAAGCAGG",
+            "ENSG00000136450",
+            "UGAAGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000136450",
+            "UGGAGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000136450",
+            "AGAGCAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCGA_88",
+            "AAUGGAUUUUUCCGACAGG",
+            "ENSG00000136450",
+            "CCGACAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGGG_106",
+            "AAUGGAUUUUUCGGGCAGG",
+            "ENSG00000136450",
+            "UCGGGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_162",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000136450",
+            "UGGAGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_174",
+            "AAUGGAUUUUUGGUGCAGG",
+            "ENSG00000136450",
+            "UGGUGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAAG_5",
+            "AAUGGAUUUUUGAAGCAGG",
+            "ENSG00000136450",
+            "UGAAGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGA_40",
+            "AAUGGAUUUUUAGGACAGG",
+            "ENSG00000136450",
+            "AGGACA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_34",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000136450",
+            "AGAGCAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAAC_129",
+            "AAUGGAUUUUUGAACCAGG",
+            "ENSG00000136450",
+            "UGAACCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CAGA_72",
+            "AAUGGAUUUUUCAGACAGG",
+            "ENSG00000136450",
+            "CAGACAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGCA_100",
+            "AAUGGAUUUUUCGCACAGG",
+            "ENSG00000136450",
+            "UCGCACA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_9",
+            "AAUGGAUUUUUGGUGCAGG",
+            "ENSG00000136450",
+            "UGGUGCA"
+        ]
+    ],
+    "ENSG00000112081": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAU_10",
+            "AAUGGAUUUUUGGAUCAGG",
+            "ENSG00000112081",
+            "GAUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CACC_69",
+            "AAUGGAUUUUUCACCCAGG",
+            "ENSG00000112081",
+            "UUCAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACAU_19",
+            "AAUGGAUUUUUACAUCAGG",
+            "ENSG00000112081",
+            "CAUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAU_35",
+            "AAUGGAUUUUUAGAUCAGG",
+            "ENSG00000112081",
+            "GAUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACGA_24",
+            "AAUGGAUUUUUACGACAGG",
+            "ENSG00000112081",
+            "UUACGAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CAUC_77",
+            "AAUGGAUUUUUCAUCCAGG",
+            "ENSG00000112081",
+            "UCAUC"
+        ]
+    ],
+    "ENSG00000100650": [
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCG_86",
+            "AAUGGAUUUUUCCCGCAGG",
+            "ENSG00000100650",
+            "GCAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000100650",
+            "ACAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUGG_122",
+            "AAUGGAUUUUUCUGGCAGG",
+            "ENSG00000100650",
+            "UCUGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000100650",
+            "GCAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCAG_146",
+            "AAUGGAUUUUUGCAGCAGG",
+            "ENSG00000100650",
+            "GCAGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACGG_26",
+            "AAUGGAUUUUUACGGCAGG",
+            "ENSG00000100650",
+            "ACGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACAC_17",
+            "AAUGGAUUUUUACACCAGG",
+            "ENSG00000100650",
+            "ACACC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCGG_154",
+            "AAUGGAUUUUUGCGGCAGG",
+            "ENSG00000100650",
+            "UGCGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCAU_147",
+            "AAUGGAUUUUUGCAUCAGG",
+            "ENSG00000100650",
+            "UGCAUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000100650",
+            "GCAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCAG_6",
+            "AAUGGAUUUUUGCAGCAGG",
+            "ENSG00000100650",
+            "UGCAGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACGU_27",
+            "AAUGGAUUUUUACGUCAGG",
+            "ENSG00000100650",
+            "UACGUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCG_86",
+            "AAUGGAUUUUUCCCGCAGG",
+            "ENSG00000100650",
+            "CCGCAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCGC_89",
+            "AAUGGAUUUUUCCGCCAGG",
+            "ENSG00000100650",
+            "UCCGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACCG_22",
+            "AAUGGAUUUUUACCGCAGG",
+            "ENSG00000100650",
+            "CCGCAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCUG_158",
+            "AAUGGAUUUUUGCUGCAGG",
+            "ENSG00000100650",
+            "GCUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACUG_30",
+            "AAUGGAUUUUUACUGCAGG",
+            "ENSG00000100650",
+            "ACUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAA_11",
+            "AAUGGAUUUUUGGAACAGG",
+            "ENSG00000100650",
+            "ACAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACAG_18",
+            "AAUGGAUUUUUACAGCAGG",
+            "ENSG00000100650",
+            "ACAGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCGU_155",
+            "AAUGGAUUUUUGCGUCAGG",
+            "ENSG00000100650",
+            "UGCGUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACGG_26",
+            "AAUGGAUUUUUACGGCAGG",
+            "ENSG00000100650",
+            "UACGGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCAG_146",
+            "AAUGGAUUUUUGCAGCAGG",
+            "ENSG00000100650",
+            "UGCAGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACAU_19",
+            "AAUGGAUUUUUACAUCAGG",
+            "ENSG00000100650",
+            "UACAUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGGG_106",
+            "AAUGGAUUUUUCGGGCAGG",
+            "ENSG00000100650",
+            "UCGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACCG_22",
+            "AAUGGAUUUUUACCGCAGG",
+            "ENSG00000100650",
+            "ACCGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCAG_6",
+            "AAUGGAUUUUUGCAGCAGG",
+            "ENSG00000100650",
+            "GCAGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAG_2",
+            "AAUGGAUUUUUAAAGCAGG",
+            "ENSG00000100650",
+            "GCAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACAG_18",
+            "AAUGGAUUUUUACAGCAGG",
+            "ENSG00000100650",
+            "UACAGC"
+        ]
+    ],
+    "ENSG00000138385": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000138385",
+            "AUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000138385",
+            "UUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000138385",
+            "UUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCUG_158",
+            "AAUGGAUUUUUGCUGCAGG",
+            "ENSG00000138385",
+            "UGCUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000138385",
+            "AUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000138385",
+            "UUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000138385",
+            "UUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000138385",
+            "AUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000138385",
+            "AUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000138385",
+            "UUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000138385",
+            "AUUU"
+        ]
+    ],
+    "ENSG00000152795": [
+        [
+            ">miRNA_Homo sapiens_GGAG_ACUG_30",
+            "AAUGGAUUUUUACUGCAGG",
+            "ENSG00000152795",
+            "ACUGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GUAG_5",
+            "AAUGGAUUUUUGGAGUAGG",
+            "ENSG00000152795",
+            "AGUAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUCG_182",
+            "AAUGGAUUUUUGUCGCAGG",
+            "ENSG00000152795",
+            "UGUCGC"
+        ]
+    ],
+    "ENSG00000177733": [
+        [
+            ">miRNA_Homo sapiens_GCAG_GUAG_178",
+            "AAUGGAUUUUUGGAGUAGG",
+            "ENSG00000177733",
+            "AGUAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_UUUA_252",
+            "AAUGGAUUUUUGGAUUUAG",
+            "ENSG00000177733",
+            "AUUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GUAG_5",
+            "AAUGGAUUUUUGGAGUAGG",
+            "ENSG00000177733",
+            "AGUAGG"
+        ]
+    ],
+    "ENSG00000071626": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000071626",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000071626",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GUAG_5",
+            "AAUGGAUUUUUGGAGUAGG",
+            "ENSG00000071626",
+            "AGUAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000071626",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000071626",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAA_32",
+            "AAUGGAUUUUUAGAACAGG",
+            "ENSG00000071626",
+            "AGAAC"
+        ]
+    ],
+    "ENSG00000138668": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGA_40",
+            "AAUGGAUUUUUAGGACAGG",
+            "ENSG00000138668",
+            "UUAGGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_34",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000138668",
+            "UUAGAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000138668",
+            "UUAGAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGG_42",
+            "AAUGGAUUUUUAGGGCAGG",
+            "ENSG00000138668",
+            "UUAGGG"
+        ]
+    ],
+    "ENSG00000122566": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AUAG_50",
+            "AAUGGAUUUUUAUAGCAGG",
+            "ENSG00000122566",
+            "AUAGCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GUAG_5",
+            "AAUGGAUUUUUGGAGUAGG",
+            "ENSG00000122566",
+            "AGUAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UAGA_200",
+            "AAUGGAUUUUUUAGACAGG",
+            "ENSG00000122566",
+            "UAGACA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUAA_48",
+            "AAUGGAUUUUUAUAACAGG",
+            "ENSG00000122566",
+            "UUUAUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAA_32",
+            "AAUGGAUUUUUAGAACAGG",
+            "ENSG00000122566",
+            "AGAAC"
+        ]
+    ],
+    "ENSG00000137200": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAU_35",
+            "AAUGGAUUUUUAGAUCAGG",
+            "ENSG00000137200",
+            "GAUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAU_10",
+            "AAUGGAUUUUUGGAUCAGG",
+            "ENSG00000137200",
+            "GAUC"
+        ]
+    ],
+    "ENSG00000065978": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAA_32",
+            "AAUGGAUUUUUAGAACAGG",
+            "ENSG00000065978",
+            "AGAAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACAA_16",
+            "AAUGGAUUUUUACAACAGG",
+            "ENSG00000065978",
+            "ACAAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACAC_17",
+            "AAUGGAUUUUUACACCAGG",
+            "ENSG00000065978",
+            "CACC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAU_10",
+            "AAUGGAUUUUUGGAUCAGG",
+            "ENSG00000065978",
+            "GAUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAU_35",
+            "AAUGGAUUUUUAGAUCAGG",
+            "ENSG00000065978",
+            "GAUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACAU_19",
+            "AAUGGAUUUUUACAUCAGG",
+            "ENSG00000065978",
+            "CAUC"
+        ]
+    ],
+    "ENSG00000131914": [
+        [
+            ">miRNA_Homo sapiens_GCAG_GGGA_168",
+            "AAUGGAUUUUUGGAGGGAG",
+            "ENSG00000131914",
+            "UGGAGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GGAG_4",
+            "AAUGGAUUUUUGGAGGAGG",
+            "ENSG00000131914",
+            "UGGAGGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GGAA_160",
+            "AAUGGAUUUUUGGAGGAAG",
+            "ENSG00000131914",
+            "UGGAGGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GAAA_128",
+            "AAUGGAUUUUUGGAGAAAG",
+            "ENSG00000131914",
+            "UGGAGAA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GUAG_5",
+            "AAUGGAUUUUUGGAGUAGG",
+            "ENSG00000131914",
+            "UGGAGUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GUAA_176",
+            "AAUGGAUUUUUGGAGUAAG",
+            "ENSG00000131914",
+            "UGGAGUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GGGC_169",
+            "AAUGGAUUUUUGGAGGGCG",
+            "ENSG00000131914",
+            "UGGAGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GAAG_6",
+            "AAUGGAUUUUUGGAGAAGG",
+            "ENSG00000131914",
+            "UGGAGAA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GGGG_170",
+            "AAUGGAUUUUUGGAGGGGG",
+            "ENSG00000131914",
+            "UGGAGGG"
+        ]
+    ],
+    "ENSG00000106344": [
+        [
+            ">miRNA_Homo sapiens_GCAG_GUAG_178",
+            "AAUGGAUUUUUGGAGUAGG",
+            "ENSG00000106344",
+            "GAGUAGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GUAG_5",
+            "AAUGGAUUUUUGGAGUAGG",
+            "ENSG00000106344",
+            "GAGUAGG"
+        ]
+    ],
+    "ENSG00000136527": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAA_32",
+            "AAUGGAUUUUUAGAACAGG",
+            "ENSG00000136527",
+            "AGAAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAA_32",
+            "AAUGGAUUUUUAGAACAGG",
+            "ENSG00000136527",
+            "AGAA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CAAC_65",
+            "AAUGGAUUUUUCAACCAGG",
+            "ENSG00000136527",
+            "UCAAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GAAG_6",
+            "AAUGGAUUUUUGGAGAAGG",
+            "ENSG00000136527",
+            "AGAA"
+        ]
+    ],
+    "ENSG00000104626": [
+        [
+            ">miRNA_Homo sapiens_GGAG_CAGA_72",
+            "AAUGGAUUUUUCAGACAGG",
+            "ENSG00000104626",
+            "UUUCAGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GCCG_7",
+            "AAUGGAUUUUUGGAGCCGG",
+            "ENSG00000104626",
+            "AGCC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAGC_9",
+            "AAUGGAUUUUUAAGCCAGG",
+            "ENSG00000104626",
+            "AGCC"
+        ]
+    ],
+    "ENSG00000063244": [
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000063244",
+            "UUUUUCC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCU_247",
+            "AAUGGAUUUUUUUCUCAGG",
+            "ENSG00000063244",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCUC_221",
+            "AAUGGAUUUUUUCUCCAGG",
+            "ENSG00000063244",
+            "UUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCAG_210",
+            "AAUGGAUUUUUUCAGCAGG",
+            "ENSG00000063244",
+            "UUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000063244",
+            "UUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUG_254",
+            "AAUGGAUUUUUUUUGCAGG",
+            "ENSG00000063244",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000063244",
+            "UUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGAG_0",
+            "AAUGGAUUUUUGGAGCAGG",
+            "ENSG00000063244",
+            "UUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAG_242",
+            "AAUGGAUUUUUUUAGCAGG",
+            "ENSG00000063244",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCCU_215",
+            "AAUGGAUUUUUUCCUCAGG",
+            "ENSG00000063244",
+            "UUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCAA_80",
+            "AAUGGAUUUUUCCAACAGG",
+            "ENSG00000063244",
+            "UUUUUCC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCUA_220",
+            "AAUGGAUUUUUUCUACAGG",
+            "ENSG00000063244",
+            "UUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000063244",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGGG_170",
+            "AAUGGAUUUUUGGGGCAGG",
+            "ENSG00000063244",
+            "UUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000063244",
+            "UUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000063244",
+            "UUUUU"
+        ]
+    ],
+    "ENSG00000078328": [
+        [
+            ">miRNA_Homo sapiens_GCAG_GCAU_147",
+            "AAUGGAUUUUUGGAGCAUG",
+            "ENSG00000078328",
+            "AGCAUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GCAG_GCAU_10",
+            "AAUGGAUUUUUGGAGCAUG",
+            "ENSG00000078328",
+            "AGCAUG"
+        ]
+    ],
+    "ENSG00000107105": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GAAA_128",
+            "AAUGGAUUUUUGAAACAGG",
+            "ENSG00000107105",
+            "GAAA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000107105",
+            "AUUUUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUU_191",
+            "AAUGGAUUUUUGUUUCAGG",
+            "ENSG00000107105",
+            "GUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CAAA_64",
+            "AAUGGAUUUUUCAAACAGG",
+            "ENSG00000107105",
+            "AUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CUUU_127",
+            "AAUGGAUUUUUCUUUCAGG",
+            "ENSG00000107105",
+            "CUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000107105",
+            "AUUUUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AUUU_63",
+            "AAUGGAUUUUUAUUUCAGG",
+            "ENSG00000107105",
+            "AUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000107105",
+            "AUUUUUUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGAG_3",
+            "AAUGGAUUUUUCGAGCAGG",
+            "ENSG00000107105",
+            "AUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000107105",
+            "AUUUUUC"
+        ]
+    ],
+    "ENSG00000125970": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UGCC_229",
+            "AAUGGAUUUUUUGCCCAGG",
+            "ENSG00000125970",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000125970",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000125970",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCCC_213",
+            "AAUGGAUUUUUUCCCCAGG",
+            "ENSG00000125970",
+            "UUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCAA_208",
+            "AAUGGAUUUUUUCAACAGG",
+            "ENSG00000125970",
+            "UUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000125970",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAA_224",
+            "AAUGGAUUUUUUGAACAGG",
+            "ENSG00000125970",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000125970",
+            "UUUUUUG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000125970",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000125970",
+            "UUUUUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000125970",
+            "UUUUUUU"
+        ]
+    ],
+    "ENSG00000113742": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UAAA_192",
+            "AAUGGAUUUUUUAAACAGG",
+            "ENSG00000113742",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCCC_213",
+            "AAUGGAUUUUUUCCCCAGG",
+            "ENSG00000113742",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000113742",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000113742",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000113742",
+            "UUUUUU"
+        ]
+    ],
+    "ENSG00000214575": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000214575",
+            "UUUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000214575",
+            "UUUUA"
+        ]
+    ],
+    "ENSG00000157349": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000157349",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000157349",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000157349",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000157349",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000157349",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCCC_213",
+            "AAUGGAUUUUUUCCCCAGG",
+            "ENSG00000157349",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000157349",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000157349",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UAAA_192",
+            "AAUGGAUUUUUUAAACAGG",
+            "ENSG00000157349",
+            "UUUUUU"
+        ]
+    ],
+    "ENSG00000141543": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000141543",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCCC_213",
+            "AAUGGAUUUUUUCCCCAGG",
+            "ENSG00000141543",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000141543",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UAAA_192",
+            "AAUGGAUUUUUUAAACAGG",
+            "ENSG00000141543",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000141543",
+            "UUUUUU"
+        ]
+    ],
+    "ENSG00000121774": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UAAA_192",
+            "AAUGGAUUUUUUAAACAGG",
+            "ENSG00000121774",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000121774",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UCCC_213",
+            "AAUGGAUUUUUUCCCCAGG",
+            "ENSG00000121774",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGAG_1",
+            "AAUGGAUUUUUUGAGCAGG",
+            "ENSG00000121774",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000121774",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000121774",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000121774",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000121774",
+            "UUUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000121774",
+            "UUAAAA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UGGG_234",
+            "AAUGGAUUUUUUGGGCAGG",
+            "ENSG00000121774",
+            "UUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAA_0",
+            "AAUGGAUUUUUAAAACAGG",
+            "ENSG00000121774",
+            "UUUUA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACCG_22",
+            "AAUGGAUUUUUACCGCAGG",
+            "ENSG00000121774",
+            "UUUUAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000121774",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAAU_3",
+            "AAUGGAUUUUUAAAUCAGG",
+            "ENSG00000121774",
+            "UUAAAU"
+        ]
+    ],
+    "ENSG00000169564": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000169564",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGA_40",
+            "AAUGGAUUUUUAGGACAGG",
+            "ENSG00000169564",
+            "UUAGGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000169564",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000169564",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000169564",
+            "UUAGAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000169564",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_34",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000169564",
+            "UUAGAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGG_42",
+            "AAUGGAUUUUUAGGGCAGG",
+            "ENSG00000169564",
+            "UUAGGG"
+        ]
+    ],
+    "ENSG00000197111": [
+        [
+            ">miRNA_Homo sapiens_GGAG_UCCC_213",
+            "AAUGGAUUUUUUCCCCAGG",
+            "ENSG00000197111",
+            "UCCCCA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUGG_250",
+            "AAUGGAUUUUUUUGGCAGG",
+            "ENSG00000197111",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_2",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000197111",
+            "UUAGAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGAG_34",
+            "AAUGGAUUUUUAGAGCAGG",
+            "ENSG00000197111",
+            "UUAGAG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGG_42",
+            "AAUGGAUUUUUAGGGCAGG",
+            "ENSG00000197111",
+            "UUAGGG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUCC_245",
+            "AAUGGAUUUUUUUCCCAGG",
+            "ENSG00000197111",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUAA_240",
+            "AAUGGAUUUUUUUAACAGG",
+            "ENSG00000197111",
+            "UUUUUUU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCU_87",
+            "AAUGGAUUUUUCCCUCAGG",
+            "ENSG00000197111",
+            "CCCU"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGGA_40",
+            "AAUGGAUUUUUAGGACAGG",
+            "ENSG00000197111",
+            "UUAGGA"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000197111",
+            "UUUUUUU"
+        ]
+    ],
+    "ENSG00000135870": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AUUU_63",
+            "AAUGGAUUUUUAUUUCAGG",
+            "ENSG00000135870",
+            "UUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_UUUU_255",
+            "AAUGGAUUUUUUUUUCAGG",
+            "ENSG00000135870",
+            "UUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCCC_85",
+            "AAUGGAUUUUUCCCCCAGG",
+            "ENSG00000135870",
+            "UUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GUUU_191",
+            "AAUGGAUUUUUGUUUCAGG",
+            "ENSG00000135870",
+            "UUUC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGAG_3",
+            "AAUGGAUUUUUCGAGCAGG",
+            "ENSG00000135870",
+            "UUUC"
+        ]
+    ],
+    "ENSG00000160710": [
+        [
+            ">miRNA_Homo sapiens_GGAG_AGCG_38",
+            "AAUGGAUUUUUAGCGCAGG",
+            "ENSG00000160710",
+            "GCGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGCG_102",
+            "AAUGGAUUUUUCGCGCAGG",
+            "ENSG00000160710",
+            "GCGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGCG_7",
+            "AAUGGAUUUUUGGCGCAGG",
+            "ENSG00000160710",
+            "GCGC"
+        ]
+    ],
+    "ENSG00000135829": [
+        [
+            ">miRNA_Homo sapiens_GGAG_GGCG_7",
+            "AAUGGAUUUUUGGCGCAGG",
+            "ENSG00000135829",
+            "GCGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGCG_102",
+            "AAUGGAUUUUUCGCGCAGG",
+            "ENSG00000135829",
+            "GCGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGCG_102",
+            "AAUGGAUUUUUCGCGCAGG",
+            "ENSG00000135829",
+            "CGCG"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGCG_38",
+            "AAUGGAUUUUUAGCGCAGG",
+            "ENSG00000135829",
+            "GCGC"
+        ]
+    ],
+    "ENSG00000083896": [
+        [
+            ">miRNA_Homo sapiens_GGAG_ACUA_28",
+            "AAUGGAUUUUUACUACAGG",
+            "ENSG00000083896",
+            "UACUAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAUG_14",
+            "AAUGGAUUUUUAAUGCAGG",
+            "ENSG00000083896",
+            "UAAUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCUG_158",
+            "AAUGGAUUUUUGCUGCAGG",
+            "ENSG00000083896",
+            "UGCUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAUA_140",
+            "AAUGGAUUUUUGAUACAGG",
+            "ENSG00000083896",
+            "UGAUAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GCUA_156",
+            "AAUGGAUUUUUGCUACAGG",
+            "ENSG00000083896",
+            "UGCUAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_174",
+            "AAUGGAUUUUUGGUGCAGG",
+            "ENSG00000083896",
+            "UGGUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_ACUG_30",
+            "AAUGGAUUUUUACUGCAGG",
+            "ENSG00000083896",
+            "UACUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCUA_92",
+            "AAUGGAUUUUUCCUACAGG",
+            "ENSG00000083896",
+            "UCCUAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CCUG_94",
+            "AAUGGAUUUUUCCUGCAGG",
+            "ENSG00000083896",
+            "UCCUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AAUA_12",
+            "AAUGGAUUUUUAAUACAGG",
+            "ENSG00000083896",
+            "UAAUAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGUG_46",
+            "AAUGGAUUUUUAGUGCAGG",
+            "ENSG00000083896",
+            "UAGUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CAUG_78",
+            "AAUGGAUUUUUCAUGCAGG",
+            "ENSG00000083896",
+            "UCAUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUA_172",
+            "AAUGGAUUUUUGGUACAGG",
+            "ENSG00000083896",
+            "UGGUAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GGUG_9",
+            "AAUGGAUUUUUGGUGCAGG",
+            "ENSG00000083896",
+            "UGGUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGUG_110",
+            "AAUGGAUUUUUCGUGCAGG",
+            "ENSG00000083896",
+            "UCGUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_GAUG_142",
+            "AAUGGAUUUUUGAUGCAGG",
+            "ENSG00000083896",
+            "UGAUGC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CGUA_108",
+            "AAUGGAUUUUUCGUACAGG",
+            "ENSG00000083896",
+            "UCGUAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_CAUA_76",
+            "AAUGGAUUUUUCAUACAGG",
+            "ENSG00000083896",
+            "UCAUAC"
+        ],
+        [
+            ">miRNA_Homo sapiens_GGAG_AGUA_44",
+            "AAUGGAUUUUUAGUACAGG",
+            "ENSG00000083896",
+            "UAGUAC"
+        ]
+    ]
+}
